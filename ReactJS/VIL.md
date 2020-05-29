@@ -82,5 +82,15 @@
 	https://github.com/facebook/prop-types
 
 
-	
+##########################################################################################################
+
+
+
+# REACTJS - SWITCH
+
+# Require Default Case in Switch Statements (default-case)
+	https://eslint.org/docs/rules/default-case
+
+
+##########################################################################################################
 
