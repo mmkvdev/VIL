@@ -138,3 +138,28 @@
 
 
 ##########################################################################################################
+
+
+# NAVBAR - ROUTER
+
+# StackOverflow question on How to hide Nav bar in some react components
+	https://stackoverflow.com/questions/53097610/how-to-hide-nav-bar-in-some-react-components
+
+# StackOverFlow Question - How to display a Route by default with React-Router
+	https://stackoverflow.com/questions/34163617/how-to-display-a-route-by-default-with-react-router
+
+# Nested Routes
+	https://tylermcginnis.com/react-router-nested-routes/
+
+# WithRouter StackOverflow
+	https://stackoverflow.com/questions/53539314/what-is-withrouter-for-in-react-router-dom
+
+# REACT-ROUTER TRAINING - OFFICIAL DOCS
+	https://reacttraining.com/react-router/web/api/Switch
+
+
+
+
+##########################################################################################################
+
+
