@@ -295,3 +295,12 @@
 
 
 ###########################################################################################################
+
+# Functional Components 
+
+# LogRocket - 3 advantages of React functional components on an eCommerce site
+	https://blog.logrocket.com/react-functional-components-3-advantages-and-why-you-should-use-them-a570c83adb5e/
+
+
+
+###########################################################################################################
