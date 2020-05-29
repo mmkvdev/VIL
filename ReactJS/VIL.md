@@ -205,3 +205,22 @@
 
 
 ##########################################################################################################
+
+
+# REACT API
+
+# HOW TO CONSUME A RESTFUL API IN REACT
+	https://pusher.com/tutorials/consume-restful-api-react
+
+# REQUEST HEADER DOC
+	https://developer.mozilla.org/en-US/docs/Web/API/REQUEST
+
+# Blog on Callback, Promises and Async
+	https://scotch.io/courses/10-need-to-know-javascript-concepts/callbacks-promises-and-async
+
+# StackOverflow - React JS - How to authenticate credentials via a fetch statement
+	https://stackoverflow.com/questions/50275723/react-js-how-to-authenticate-credentials-via-a-fetch-statement
+
+
+
+###########################################################################################################
