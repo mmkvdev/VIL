@@ -304,3 +304,18 @@
 
 
 ###########################################################################################################
+
+
+
+# REACT - DESTRUCTURING
+
+# Mozilla Web Docs Destructuring
+	https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Array_destructuring
+
+# XOR Swap Algorithm
+	https://en.wikipedia.org/wiki/XOR_swap_algorithm
+
+
+
+
+
