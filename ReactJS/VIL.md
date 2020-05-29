@@ -224,3 +224,22 @@
 
 
 ###########################################################################################################
+
+# REDUX THUNK 
+
+# Normalized Data Merge (Shallow and Merge)
+	https://redux.js.org/recipes/structuring-reducers/updating-normalized-data
+
+# REDUX ORM
+	https://redux.js.org/recipes/structuring-reducers/updating-normalized-data#redux-orm
+
+# REDUX THUNK MIDDLEWARE OFFICIAL DOCS
+	https://redux.js.org/advanced/middleware#attempt-5-removing-monkeypatching
+
+# REDUX THUNK ASYNC ACTION CREATORS
+	https://redux.js.org/advanced/async-actions#async-action-creators
+
+
+
+
+###########################################################################################################
