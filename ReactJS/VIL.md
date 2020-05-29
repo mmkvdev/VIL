@@ -171,3 +171,37 @@
 
 
 ##########################################################################################################
+
+
+# REDUX HOOKS
+	
+# React-Redux Hooks: useSelector and useDispatch
+	https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd
+
+# Hook Overview
+	https://reactjs.org/docs/hooks-overview.html
+
+# Custom Hooks
+	https://reactjs.org/docs/hooks-custom.html
+
+# Hook Rules
+	https://reactjs.org/docs/hooks-rules.html
+
+# Using the State Hook
+	https://reactjs.org/docs/hooks-state.html
+
+# Hooks FAQ
+	https://reactjs.org/docs/hooks-faq.html#what-do-hooks-mean-for-popular-apis-like-redux-connect-and-react-router
+
+# Hook Explanation
+	https://reactjs.org/docs/hooks-rules.html#explanation
+
+# HOOK API DOCS
+	https://react-redux.js.org/api/hooks
+
+# LifeCycle Hooks
+	https://www.newline.co/fullstack-react/30-days-of-react/day-7/
+
+
+
+##########################################################################################################
