@@ -94,3 +94,35 @@
 
 ##########################################################################################################
 
+
+
+# REDUX
+
+# Medium Blog on Redux CRUD example
+	https://codeburst.io/redux-a-crud-example-abb834d763c9
+
+# TroubleShooting
+	https://redux.js.org/troubleshooting
+
+# Redux: Updating the State with the Fetched Data 
+	https://egghead.io/lessons/javascript-redux-updating-the-state-with-the-fetched-data
+
+# Google Search on Updating Existing State in Redux
+	https://www.google.com/search?q=updating+existing+state+in+redux&oq=updating+existing+state+in+redux&aqs=chrome..69i57.6404j0j1&sourceid=chrome&ie=UTF-8
+
+
+# REDUX ACTIONS
+	https://redux.js.org/basics/actions
+
+# REDUX FLUX
+	http://facebook.github.io/flux/docs/overview/
+
+# REDUX DATAFLOW
+	https://redux.js.org/basics/data-flow
+
+# HOOK API DOCS
+	https://react-redux.js.org/api/hooks
+
+
+
+##########################################################################################################
