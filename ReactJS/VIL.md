@@ -113,6 +113,8 @@
 # Google Search on Updating Existing State in Redux
 	https://www.google.com/search?q=updating+existing+state+in+redux&oq=updating+existing+state+in+redux&aqs=chrome..69i57.6404j0j1&sourceid=chrome&ie=UTF-8
 
+# Redux Hooks
+	https://react-redux.js.org/api/hooks#removed-useactions
 
 # REDUX ACTIONS
 	https://redux.js.org/basics/actions
