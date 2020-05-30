@@ -157,6 +157,9 @@
 # REACT-ROUTER TRAINING - OFFICIAL DOCS
 	https://reacttraining.com/react-router/web/api/Switch
 
+# REACT-ROUTER TRAINING - LOCATION 
+	https://reacttraining.com/react-router/web/api/location
+
 
 
 
