@@ -144,6 +144,9 @@
 # Pure Function - Medium blog
 	https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c
 
+# Book - Pure Function
+	https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/ch3.html
+
 
 ##########################################################################################################
 
