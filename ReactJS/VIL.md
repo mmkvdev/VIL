@@ -149,6 +149,10 @@
 # Book - Pure Function
 	https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/ch3.html
 
+# Monkey Patching
+	https://www.audero.it/blog/2016/12/05/monkey-patching-javascript/
+
+
 
 ##########################################################################################################
 
