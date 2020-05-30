@@ -301,6 +301,9 @@
 # LogRocket - 3 advantages of React functional components on an eCommerce site
 	https://blog.logrocket.com/react-functional-components-3-advantages-and-why-you-should-use-them-a570c83adb5e/
 
+# ReactJS lifecycle method inside a function Component
+	https://stackoverflow.com/questions/44506207/reactjs-lifecycle-method-inside-a-function-component
+
 
 
 ###########################################################################################################
