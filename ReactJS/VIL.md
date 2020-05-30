@@ -141,7 +141,8 @@
 # Blog on JS datatypes 
 	https://www.tutorialrepublic.com/javascript-tutorial/javascript-data-types.php
 
-
+# Pure Function - Medium blog
+	https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c
 
 
 ##########################################################################################################
