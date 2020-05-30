@@ -131,6 +131,8 @@
 # Medium Blog - Step By Step Guide for building React-Redux Apps
 	https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a
 
+# ownProps - StackOverflow
+	What is ownProps in react-redux?
 
 ##########################################################################################################
 
