@@ -98,6 +98,9 @@
 
 # REDUX
 
+# Redux Intro - Official Docs
+	https://redux.js.org/introduction/examples
+
 # Medium Blog on Redux CRUD example
 	https://codeburst.io/redux-a-crud-example-abb834d763c9
 
