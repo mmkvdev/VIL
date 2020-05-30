@@ -313,6 +313,8 @@
 # Official Docs
 	https://emotion.sh/docs/introduction
 
+# Styling a react app using Emotion CSS in JS library - An introduction to Emotion
+	https://learnwithparam.com/blog/styling-react-app-using-emotion-css-in-js-library/
 
 
 
