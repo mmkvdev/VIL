@@ -289,6 +289,9 @@
 # SENTRY
 	https://sentry.io/welcome/
 
+# Google Search on Sentry
+	https://www.google.com/search?client=ubuntu&channel=fs&q=sentry+for+ubuntu&ie=utf-8&oe=utf-8
+
 
 
 
