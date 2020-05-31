@@ -273,6 +273,10 @@
 # REDUX THUNK ASYNC ACTION CREATORS
 	https://redux.js.org/advanced/async-actions#async-action-creators
 
+# REDUX THUNK state Update
+	https://www.google.com/search?client=ubuntu&channel=fs&q=editing+the+state+value+and+updating+using+redux+thunk&ie=utf-8&oe=utf-8
+
+
 
 
 
