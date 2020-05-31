@@ -384,3 +384,6 @@
 
 # React Forms
 	https://reactjs.org/docs/forms.html
+
+# preventDefault in React Forms
+	https://www.robinwieruch.de/react-preventdefault
