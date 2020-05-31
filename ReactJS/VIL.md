@@ -387,3 +387,6 @@
 
 # preventDefault in React Forms
 	https://www.robinwieruch.de/react-preventdefault
+
+# Handling User Input in React - CRUD
+	https://medium.com/the-andela-way/handling-user-input-in-react-crud-1396e51a70bf
