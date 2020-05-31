@@ -353,3 +353,6 @@
 
 # Official Repo of Deno Land
 	https://github.com/denoland
+
+# Google Search on Deno Land
+	https://www.google.com/search?client=ubuntu&channel=fs&q=deno&ie=utf-8&oe=utf-8
