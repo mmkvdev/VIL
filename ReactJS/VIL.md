@@ -183,6 +183,9 @@
 # React Router Training - HISTORY
 	https://reacttraining.com/react-router/web/api/history
 
+# Stack Overflow - How to pass params with history.push/Link/Redirect in react-router v4?
+	https://stackoverflow.com/questions/44121069/how-to-pass-params-with-history-push-link-redirect-in-react-router-v4
+
 
 
 
