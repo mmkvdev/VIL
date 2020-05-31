@@ -337,6 +337,9 @@
 # ReactJS lifecycle method inside a function Component
 	https://stackoverflow.com/questions/44506207/reactjs-lifecycle-method-inside-a-function-component
 
+# Functional Programming Forms
+	https://nestedsoftware.com/2018/10/02/forms-in-react-a-functional-programming-primer-183.52688.html
+
 
 
 ###########################################################################################################
