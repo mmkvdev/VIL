@@ -222,7 +222,8 @@
 # LifeCycle Hooks
 	https://www.newline.co/fullstack-react/30-days-of-react/day-7/
 
-
+# Google Search on useDispatch in every component
+	https://www.google.com/search?client=ubuntu&channel=fs&q=do+I+need+to+use+useDispatch+in+every+component&ie=utf-8&oe=utf-8
 
 ##########################################################################################################
 
