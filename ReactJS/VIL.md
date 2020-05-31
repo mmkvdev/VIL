@@ -177,6 +177,9 @@
 # REACT-ROUTER TRAINING - LOCATION 
 	https://reacttraining.com/react-router/web/api/location
 
+# React Router Hooks
+	https://css-tricks.com/the-hooks-of-react-router/
+
 
 
 
@@ -224,6 +227,10 @@
 
 # Google Search on useDispatch in every component
 	https://www.google.com/search?client=ubuntu&channel=fs&q=do+I+need+to+use+useDispatch+in+every+component&ie=utf-8&oe=utf-8
+
+
+# React Router Hooks
+	https://css-tricks.com/the-hooks-of-react-router/
 
 ##########################################################################################################
 
