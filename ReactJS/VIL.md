@@ -363,3 +363,12 @@
 
 # Google Search on Deno Land
 	https://www.google.com/search?client=ubuntu&channel=fs&q=deno&ie=utf-8&oe=utf-8
+
+
+###########################################################################################################
+
+
+# REACTJS - CORE
+
+# State Manipulation
+	https://www.sitepoint.com/work-with-and-manipulate-state-in-react/
