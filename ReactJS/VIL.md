@@ -180,6 +180,9 @@
 # React Router Hooks
 	https://css-tricks.com/the-hooks-of-react-router/
 
+# React Router Training - HISTORY
+	https://reacttraining.com/react-router/web/api/history
+
 
 
 
