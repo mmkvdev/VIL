@@ -381,3 +381,6 @@
 
 # State Manipulation
 	https://www.sitepoint.com/work-with-and-manipulate-state-in-react/
+
+# React Forms
+	https://reactjs.org/docs/forms.html
