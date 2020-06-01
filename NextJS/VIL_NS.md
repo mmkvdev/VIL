@@ -8,3 +8,6 @@
 
 # GIT - NextJS Github Discussions
 	https://github.com/vercel/next.js/discussions
+
+# Learn NextJS - Editing a Page
+	https://nextjs.org/learn/basics/create-nextjs-app/editing-the-page
