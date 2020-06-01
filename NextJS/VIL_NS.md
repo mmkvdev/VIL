@@ -5,3 +5,6 @@
 	
 # NextJS- Official Docs
 	https://nextjs.org/docs/getting-started
+
+# GIT - NextJS Github Discussions
+	https://github.com/vercel/next.js/discussions
