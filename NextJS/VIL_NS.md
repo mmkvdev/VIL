@@ -14,3 +14,6 @@
 
 # Learn NextJS - Navigate Between Pages
 	https://nextjs.org/learn/basics/navigate-between-pages
+
+# Routing - NextJS
+	https://nextjs.org/docs/routing/introduction
