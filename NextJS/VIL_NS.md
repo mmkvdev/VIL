@@ -20,3 +20,6 @@
 
 # NextJS - Pages
 	https://nextjs.org/docs/basic-features/pages
+
+# NextJS- Dynamic Routes
+	https://nextjs.org/docs/routing/dynamic-routes
