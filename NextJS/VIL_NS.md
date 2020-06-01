@@ -11,3 +11,6 @@
 
 # Learn NextJS - Editing a Page
 	https://nextjs.org/learn/basics/create-nextjs-app/editing-the-page
+
+# Learn NextJS - Navigate Between Pages
+	https://nextjs.org/learn/basics/navigate-between-pages
