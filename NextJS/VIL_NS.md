@@ -23,3 +23,6 @@
 
 # NextJS- Dynamic Routes
 	https://nextjs.org/docs/routing/dynamic-routes
+
+# NextJS - Case Study Hulu
+	https://nextjs.org/case-studies/hulu
