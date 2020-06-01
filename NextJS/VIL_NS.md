@@ -17,3 +17,6 @@
 
 # Routing - NextJS
 	https://nextjs.org/docs/routing/introduction
+
+# NextJS - Pages
+	https://nextjs.org/docs/basic-features/pages
