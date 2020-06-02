@@ -32,3 +32,6 @@
 
 # NextJS - Fast Refresh
 	https://nextjs.org/blog/next-9-4#fast-refresh
+
+# NextJS - Pages with Dynamic Routes
+	https://nextjs.org/docs/basic-features/pages#pages-with-dynamic-routes
