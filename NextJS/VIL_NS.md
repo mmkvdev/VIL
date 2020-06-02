@@ -35,3 +35,6 @@
 
 # NextJS - Pages with Dynamic Routes
 	https://nextjs.org/docs/basic-features/pages#pages-with-dynamic-routes
+
+# NextJS - Catch All Routes
+	https://github.com/vercel/next.js/tree/canary/examples/catch-all-routes
