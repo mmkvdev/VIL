@@ -38,3 +38,6 @@
 
 # NextJS - Catch All Routes
 	https://github.com/vercel/next.js/tree/canary/examples/catch-all-routes
+
+# NextJS - Dynamic Routes - `next/link`
+	https://nextjs.org/docs/api-reference/next/link#dynamic-routes
