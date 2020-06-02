@@ -30,6 +30,9 @@
 # NextJS - Data Fetching
 	https://nextjs.org/docs/basic-features/data-fetching
 
+# NextJS - Data Fetching Github
+	https://github.com/vercel/next.js/tree/master/examples/data-fetch
+
 # NextJS - Fast Refresh
 	https://nextjs.org/blog/next-9-4#fast-refresh
 
