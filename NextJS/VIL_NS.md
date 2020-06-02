@@ -26,3 +26,6 @@
 
 # NextJS - Case Study Hulu
 	https://nextjs.org/case-studies/hulu
+
+# NextJS - Data Fetching
+	https://nextjs.org/docs/basic-features/data-fetching
