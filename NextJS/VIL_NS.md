@@ -41,3 +41,6 @@
 
 # NextJS - Dynamic Routes - `next/link`
 	https://nextjs.org/docs/api-reference/next/link#dynamic-routes
+
+# NextJS -Styled Components
+	https://styled-components.com/
