@@ -29,3 +29,6 @@
 
 # NextJS - Data Fetching
 	https://nextjs.org/docs/basic-features/data-fetching
+
+# NextJS - Fast Refresh
+	https://nextjs.org/blog/next-9-4#fast-refresh
