@@ -13,3 +13,5 @@
 ### [List Comprehension](https://www.programiz.com/python-programming/list-comprehension)
 
 ### [Lambda Functions](https://www.programiz.com/python-programming/anonymous-function)
+
+### [Populate list or tuple from callable or lambda in python](https://stackoverflow.com/questions/8703999/populate-list-or-tuple-from-callable-or-lambda-in-python)
