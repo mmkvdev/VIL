@@ -17,3 +17,5 @@
 ### [BST_INTRO](https://www.geeksforgeeks.org/binary-tree-data-structure/#Introduction)
 
 ### [BST_SET1](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/)
+
+### [BST_SET2](https://www.geeksforgeeks.org/binary-tree-set-2-properties/)
