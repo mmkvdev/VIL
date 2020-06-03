@@ -15,3 +15,5 @@
 ### [DFS_WIKI](https://en.wikipedia.org/wiki/Depth-first_search)
 
 ### [BST_INTRO](https://www.geeksforgeeks.org/binary-tree-data-structure/#Introduction)
+
+### [BST_SET1](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/)
