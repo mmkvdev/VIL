@@ -9,3 +9,5 @@
 ### [Remove Duplicates from List](https://careerkarma.com/blog/python-remove-duplicates-from-list/)
 
 ### [Sets In Python](https://www.geeksforgeeks.org/sets-in-python/)
+
+### [List Comprehension](https://www.programiz.com/python-programming/list-comprehension)
