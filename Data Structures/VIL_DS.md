@@ -1,0 +1,1 @@
+### [BST](https://www.geeksforgeeks.org/binary-tree-data-structure/)
