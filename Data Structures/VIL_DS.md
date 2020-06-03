@@ -11,3 +11,5 @@
 ### [BST_LEVEL_ORDER_TREE_TRAVERSAL](https://www.geeksforgeeks.org/level-order-tree-traversal/)
 
 ### [BFS_WIKI](https://en.wikipedia.org/wiki/Breadth-first_search)
+
+### [DFS_WIKI](https://en.wikipedia.org/wiki/Depth-first_search)
