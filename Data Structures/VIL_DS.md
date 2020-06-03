@@ -21,3 +21,5 @@
 ### [BST_SET2](https://www.geeksforgeeks.org/binary-tree-set-2-properties/)
 
 ### [BST_SET3](https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/)
+
+### [HandShakingLemma and Interesting Properties](https://www.geeksforgeeks.org/handshaking-lemma-and-interesting-tree-properties/)
