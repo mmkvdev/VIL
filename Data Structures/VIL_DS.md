@@ -19,3 +19,5 @@
 ### [BST_SET1](https://www.geeksforgeeks.org/binary-tree-set-1-introduction/)
 
 ### [BST_SET2](https://www.geeksforgeeks.org/binary-tree-set-2-properties/)
+
+### [BST_SET3](https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/)
