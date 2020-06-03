@@ -15,3 +15,6 @@
 ### [Lambda Functions](https://www.programiz.com/python-programming/anonymous-function)
 
 ### [Populate list or tuple from callable or lambda in python](https://stackoverflow.com/questions/8703999/populate-list-or-tuple-from-callable-or-lambda-in-python)
+
+### [Multiple statements in list compherensions in Python?](https://stackoverflow.com/questions/774876/multiple-statements-in-list-compherensions-in-python)
+
