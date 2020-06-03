@@ -7,3 +7,5 @@
 ### [sorted](https://www.programiz.com/python-programming/methods/built-in/sorted)
 
 ### [Remove Duplicates from List](https://careerkarma.com/blog/python-remove-duplicates-from-list/)
+
+### [Sets In Python](https://www.geeksforgeeks.org/sets-in-python/)
