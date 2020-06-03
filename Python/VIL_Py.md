@@ -11,3 +11,5 @@
 ### [Sets In Python](https://www.geeksforgeeks.org/sets-in-python/)
 
 ### [List Comprehension](https://www.programiz.com/python-programming/list-comprehension)
+
+### [Lambda Functions](https://www.programiz.com/python-programming/anonymous-function)
