@@ -18,3 +18,4 @@
 
 ### [Multiple statements in list compherensions in Python?](https://stackoverflow.com/questions/774876/multiple-statements-in-list-compherensions-in-python)
 
+### [Python List Reverse](https://www.geeksforgeeks.org/python-list-reverse/#:~:text=reverse()%20is%20an%20inbuilt,objects%20of%20list%20in%20place.&text=Returns%3A,given%20object%20from%20the%20list.)
