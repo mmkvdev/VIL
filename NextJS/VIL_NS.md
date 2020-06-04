@@ -47,3 +47,5 @@
 ### NextJS - [getServerSideProps res](https://nodejs.org/api/http.html#http_class_http_serverresponse)
 
 ### NextJS - [Advanced Features - Preview Mode](https://nodejs.org/api/http.html#http_class_http_serverresponse)
+
+### NextJS - [GoogleSearch CDN](https://stackoverflow.com/questions/41604263/how-to-display-local-image-in-markdown)
