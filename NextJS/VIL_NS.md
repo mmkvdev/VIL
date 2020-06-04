@@ -33,3 +33,5 @@
 ### NextJS - [Styled Components](https://styled-components.com/)
 
 ### NextJS - [Next Router](https://nextjs.org/docs/api-reference/next/router)
+
+### NextJS - [Automatic Static Optimization](https://nextjs.org/docs/advanced-features/automatic-static-optimization)
