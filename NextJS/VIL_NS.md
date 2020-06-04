@@ -35,3 +35,5 @@
 ### NextJS - [Next Router](https://nextjs.org/docs/api-reference/next/router)
 
 ### NextJS - [Automatic Static Optimization](https://nextjs.org/docs/advanced-features/automatic-static-optimization)
+
+### NextJS - [Server Side Rendering](https://nextjs.org/docs/basic-features/pages#server-side-rendering)
