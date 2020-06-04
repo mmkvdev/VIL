@@ -44,4 +44,6 @@
 
 ### NextJS - [getServerSideProps req](https://nodejs.org/api/http.html#http_class_http_incomingmessage)
 
-### NextJS = [getServerSideProps res](https://nodejs.org/api/http.html#http_class_http_serverresponse)
+### NextJS - [getServerSideProps res](https://nodejs.org/api/http.html#http_class_http_serverresponse)
+
+### NextJS - [Advanced Features - Preview Mode](https://nodejs.org/api/http.html#http_class_http_serverresponse)
