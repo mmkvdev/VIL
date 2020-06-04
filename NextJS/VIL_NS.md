@@ -37,3 +37,5 @@
 ### NextJS - [Automatic Static Optimization](https://nextjs.org/docs/advanced-features/automatic-static-optimization)
 
 ### NextJS - [Server Side Rendering](https://nextjs.org/docs/basic-features/pages#server-side-rendering)
+
+### NextJS - [Only On Server Side Render](https://nextjs.org/docs/basic-features/data-fetching#only-runs-on-server-side)
