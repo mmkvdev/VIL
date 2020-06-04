@@ -39,3 +39,5 @@
 ### NextJS - [Server Side Rendering](https://nextjs.org/docs/basic-features/pages#server-side-rendering)
 
 ### NextJS - [Only On Server Side Render](https://nextjs.org/docs/basic-features/data-fetching#only-runs-on-server-side)
+
+### NextJS - [Data Fetch On Client Side](https://nextjs.org/docs/basic-features/data-fetching#fetching-data-on-the-client-side)
