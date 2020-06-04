@@ -41,3 +41,5 @@
 ### NextJS - [Only On Server Side Render](https://nextjs.org/docs/basic-features/data-fetching#only-runs-on-server-side)
 
 ### NextJS - [Data Fetch On Client Side](https://nextjs.org/docs/basic-features/data-fetching#fetching-data-on-the-client-side)
+
+### NextSJ - [getServerSideProps req](https://nodejs.org/api/http.html#http_class_http_incomingmessage)
