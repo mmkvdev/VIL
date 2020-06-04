@@ -3,3 +3,5 @@
 ### [Why docker container exits immediately](https://stackoverflow.com/questions/28212380/why-docker-container-exits-immediately)
 
 ### [Dockerize a Node Application](https://buddy.works/guides/how-dockerize-node-application)
+
+### ['npm install' in a Dockerfile is not installing all my dependencies.](https://github.com/nodejs/docker-node/issues/1005)
