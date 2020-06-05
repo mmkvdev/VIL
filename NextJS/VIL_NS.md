@@ -57,3 +57,5 @@
 ### NextJS - [React Refresh](https://github.com/facebook/react/tree/master/packages/react-refresh)
 
 ### NextJS - [Working With NextJS](https://ghost.org/docs/api/v3/nextjs/)
+
+### NextJS - [Shallow Routing](https://nextjs.org/docs/routing/shallow-routing)
