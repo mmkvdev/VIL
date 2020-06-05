@@ -55,3 +55,5 @@
 ### NextJS - [HeadLless-CMS Storyblok](https://www.storyblok.com/tp/headless-cms-explained)
 
 ### NextJS - [React Refresh](https://github.com/facebook/react/tree/master/packages/react-refresh)
+
+### NextJS - [Working With NextJS](https://ghost.org/docs/api/v3/nextjs/)
