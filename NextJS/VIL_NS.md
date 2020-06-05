@@ -51,3 +51,5 @@
 ### NextJS - [GoogleSearch CDN](https://stackoverflow.com/questions/41604263/how-to-display-local-image-in-markdown)
 
 ### NextJS - [Headless-CMS](https://www.google.com/search?sxsrf=ALeKk0132cpP-E1QZWYTfVEeuFdXaKF85A%3A1591368619211&ei=q1vaXurMDNGW4-EP9Yq2yA8&q=headless-cms+js&oq=headless-cms+js&gs_lcp=CgZwc3ktYWIQAzIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgQIABBHOgQIIxAnOgIIADoECAAQHlDjFFjDGmC5G2gAcAF4AIABeogB8gGSAQMwLjKYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiqzoSK9urpAhVRyzgGHXWFDfkQ4dUDCAw&uact=5)
+
+### NextJS - [HeadLless-CMS Storyblok](https://www.storyblok.com/tp/headless-cms-explained)
