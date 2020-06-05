@@ -59,3 +59,5 @@
 ### NextJS - [Working With NextJS](https://ghost.org/docs/api/v3/nextjs/)
 
 ### NextJS - [Shallow Routing](https://nextjs.org/docs/routing/shallow-routing)
+
+### NextJS - [Gist on React Hooks](https://gist.github.com/Ifmr24/3761a1510513d48c1b9613a6aacd4fc4)
