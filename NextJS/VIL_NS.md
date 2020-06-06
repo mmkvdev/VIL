@@ -63,3 +63,5 @@
 ### NextJS - [Gist on React Hooks](https://gist.github.com/Ifmr24/3761a1510513d48c1b9613a6aacd4fc4)
 
 ### NextJS - [NextJS YT](https://www.youtube.com/watch?v=KC7j3DtOnYE&t=1490s)
+
+### NextJS - [SWR](https://swr.now.sh/)
