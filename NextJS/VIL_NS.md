@@ -65,3 +65,5 @@
 ### NextJS - [NextJS YT](https://www.youtube.com/watch?v=KC7j3DtOnYE&t=1490s)
 
 ### NextJS - [SWR](https://swr.now.sh/)
+
+### NextJS - [BootsWatch](https://bootswatch.com/)
