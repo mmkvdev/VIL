@@ -204,6 +204,8 @@
 
 # REDUX HOOKS
 	
+### React Hooks
+	https://reacttraining.com/blog/react-router-v5-1/
 # React-Redux Hooks: useSelector and useDispatch
 	https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd
 
