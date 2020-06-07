@@ -21,3 +21,5 @@
 ### [Python List Reverse](https://www.geeksforgeeks.org/python-list-reverse/#:~:text=reverse()%20is%20an%20inbuilt,objects%20of%20list%20in%20place.&text=Returns%3A,given%20object%20from%20the%20list.)
 
 ### [Python List Insert](https://www.programiz.com/python-programming/methods/list/insert)
+
+### [Python Numpy zeros](https://www.w3resource.com/numpy/array-creation/zeros.php#:~:text=The%20zeros()%20function%20is,and%20type%2C%20filled%20with%20zeros.&text=Shape%20of%20the%20new%20array,2%2C%203)%20or%202.&text=The%20desired%20data%2Dtype%20for,int8.)
