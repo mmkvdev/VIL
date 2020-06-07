@@ -73,3 +73,5 @@
 ### NextJS - [urlObject #withRouter](https://nextjs.org/docs/api-reference/next/router#with-url-object)
 
 ### NextJS - [next/router #useRouter](https://nextjs.org/docs/api-reference/next/router#userouter)
+
+### NextJS - [next/router gitdocs](https://github.com/vercel/next.js/tree/canary/examples/using-router)
