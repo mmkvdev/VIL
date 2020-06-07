@@ -77,3 +77,5 @@
 ### NextJS - [next/router gitdocs](https://github.com/vercel/next.js/tree/canary/examples/using-router)
 
 ### NextJS - [getStaticProps StaticGeneration](https://nextjs.org/docs/basic-features/data-fetching#getstaticprops-static-generation)
+
+### NextJS - [NEXTJS REDUX](https://dev.to/waqasabbasi/server-side-rendered-app-with-next-js-react-and-redux-38gf)
