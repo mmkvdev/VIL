@@ -67,3 +67,5 @@
 ### NextJS - [SWR](https://swr.now.sh/)
 
 ### NextJS - [BootsWatch](https://bootswatch.com/)
+
+### NextJS - [next/router #withRouter](https://nextjs.org/docs/api-reference/next/router#withrouter)
