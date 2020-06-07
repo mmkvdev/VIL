@@ -241,6 +241,7 @@
 	https://reactjs.org/docs/hooks-effect.html
 
 ### ComponentDidMount React
+	https://reactjs.org/docs/react-component.html#componentdidmount
 
 ##########################################################################################################
 
