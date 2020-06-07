@@ -14,3 +14,5 @@
 ### [What is “Developer Program Member” on Github.com](https://stackoverflow.com/questions/28255341/what-is-developer-program-member-on-github-com)
 
 ### [Developer Program Guide](https://developer.github.com/v3/guides/)
+
+### [GIT Credential Helper](https://manpages.ubuntu.com/manpages/trusty/man1/git-credential-store.1.html)
