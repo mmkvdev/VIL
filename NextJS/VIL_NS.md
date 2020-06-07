@@ -69,3 +69,5 @@
 ### NextJS - [BootsWatch](https://bootswatch.com/)
 
 ### NextJS - [next/router #withRouter](https://nextjs.org/docs/api-reference/next/router#withrouter)
+
+### NextJS - [urlObject #withRouter](https://nextjs.org/docs/api-reference/next/router#with-url-object)
