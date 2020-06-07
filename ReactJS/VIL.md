@@ -238,6 +238,9 @@
 # React Router Hooks
 	https://css-tricks.com/the-hooks-of-react-router/
 
+# Using useEffect Hook
+	https://reactjs.org/docs/hooks-effect.html
+
 ##########################################################################################################
 
 
