@@ -89,3 +89,5 @@
 ### NextJS - [Static File Routing](https://nextjs.org/docs/basic-features/static-file-serving)
 
 ### NextJS - [Apex-Domain](https://vercel.com/docs/v2/platform/glossary#apex-domain)
+
+### NextJS - [Router Object](https://nextjs.org/docs/api-reference/next/router#router-object)
