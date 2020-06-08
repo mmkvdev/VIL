@@ -95,3 +95,5 @@
 ### NextJS - [Router API](https://nextjs.org/docs/api-reference/next/router#router-api)
 
 ### NextJS - [Router Push](https://nextjs.org/docs/api-reference/next/router#routerpush)
+
+### NextJS - [getStaticPaths](https://nextjs.org/docs/basic-features/data-fetching#getstaticpaths-static-generation)
