@@ -111,3 +111,5 @@
 ### NextJS - [styledjsx](https://github.com/vercel/styled-jsx)
 
 ### NextJS - [cssmodules](https://github.com/css-modules/css-modules)
+
+### NextJS - [Adding a Global StyleSheet](https://nextjs.org/docs/basic-features/built-in-css-support#adding-a-global-stylesheet)
