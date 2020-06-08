@@ -81,3 +81,5 @@
 ### NextJS - [NEXTJS REDUX](https://dev.to/waqasabbasi/server-side-rendered-app-with-next-js-react-and-redux-38gf)
 
 ### NextJS - [Headless CMS](https://techterms.com/definition/cms)
+
+### NextJS - [Global CSS](https://nextjs.org/learn/basics/assets-metadata-css/global-styles)
