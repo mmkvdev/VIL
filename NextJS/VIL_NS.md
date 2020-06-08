@@ -99,3 +99,5 @@
 ### NextJS - [getStaticPaths](https://nextjs.org/docs/basic-features/data-fetching#getstaticpaths-static-generation)
 
 ### NextJS - [getServerSideProps](https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering)
+
+### NextJS - [Static Generation - Scenario2 - Page Paths depend on external data](https://nextjs.org/docs/basic-features/pages#scenario-2-your-page-paths-depend-on-external-data)
