@@ -85,3 +85,5 @@
 ### NextJS - [Global CSS](https://nextjs.org/learn/basics/assets-metadata-css/global-styles)
 
 ### NextJS - [with-emotion](https://github.com/vercel/next.js/tree/canary/examples/with-emotion)
+
+### NextJS - [Static File Routing](https://nextjs.org/docs/basic-features/static-file-serving)
