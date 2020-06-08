@@ -98,6 +98,8 @@
 
 # REDUX
 
+### Redux [ServerSide](https://github.com/vercel/swr)
+
 # Redux Intro - Official Docs
 	https://redux.js.org/introduction/examples
 
