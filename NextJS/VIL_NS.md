@@ -87,3 +87,5 @@
 ### NextJS - [with-emotion](https://github.com/vercel/next.js/tree/canary/examples/with-emotion)
 
 ### NextJS - [Static File Routing](https://nextjs.org/docs/basic-features/static-file-serving)
+
+### NextJS - [Apex-Domain](https://vercel.com/docs/v2/platform/glossary#apex-domain)
