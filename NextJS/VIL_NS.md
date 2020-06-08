@@ -93,3 +93,5 @@
 ### NextJS - [Router Object](https://nextjs.org/docs/api-reference/next/router#router-object)
 
 ### NextJS - [Router API](https://nextjs.org/docs/api-reference/next/router#router-api)
+
+### NextJS - [Router Push](https://nextjs.org/docs/api-reference/next/router#routerpush)
