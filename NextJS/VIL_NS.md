@@ -91,3 +91,5 @@
 ### NextJS - [Apex-Domain](https://vercel.com/docs/v2/platform/glossary#apex-domain)
 
 ### NextJS - [Router Object](https://nextjs.org/docs/api-reference/next/router#router-object)
+
+### NextJS - [Router API](https://nextjs.org/docs/api-reference/next/router#router-api)
