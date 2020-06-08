@@ -97,3 +97,5 @@
 ### NextJS - [Router Push](https://nextjs.org/docs/api-reference/next/router#routerpush)
 
 ### NextJS - [getStaticPaths](https://nextjs.org/docs/basic-features/data-fetching#getstaticpaths-static-generation)
+
+### NextJS - [getServerSideProps](https://nextjs.org/docs/basic-features/data-fetching#getserversideprops-server-side-rendering)
