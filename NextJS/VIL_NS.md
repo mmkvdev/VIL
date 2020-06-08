@@ -10,7 +10,7 @@
 
 ### Learn NextJS - [Navigate Between Pages](https://nextjs.org/learn/basics/navigate-between-pages)
 
-### [Routing - NextJS](https://nextjs.org/docs/routing/introduction)
+### Routing - [NextJS](https://nextjs.org/docs/routing/introduction)
 
 ### NextJS - [Pages](https://nextjs.org/docs/basic-features/pages)
 
@@ -83,3 +83,5 @@
 ### NextJS - [Headless CMS](https://techterms.com/definition/cms)
 
 ### NextJS - [Global CSS](https://nextjs.org/learn/basics/assets-metadata-css/global-styles)
+
+### NextJS - [with-emotion](https://github.com/vercel/next.js/tree/canary/examples/with-emotion)
