@@ -103,3 +103,5 @@
 ### NextJS - [Static Generation - Scenario1 - Page Paths depend on external data](https://nextjs.org/docs/basic-features/pages#scenario-1-your-page-content-depends-on-external-data)
 
 ### NextJS - [Static Generation - Scenario2 - Page Paths depend on external data](https://nextjs.org/docs/basic-features/pages#scenario-2-your-page-paths-depend-on-external-data)
+
+### NextJS - [`next/head`](https://nextjs.org/docs/api-reference/next/head)
