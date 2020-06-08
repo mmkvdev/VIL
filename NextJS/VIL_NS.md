@@ -109,3 +109,5 @@
 ### NextJS - [`next/head`](https://nextjs.org/docs/api-reference/next/head)
 
 ### NextJS - [styledjsx](https://github.com/vercel/styled-jsx)
+
+### NextJS - [cssmodules](https://github.com/css-modules/css-modules)
