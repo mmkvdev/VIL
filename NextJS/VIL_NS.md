@@ -131,3 +131,5 @@
 ### NextJS - [API Routes Intro](https://nextjs.org/docs/api-routes/dynamic-api-routes)
 
 ### NextJS - [API Routes git](https://nextjs.org/docs/api-routes/dynamic-api-routes)
+
+### NextJS - [Deploying with Custom Serverless Next.js Routing](https://vercel.com/guides/custom-next-js-server-to-routes)
