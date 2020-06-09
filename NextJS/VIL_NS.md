@@ -117,3 +117,5 @@
 ### NextJS - [GITHUB - SWR](https://github.com/vercel/swr)
 
 ### NextJS - [Using Next.js useRouter to pull title props not working](https://stackoverflow.com/questions/58601046/using-next-js-userouter-to-pull-title-props-not-working)
+
+### NextJS - [Static Optimization Indicatior](https://nextjs.org/docs/api-reference/next.config.js/static-optimization-indicator)
