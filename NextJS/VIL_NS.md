@@ -115,3 +115,5 @@
 ### NextJS - [Adding a Global StyleSheet](https://nextjs.org/docs/basic-features/built-in-css-support#adding-a-global-stylesheet)
 
 ### NextJS - [GITHUB - SWR](https://github.com/vercel/swr)
+
+### NextJS - [Using Next.js useRouter to pull title props not working](https://stackoverflow.com/questions/58601046/using-next-js-userouter-to-pull-title-props-not-working)
