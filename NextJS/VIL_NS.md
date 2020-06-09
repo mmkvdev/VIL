@@ -127,3 +127,5 @@
 ### NextJS - [Custom Server](https://nextjs.org/docs/advanced-features/custom-server)
 
 ### NextJS - [Dynamic API Routes](https://nextjs.org/docs/api-routes/dynamic-api-routes)
+
+### NextJS - [API Routes Intro](https://nextjs.org/docs/api-routes/dynamic-api-routes)
