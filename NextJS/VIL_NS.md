@@ -135,3 +135,5 @@
 ### NextJS - [Deploying with Custom Serverless Next.js Routing](https://vercel.com/guides/custom-next-js-server-to-routes)
 
 ### NextJS - [Response Helpers](https://nextjs.org/docs/api-routes/response-helpers)
+
+### NextJS - [NextJS MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
