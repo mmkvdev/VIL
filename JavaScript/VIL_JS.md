@@ -6,3 +6,5 @@
 
 
 ### JS - [CMS](https://en.wikipedia.org/wiki/Content_management_system)
+
+### JS - [MetalMania Fonts](https://fonts.google.com/specimen/Metal+Mania?sidebar.open&selection.family=Metal+Mania#standard-styles)
