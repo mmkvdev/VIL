@@ -119,3 +119,5 @@
 ### NextJS - [Using Next.js useRouter to pull title props not working](https://stackoverflow.com/questions/58601046/using-next-js-userouter-to-pull-title-props-not-working)
 
 ### NextJS - [Static Optimization Indicatior](https://nextjs.org/docs/api-reference/next.config.js/static-optimization-indicator)
+
+### NextJS - [useDispatch() Error: Could not find react-redux context value; please ensure the component is wrapped in a <Provider>](https://stackoverflow.com/questions/60329421/usedispatch-error-could-not-find-react-redux-context-value-please-ensure-the)
