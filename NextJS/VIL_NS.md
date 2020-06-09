@@ -123,3 +123,5 @@
 ### NextJS - [useDispatch() Error: Could not find react-redux context value; please ensure the component is wrapped in a <Provider>](https://stackoverflow.com/questions/60329421/usedispatch-error-could-not-find-react-redux-context-value-please-ensure-the)
 
 ### NextJS - [unable to use applyMiddleWare in redux](https://stackoverflow.com/questions/50617486/unable-to-use-applymiddleware-in-redux)
+
+### NextJS - [Custom Server](https://nextjs.org/docs/advanced-features/custom-server)
