@@ -308,6 +308,8 @@
 # Adding Sass to Create React App Applications
 	https://scotch.io/starters/react/adding-sass-to-create-react-app-applications
 
+### [Types and Styles in React Button component](https://ej2.syncfusion.com/react/documentation/button/types-and-styles/)
+
 
 
 
