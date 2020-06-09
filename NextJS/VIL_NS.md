@@ -125,3 +125,5 @@
 ### NextJS - [unable to use applyMiddleWare in redux](https://stackoverflow.com/questions/50617486/unable-to-use-applymiddleware-in-redux)
 
 ### NextJS - [Custom Server](https://nextjs.org/docs/advanced-features/custom-server)
+
+### NextJS - [Dynamic API Routes](https://nextjs.org/docs/api-routes/dynamic-api-routes)
