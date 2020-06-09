@@ -137,3 +137,5 @@
 ### NextJS - [Response Helpers](https://nextjs.org/docs/api-routes/response-helpers)
 
 ### NextJS - [NextJS MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
+
+### NextJS - [NextJS Redux Thunk](https://github.com/vercel/next.js/tree/master/examples/with-redux-thunk)
