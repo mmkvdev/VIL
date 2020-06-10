@@ -423,3 +423,5 @@
 
 
 ### ReactJS - [9 Ways To Implement CSS in React JS](https://medium.com/@dmitrynozhenko/9-ways-to-implement-css-in-react-js-ccea4d543aa3)
+
+### ReactJS - [Update an Item in a List in React](https://www.robinwieruch.de/react-update-item-in-list)
