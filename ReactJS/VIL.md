@@ -427,3 +427,5 @@
 ### ReactJS - [Update an Item in a List in React](https://www.robinwieruch.de/react-update-item-in-list)
 
 ### REDUX - [Redux Update Patterns](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns/)
+
+### React Hooks - [How can I rerender my redux state after triggering an action with hooks?](https://stackoverflow.com/questions/59599611/how-can-i-rerender-my-redux-state-after-triggering-an-action-with-hooks)
