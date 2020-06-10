@@ -213,10 +213,11 @@
 ##########################################################################################################
 
 
-# REDUX HOOKS
+### REDUX HOOKS
 	
-### React Hooks
-	https://reacttraining.com/blog/react-router-v5-1/
+### [React Hooks](https://reacttraining.com/blog/react-router-v5-1/)
+
+### React Hooks - [State management using only React Hooks](https://blog.logrocket.com/state-management-using-only-react-hooks/)
 # React-Redux Hooks: useSelector and useDispatch
 	https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd
 
