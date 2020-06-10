@@ -16,3 +16,5 @@
 ### JS - [Button Styles - Give Button and Text on the same line and text to be center of button](https://stackoverflow.com/questions/38889121/give-button-and-text-on-the-same-line-and-text-to-be-center-of-button)
 
 ### JS - [HeadlessCMSYT](https://www.youtube.com/watch?v=U5_H9cD17gA)
+
+### JS - [console table](https://developer.mozilla.org/en-US/docs/Web/API/Console/table)
