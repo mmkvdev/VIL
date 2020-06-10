@@ -12,3 +12,5 @@
 ### JS - [Piedra Fonts](https://fonts.google.com/specimen/Piedra?sidebar.open&selection.family=Piedra#standard-styles)
 
 ### JS - [Balsamiq Sans](https://fonts.google.com/specimen/Balsamiq+Sans?sidebar.open&selection.family=Balsamiq+Sans|Piedra#standard-styles)
+
+### JS - [Button Styles - Give Button and Text on the same line and text to be center of button](https://stackoverflow.com/questions/38889121/give-button-and-text-on-the-same-line-and-text-to-be-center-of-button)
