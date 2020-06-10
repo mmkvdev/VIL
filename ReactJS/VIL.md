@@ -100,6 +100,8 @@
 
 ### Redux [ServerSide](https://github.com/vercel/swr)
 
+### Redux [Implementation with React Hooks](https://thoughtbot.com/blog/using-redux-with-react-hooks)
+
 # Redux Intro - Official Docs
 	https://redux.js.org/introduction/examples
 
