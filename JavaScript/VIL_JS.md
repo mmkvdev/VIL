@@ -20,3 +20,5 @@
 ### JS - [console table](https://developer.mozilla.org/en-US/docs/Web/API/Console/table)
 
 ### JS - [Response Headers](https://developer.mozilla.org/en-US/docs/Web/API/Response/headers)
+
+### JS - [JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
