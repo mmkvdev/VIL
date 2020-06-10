@@ -139,3 +139,5 @@
 ### NextJS - [NextJS MongoDB](https://developer.mongodb.com/how-to/nextjs-building-modern-applications)
 
 ### NextJS - [NextJS Redux Thunk](https://github.com/vercel/next.js/tree/master/examples/with-redux-thunk)
+
+### NextJS - [React FontAwesome](https://www.npmjs.com/package/react-fontawesome)
