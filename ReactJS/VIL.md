@@ -161,7 +161,10 @@
 ##########################################################################################################
 
 
-# NAVBAR - ROUTER
+### REACT ROUTER
+
+### Router - [How to push to History in React Router v4?](https://stackoverflow.com/questions/42701129/how-to-push-to-history-in-react-router-v4)
+
 
 # StackOverflow question on How to hide Nav bar in some react components
 	https://stackoverflow.com/questions/53097610/how-to-hide-nav-bar-in-some-react-components
