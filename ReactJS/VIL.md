@@ -34,6 +34,8 @@
 
 ### JEST - [How to Install Jest to test React Components](http://parseobjects.com/how-to-install-jest/)
 
+
+### JEST - [Create React App react-scripts package requires a dependency: "babel-jest": "^24.9.0 #28](https://github.com/creativetimofficial/argon-dashboard-react/issues/28)
 # StackOverflow Solution for shallow enzyme adapter issue
 	https://stackoverflow.com/questions/50222545/enzyme-expects-an-adapter-to-be-configured
 
