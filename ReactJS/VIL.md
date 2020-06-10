@@ -429,3 +429,5 @@
 ### REDUX - [Redux Update Patterns](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns/)
 
 ### React Hooks - [How can I rerender my redux state after triggering an action with hooks?](https://stackoverflow.com/questions/59599611/how-can-i-rerender-my-redux-state-after-triggering-an-action-with-hooks)
+
+### React - [useEffect STO issue - How to fix missing dependency warning when using useEffect React Hook?](https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook)
