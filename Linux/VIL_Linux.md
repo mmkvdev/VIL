@@ -13,3 +13,5 @@
 ### Linux - [How to Install Remote Desktop (Xrdp) on Ubuntu 18.04](https://www.e2enetworks.com/help/knowledge-base/how-to-install-remote-desktop-xrdp-on-ubuntu-18-04/)
 
 ### Linux - [TeamViewer Ubuntu](https://linuxize.com/post/how-to-install-teamviewer-on-ubuntu-18-04/)
+
+### Linux - [Linux Terminal Package](https://packagecontrol.io/packages/Terminal)
