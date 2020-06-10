@@ -278,7 +278,7 @@
 
 ###########################################################################################################
 
-# REDUX THUNK 
+### REDUX THUNK 
 
 # Normalized Data Merge (Shallow and Merge)
 	https://redux.js.org/recipes/structuring-reducers/updating-normalized-data
@@ -295,6 +295,7 @@
 # REDUX THUNK state Update
 	https://www.google.com/search?client=ubuntu&channel=fs&q=editing+the+state+value+and+updating+using+redux+thunk&ie=utf-8&oe=utf-8
 
+### [Redux MiddleWare](https://www.newline.co/fullstack-react/30-days-of-react/day-21/)
 
 
 
