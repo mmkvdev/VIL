@@ -30,7 +30,9 @@
 
 
 
-# JEST Unit Testing && Enzyme
+### JEST Unit Testing && Enzyme
+
+### JEST - [How to Install Jest to test React Components](http://parseobjects.com/how-to-install-jest/)
 
 # StackOverflow Solution for shallow enzyme adapter issue
 	https://stackoverflow.com/questions/50222545/enzyme-expects-an-adapter-to-be-configured
