@@ -9,3 +9,5 @@
 ### Linux - [How to Install and Configure VNC on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
 
 ### Linux - [Checking IP Address in Ubuntu](https://itsfoss.com/check-ip-address-ubuntu/)
+
+### Linux - [How to Install Remote Desktop (Xrdp) on Ubuntu 18.04](https://www.e2enetworks.com/help/knowledge-base/how-to-install-remote-desktop-xrdp-on-ubuntu-18-04/)
