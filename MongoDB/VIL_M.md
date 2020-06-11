@@ -44,3 +44,5 @@
 ### MongoDB - [RoboMongo](https://www.youtube.com/watch?v=aPd_4hHxm4A&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=8)
 
 ### MongoDB - [Dropping a Collection](https://www.youtube.com/watch?v=5dhoyoet0Fk&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=9)
+
+### MongoDB - [Finding Records](https://www.youtube.com/watch?v=I-Kt3M8ljSE&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=10)
