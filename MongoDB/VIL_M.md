@@ -20,3 +20,5 @@
 ### MongoDB - [TypeError: done is not a function](https://stackoverflow.com/questions/44314127/typeerror-done-is-not-a-function)
 
 ### MongoDB - [Documents in ES6](https://mongoosejs.com/docs/unstable/docs/harmony.html)
+
+### MongoDB - [Middleware](https://mongoosejs.com/docs/middleware.html)
