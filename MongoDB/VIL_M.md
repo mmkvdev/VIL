@@ -13,3 +13,5 @@
 ### MongoDB - [TypeError: done is not a function ](https://www.freecodecamp.org/forum/t/mongodb-typeerror-done-is-not-a-function/369760)
 
 ### MongoDB - [TypeError: done is not a function when connecting mongodb to app.js (not passport)](https://stackoverflow.com/questions/47425142/typeerror-done-is-not-a-function-when-connecting-mongodb-to-app-js-not-passpor)
+
+### MongoDB - [TypeError: done is not a function #66](https://github.com/jeffbski/redux-logic/issues/66)
