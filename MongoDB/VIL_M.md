@@ -32,3 +32,5 @@
 ### MongoDB - [db-collection-save](https://docs.mongodb.com/manual/reference/method/db.collection.save/)
 
 ### MongoDB - [Connection to MongoDB](https://www.youtube.com/watch?v=oT2HOw3fWp4&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=3)
+
+### MongoDB - [Models and Collections](https://www.youtube.com/watch?v=gmlm7W1PZMA&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=4)
