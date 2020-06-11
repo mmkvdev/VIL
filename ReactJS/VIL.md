@@ -436,4 +436,6 @@
 
 ### React - [create-react-app](https://reactjs.org/blog/2016/07/22/create-apps-with-no-configuration.html)
 
-### React - [Emotion](https://emotion.sh/docs/ssr)
+### React - [Emotion SSR](https://emotion.sh/docs/ssr)
+
+### React - [Emotion Theming](https://emotion.sh/docs/emotion-theming)
