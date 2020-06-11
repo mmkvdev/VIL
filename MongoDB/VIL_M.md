@@ -11,3 +11,5 @@
 ### MongoDB - [ DeprecationWarning: current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor. #8156 ](https://github.com/Automattic/mongoose/issues/8156)
 
 ### MongoDB - [TypeError: done is not a function ](https://www.freecodecamp.org/forum/t/mongodb-typeerror-done-is-not-a-function/369760)
+
+### MongoDB - [TypeError: done is not a function when connecting mongodb to app.js (not passport)](https://stackoverflow.com/questions/47425142/typeerror-done-is-not-a-function-when-connecting-mongodb-to-app-js-not-passpor)
