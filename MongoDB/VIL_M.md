@@ -30,3 +30,5 @@
 ### MongoDB - [Mongo Guides](https://docs.mongodb.com/guides/?searchProperty=current&query=save)
 
 ### MongoDB - [db-collection-save](https://docs.mongodb.com/manual/reference/method/db.collection.save/)
+
+### MongoDB - [Connection to MongoDB](https://www.youtube.com/watch?v=oT2HOw3fWp4&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=3)
