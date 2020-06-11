@@ -435,3 +435,5 @@
 ### React - [Handling User Input in React — CRUD](https://medium.com/the-andela-way/handling-user-input-in-react-crud-1396e51a70bf)
 
 ### React - [create-react-app](https://reactjs.org/blog/2016/07/22/create-apps-with-no-configuration.html)
+
+### React - [Emotion](https://emotion.sh/docs/ssr)
