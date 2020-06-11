@@ -46,3 +46,5 @@
 ### MongoDB - [Dropping a Collection](https://www.youtube.com/watch?v=5dhoyoet0Fk&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=9)
 
 ### MongoDB - [Finding Records](https://www.youtube.com/watch?v=I-Kt3M8ljSE&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=10)
+
+### MongoDB - [Mongo Core](https://www.mongodb.com/)
