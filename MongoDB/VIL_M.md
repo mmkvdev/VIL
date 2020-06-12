@@ -60,3 +60,5 @@
 ### MongoDB - [Updating Records](https://www.youtube.com/watch?v=Hu3m6gBcrnA&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=13)
 
 ### MongoDB - [Update Operators](https://www.youtube.com/watch?v=DeAWKJJng30&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=14)
+
+### MongoDB - [Relational Data](https://www.youtube.com/watch?v=9JZJsChpwKs&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=15)
