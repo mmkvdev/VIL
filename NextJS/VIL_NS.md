@@ -151,3 +151,5 @@
 ### NextJS - [Exposing Environment Variables to the Browser](https://nextjs.org/docs/basic-features/environment-variables#exposing-environment-variables-to-the-browse)
 
 ### NextJS - [Default Environment Variables](https://nextjs.org/docs/basic-features/environment-variables#default-environment-variables)
+
+### NextJS - [Environmental Variables on Vercel)(https://nextjs.org/docs/basic-features/environment-variables#environment-variables-on-vercel)
