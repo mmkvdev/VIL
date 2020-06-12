@@ -149,3 +149,5 @@
 ### NextJS - [Loading Environmental Variables](https://nextjs.org/docs/basic-features/environment-variables#loading-environment-variables)
 
 ### NextJS - [Exposing Environment Variables to the Browser](https://nextjs.org/docs/basic-features/environment-variables#exposing-environment-variables-to-the-browse)
+
+### NextJS - [Default Environment Variables](https://nextjs.org/docs/basic-features/environment-variables#default-environment-variables)
