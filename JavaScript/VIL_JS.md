@@ -27,3 +27,5 @@
 ### JS - [JavaScript Variables](https://www.w3schools.com/js/js_variables.asp)
 
 ### JS - [JavaScript Spread Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+### JS - [CMS](https://techterms.com/definition/cms)
