@@ -68,3 +68,5 @@
 ### MongoDB - [How I Setup Unit Test for MongoDB using Jest & Mongoose](https://medium.com/javascript-in-plain-english/how-i-setup-unit-test-for-mongodb-using-jest-mongoose-103b772ee164)
 
 ### MongoDB - [NodeJS + MongoDB - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management)
+
+### MongoDB - [Using MongoDB and Mongoose for User Registration, Login and Logout in a Mobile Application](https://dzone.com/articles/using-mongodb-and-mongoose)
