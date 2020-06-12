@@ -74,3 +74,5 @@
 ### MongoDB - [Building a Next.js App With MongoDB](https://thecodebarbarian.com/building-a-nextjs-app-with-mongodb.html)
 
 ### MongoDB - [Manage Database Collections](https://docs.atlas.mongodb.com/data-explorer/databases-collections/)
+
+### MongoDB - [Perform CRUD Operations in Atlas](https://docs.atlas.mongodb.com/data-explorer/)
