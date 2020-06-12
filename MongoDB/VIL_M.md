@@ -66,3 +66,5 @@
 ### MongoDB - [Nesting Sub Documents](https://www.youtube.com/watch?v=1ANDrQrP0uQ&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=16)
 
 ### MongoDB - [How I Setup Unit Test for MongoDB using Jest & Mongoose](https://medium.com/javascript-in-plain-english/how-i-setup-unit-test-for-mongodb-using-jest-mongoose-103b772ee164)
+
+### MongoDB - [NodeJS + MongoDB - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management)
