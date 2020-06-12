@@ -50,3 +50,5 @@
 ### MongoDB - [Mongo Core](https://www.mongodb.com/)
 
 ### MongoDB - [User Auth](https://dev.to/hoangvvo/how-i-build-a-full-fledged-app-with-next-js-and-mongodb-part-1-user-authentication-using-passport-js-4b16)
+
+### MongoDB- [OpenSource Next-Mongo](https://awesomeopensource.com/project/hoangvvo/nextjs-mongodb-app?categoryPage=15)
