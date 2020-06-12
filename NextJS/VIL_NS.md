@@ -141,3 +141,5 @@
 ### NextJS - [NextJS Redux Thunk](https://github.com/vercel/next.js/tree/master/examples/with-redux-thunk)
 
 ### NextJS - [React FontAwesome](https://www.npmjs.com/package/react-fontawesome)
+
+### NextJS - [API MiddleWare](https://nextjs.org/docs/api-routes/api-middlewares)
