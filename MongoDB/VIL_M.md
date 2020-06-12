@@ -70,3 +70,5 @@
 ### MongoDB - [NodeJS + MongoDB - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/14/nodejs-mongodb-simple-api-for-authentication-registration-and-user-management)
 
 ### MongoDB - [Using MongoDB and Mongoose for User Registration, Login and Logout in a Mobile Application](https://dzone.com/articles/using-mongodb-and-mongoose)
+
+### MongoDB - [Building a Next.js App With MongoDB](https://thecodebarbarian.com/building-a-nextjs-app-with-mongodb.html)
