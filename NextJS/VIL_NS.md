@@ -143,3 +143,5 @@
 ### NextJS - [React FontAwesome](https://www.npmjs.com/package/react-fontawesome)
 
 ### NextJS - [API MiddleWare](https://nextjs.org/docs/api-routes/api-middlewares)
+
+### NextJS - [Environmental Variables](https://nextjs.org/docs/basic-features/environment-variables)
