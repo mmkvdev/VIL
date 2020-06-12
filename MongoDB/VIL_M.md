@@ -76,3 +76,5 @@
 ### MongoDB - [Manage Database Collections](https://docs.atlas.mongodb.com/data-explorer/databases-collections/)
 
 ### MongoDB - [Perform CRUD Operations in Atlas](https://docs.atlas.mongodb.com/data-explorer/)
+
+### MongoDB - [Mongo Open Source](http://www.lib4dev.in/info/hoangvvo/nextjs-mongodb-app/201392697)
