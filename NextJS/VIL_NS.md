@@ -145,3 +145,5 @@
 ### NextJS - [API MiddleWare](https://nextjs.org/docs/api-routes/api-middlewares)
 
 ### NextJS - [Environmental Variables](https://nextjs.org/docs/basic-features/environment-variables)
+
+### NextJS - [Loading Environmental Variables](https://nextjs.org/docs/basic-features/environment-variables#loading-environment-variables)
