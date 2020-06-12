@@ -62,3 +62,5 @@
 ### MongoDB - [Update Operators](https://www.youtube.com/watch?v=DeAWKJJng30&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=14)
 
 ### MongoDB - [Relational Data](https://www.youtube.com/watch?v=9JZJsChpwKs&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=15)
+
+### MongoDB - [Nesting Sub Documents](https://www.youtube.com/watch?v=1ANDrQrP0uQ&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=16)
