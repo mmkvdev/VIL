@@ -48,3 +48,5 @@
 ### MongoDB - [Finding Records](https://www.youtube.com/watch?v=I-Kt3M8ljSE&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u&index=10)
 
 ### MongoDB - [Mongo Core](https://www.mongodb.com/)
+
+### MongoDB - [User Auth](https://dev.to/hoangvvo/how-i-build-a-full-fledged-app-with-next-js-and-mongodb-part-1-user-authentication-using-passport-js-4b16)
