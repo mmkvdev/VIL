@@ -72,3 +72,5 @@
 ### MongoDB - [Using MongoDB and Mongoose for User Registration, Login and Logout in a Mobile Application](https://dzone.com/articles/using-mongodb-and-mongoose)
 
 ### MongoDB - [Building a Next.js App With MongoDB](https://thecodebarbarian.com/building-a-nextjs-app-with-mongodb.html)
+
+### MongoDB - [Manage Database Collections](https://docs.atlas.mongodb.com/data-explorer/databases-collections/)
