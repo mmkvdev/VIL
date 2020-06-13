@@ -153,3 +153,5 @@
 ### NextJS - [Default Environment Variables](https://nextjs.org/docs/basic-features/environment-variables#default-environment-variables)
 
 ### NextJS - [Environmental Variables on Vercel)(https://nextjs.org/docs/basic-features/environment-variables#environment-variables-on-vercel)
+
+### NextJS - [Custom App Cavaets](https://nextjs.org/docs/advanced-features/custom-app#caveats)
