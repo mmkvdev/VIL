@@ -114,3 +114,5 @@
 ### MongoDB - [findOneAndDelete](https://docs.mongodb.com/manual/reference/method/db.collection.findOneAndDelete/)
 
 ### MongoDB - [findOneAndModify](https://docs.mongodb.com/manual/reference/method/db.collection.findOneAndDelete/)
+
+### MongoDB - [deleteMany](https://docs.mongodb.com/manual/reference/method/db.collection.deleteMany/)
