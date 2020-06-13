@@ -86,3 +86,5 @@
 ### MongoDB - [find](https://docs.mongodb.com/manual/reference/method/db.collection.find/)
 
 ### MongoDB - [findOne](https://docs.mongodb.com/manual/reference/method/db.collection.findOne/)
+
+### MongoDB - [findOneAndUpdate](https://docs.mongodb.com/manual/reference/method/db.collection.findOneAndUpdate/)
