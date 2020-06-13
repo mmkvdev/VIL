@@ -445,3 +445,5 @@
 ### React - [Semantic UI Open Source](https://github.com/Semantic-Org/Semantic-UI-React)
 
 ### React - [Semantic UI Getting Started](https://react.semantic-ui.com/usage/)
+
+### React [Semantic-UI-React <> Next.js #441](https://github.com/vercel/next.js/issues/441)
