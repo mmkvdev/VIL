@@ -94,3 +94,5 @@
 ### MongoDB - [updateOne](https://docs.mongodb.com/manual/reference/method/db.collection.updateOne/)
 
 ### MongoDB - [updateMany](https://docs.mongodb.com/manual/reference/method/db.collection.updateMany/)
+
+### MongoDB - [watch](https://docs.mongodb.com/manual/reference/method/db.collection.watch/)
