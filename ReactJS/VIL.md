@@ -441,3 +441,5 @@
 ### React - [Emotion Theming](https://emotion.sh/docs/emotion-theming)
 
 ### React - [Semantic UI](https://react.semantic-ui.com/)
+
+### React - [Semantic UI Open Source](https://github.com/Semantic-Org/Semantic-UI-React)
