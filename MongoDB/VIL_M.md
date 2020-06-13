@@ -112,3 +112,5 @@
 ### MongoDB - [insertMany](https://docs.mongodb.com/manual/reference/method/db.collection.insertMany/)
 
 ### MongoDB - [findOneAndDelete](https://docs.mongodb.com/manual/reference/method/db.collection.findOneAndDelete/)
+
+### MongoDB - [findOneAndModify](https://docs.mongodb.com/manual/reference/method/db.collection.findOneAndDelete/)
