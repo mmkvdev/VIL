@@ -98,3 +98,5 @@
 ### MongoDB - [watch](https://docs.mongodb.com/manual/reference/method/db.collection.watch/)
 
 ### MongoDB - [validate](https://docs.mongodb.com/manual/reference/method/db.collection.validate/)
+
+### MongoDB - [stats](https://docs.mongodb.com/manual/reference/method/db.collection.stats/)
