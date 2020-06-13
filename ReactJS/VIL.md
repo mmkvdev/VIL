@@ -443,3 +443,5 @@
 ### React - [Semantic UI](https://react.semantic-ui.com/)
 
 ### React - [Semantic UI Open Source](https://github.com/Semantic-Org/Semantic-UI-React)
+
+### React - [Semantic UI Getting Started](https://react.semantic-ui.com/usage/)
