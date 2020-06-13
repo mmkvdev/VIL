@@ -102,3 +102,5 @@
 ### MongoDB - [stats](https://docs.mongodb.com/manual/reference/method/db.collection.stats/)
 
 ### MongoDB - [replaceOne](https://docs.mongodb.com/manual/reference/method/db.collection.replaceOne/)
+
+### MongoDB - [remove](https://docs.mongodb.com/manual/reference/method/db.collection.remove/)
