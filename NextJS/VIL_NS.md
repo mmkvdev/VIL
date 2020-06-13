@@ -165,3 +165,5 @@
 ### NextJS - [Part3](https://www.youtube.com/watch?v=WSr0GcBF7Ag)
 
 ### NextJS - [Vercel Docs](https://vercel.com/docs/v2/introduction)
+
+### NextJS - [Index and Dynamic API Routes](https://nextjs.org/docs/api-routes/dynamic-api-routes#index-routes-and-dynamic-api-routes)
