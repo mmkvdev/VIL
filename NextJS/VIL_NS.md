@@ -161,3 +161,5 @@
 ### NextJS - [Part1](https://www.youtube.com/watch?v=tt9hws5JGRc)
 
 ### NextJS - [Part2](https://www.youtube.com/watch?v=ahAilJEe-_A)
+
+### NextJS - [Part3](https://www.youtube.com/watch?v=WSr0GcBF7Ag)
