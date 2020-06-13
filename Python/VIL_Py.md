@@ -29,3 +29,5 @@
 ### [Python - String Contains](https://www.afternerd.com/blog/python-string-contains/)
 
 ### Python -[Itertools Combinations](https://www.hackerrank.com/challenges/itertools-combinations/problem#:~:text=itertools.combinations(iterable%2C%20r,be%20produced%20in%20sorted%20order.)
+
+### Python - [Nested List Comprehensions](https://www.geeksforgeeks.org/nested-list-comprehensions-in-python/)
