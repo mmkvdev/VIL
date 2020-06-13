@@ -27,3 +27,5 @@
 ### [Python - String Contains](https://www.journaldev.com/23451/python-string-contains)
 
 ### [Python - String Contains](https://www.afternerd.com/blog/python-string-contains/)
+
+### Python -[Itertools Combinations](https://www.hackerrank.com/challenges/itertools-combinations/problem#:~:text=itertools.combinations(iterable%2C%20r,be%20produced%20in%20sorted%20order.)
