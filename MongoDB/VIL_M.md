@@ -96,3 +96,5 @@
 ### MongoDB - [updateMany](https://docs.mongodb.com/manual/reference/method/db.collection.updateMany/)
 
 ### MongoDB - [watch](https://docs.mongodb.com/manual/reference/method/db.collection.watch/)
+
+### MongoDB - [validate](https://docs.mongodb.com/manual/reference/method/db.collection.validate/)
