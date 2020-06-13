@@ -84,3 +84,5 @@
 ### MongoDB - [drop](https://docs.mongodb.com/manual/reference/method/db.collection.drop/)
 
 ### MongoDB - [find](https://docs.mongodb.com/manual/reference/method/db.collection.find/)
+
+### MongoDB - [findOne](https://docs.mongodb.com/manual/reference/method/db.collection.findOne/)
