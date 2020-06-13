@@ -90,3 +90,5 @@
 ### MongoDB - [findOneAndUpdate](https://docs.mongodb.com/manual/reference/method/db.collection.findOneAndUpdate/)
 
 ### MongoDB - [update](https://docs.mongodb.com/manual/reference/method/db.collection.update/)
+
+### MongoDB - [updateOne](https://docs.mongodb.com/manual/reference/method/db.collection.updateOne/)
