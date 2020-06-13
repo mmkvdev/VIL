@@ -163,3 +163,5 @@
 ### NextJS - [Part2](https://www.youtube.com/watch?v=ahAilJEe-_A)
 
 ### NextJS - [Part3](https://www.youtube.com/watch?v=WSr0GcBF7Ag)
+
+### NextJS - [Vercel Docs](https://vercel.com/docs/v2/introduction)
