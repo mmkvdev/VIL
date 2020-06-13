@@ -446,4 +446,6 @@
 
 ### React - [Semantic UI Getting Started](https://react.semantic-ui.com/usage/)
 
-### React [Semantic-UI-React <> Next.js #441](https://github.com/vercel/next.js/issues/441)
+### React - [Semantic-UI-React <> Next.js #441](https://github.com/vercel/next.js/issues/441)
+
+### React - [How to install Semantic ui for Next.js](https://stackoverflow.com/questions/53711075/how-to-install-semantic-ui-for-next-js)
