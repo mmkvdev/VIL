@@ -100,3 +100,5 @@
 ### MongoDB - [validate](https://docs.mongodb.com/manual/reference/method/db.collection.validate/)
 
 ### MongoDB - [stats](https://docs.mongodb.com/manual/reference/method/db.collection.stats/)
+
+### MongoDB - [replaceOne](https://docs.mongodb.com/manual/reference/method/db.collection.replaceOne/)
