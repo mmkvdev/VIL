@@ -157,3 +157,6 @@
 ### NextJS - [Custom App Cavaets](https://nextjs.org/docs/advanced-features/custom-app#caveats)
 
 ### NextJS - [Custom App TypeScript](https://nextjs.org/docs/advanced-features/custom-app#typescript)
+
+### NextJS - [Part1](https://www.youtube.com/watch?v=tt9hws5JGRc)
+
