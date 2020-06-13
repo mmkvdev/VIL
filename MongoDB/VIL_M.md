@@ -108,3 +108,5 @@
 ### MongoDB - [mapReduce](https://docs.mongodb.com/manual/reference/method/db.collection.mapReduce/)
 
 ### MongoDB - [insert](https://docs.mongodb.com/manual/reference/method/db.collection.insert/)
+
+### MongoDB - [insertMany](https://docs.mongodb.com/manual/reference/method/db.collection.insertMany/)
