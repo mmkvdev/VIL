@@ -172,3 +172,5 @@
 ### NextJS - [CatchAll API Routes](https://nextjs.org/docs/api-routes/dynamic-api-routes#catch-all-api-routes)
 
 ### NextJS - [Optional CatchAll API Routes](https://nextjs.org/docs/api-routes/dynamic-api-routes#optional-catch-all-api-routes)
+
+### NextJS - [Caveats](https://nextjs.org/docs/api-routes/dynamic-api-routes#caveats)
