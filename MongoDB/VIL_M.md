@@ -116,3 +116,5 @@
 ### MongoDB - [findOneAndModify](https://docs.mongodb.com/manual/reference/method/db.collection.findOneAndDelete/)
 
 ### MongoDB - [deleteMany](https://docs.mongodb.com/manual/reference/method/db.collection.deleteMany/)
+
+### MongoDB - [dataSize](https://docs.mongodb.com/manual/reference/method/db.collection.dataSize/)
