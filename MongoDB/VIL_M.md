@@ -80,3 +80,5 @@
 ### MongoDB - [Mongo Open Source](http://www.lib4dev.in/info/hoangvvo/nextjs-mongodb-app/201392697)
 
 ### MongoDB - [deleteOne](https://docs.mongodb.com/manual/reference/method/db.collection.deleteOne/)
+
+### MongoDB - [drop](https://docs.mongodb.com/manual/reference/method/db.collection.drop/)
