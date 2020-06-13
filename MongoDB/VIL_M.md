@@ -82,3 +82,5 @@
 ### MongoDB - [deleteOne](https://docs.mongodb.com/manual/reference/method/db.collection.deleteOne/)
 
 ### MongoDB - [drop](https://docs.mongodb.com/manual/reference/method/db.collection.drop/)
+
+### MongoDB - [find](https://docs.mongodb.com/manual/reference/method/db.collection.find/)
