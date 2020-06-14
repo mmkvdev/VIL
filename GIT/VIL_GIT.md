@@ -18,3 +18,5 @@
 ### [GIT Credential Helper](https://manpages.ubuntu.com/manpages/trusty/man1/git-credential-store.1.html)
 
 ### GIT - [GITHUB ACTIONS](https://help.github.com/en/actions)
+
+### GIT - [Awesome README](https://github.com/matiassingers/awesome-readme)
