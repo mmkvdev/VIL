@@ -7,3 +7,5 @@
 ### [bcrypt - A library to help you hash passwords.](https://www.npmjs.com/package/bcrypt)
 
 ### [A library of string validators and sanitizers.](https://www.npmjs.com/package/validator)
+
+### Node - [dotenv](https://www.npmjs.com/package/dotenv)
