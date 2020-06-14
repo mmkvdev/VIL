@@ -118,3 +118,5 @@
 ### MongoDB - [deleteMany](https://docs.mongodb.com/manual/reference/method/db.collection.deleteMany/)
 
 ### MongoDB - [dataSize](https://docs.mongodb.com/manual/reference/method/db.collection.dataSize/)
+
+### MongoDB - [Password Authentication with Mongoose Part 1](https://www.mongodb.com/blog/post/password-authentication-with-mongoose-part-1)
