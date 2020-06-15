@@ -126,3 +126,5 @@
 ### MongoDB - [createIndex](https://docs.mongodb.com/manual/reference/method/db.collection.createIndex/)
 
 ### MongoDB - [indexes-index-types](https://docs.mongodb.com/manual/indexes/#index-types)
+
+### MongoDB - [wildcard-index-core](https://docs.mongodb.com/manual/core/index-wildcard/#wildcard-index-core)
