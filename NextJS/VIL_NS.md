@@ -189,3 +189,5 @@
 ### NextJS - [With Passport](https://github.com/vercel/next.js/tree/canary/examples/with-passport)
 
 ### NextJS - [With Auth0](https://github.com/vercel/next.js/tree/canary/examples/auth0)
+
+### NextJS - [Next.js Authentication with Auth0](https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/)
