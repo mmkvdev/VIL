@@ -181,3 +181,5 @@
 ### NextJS - [next-session](https://www.npmjs.com/package/next-session)
 
 ### NextJS - [Add login / authentication example #153](https://github.com/vercel/next.js/issues/153)
+
+### NextJS - [NextJS Auth Ways](https://github.com/vercel/next.js/tree/canary/examples/with-cookie-auth)
