@@ -128,3 +128,5 @@
 ### MongoDB - [indexes-index-types](https://docs.mongodb.com/manual/indexes/#index-types)
 
 ### MongoDB - [wildcard-index-core](https://docs.mongodb.com/manual/core/index-wildcard/#wildcard-index-core)
+
+### MongoDB - [MongoClient](https://mongodb.github.io/node-mongodb-native/api-generated/mongoclient.html)
