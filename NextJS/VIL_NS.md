@@ -195,3 +195,5 @@
 ### NextJS - [Pages and Layout](https://auth0.com/blog/next-js-practical-introduction-for-react-developers-part-1/)
 
 ### NextJS - [next.config.js](https://nextjs.org/docs/api-reference/next.config.js/introduction)
+
+### NextJS - [Authentication Tutorial](https://auth0.com/blog/next-js-authentication-tutorial/)
