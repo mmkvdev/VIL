@@ -179,3 +179,5 @@
 ### NextJS - [`next-connect`](https://github.com/hoangvvo/next-connect)
 
 ### NextJS - [next-session](https://www.npmjs.com/package/next-session)
+
+### NextJS - [Add login / authentication example #153](https://github.com/vercel/next.js/issues/153)
