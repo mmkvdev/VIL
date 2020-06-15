@@ -11,3 +11,5 @@
 ### Node - [dotenv](https://www.npmjs.com/package/dotenv)
 
 ### Node - [Error: No valid exports main found for 'node_modules\nanoid' #206](https://github.com/ai/nanoid/issues/206)
+
+### Node - [Error: Cannot find module when deploying to heroku #198](https://github.com/vercel/next.js/issues/198)
