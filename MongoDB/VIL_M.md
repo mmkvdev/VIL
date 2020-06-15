@@ -124,3 +124,5 @@
 ### MongoDB - [Connect Mongo](https://www.npmjs.com/package/connect-mongo)
 
 ### MongoDB - [createIndex](https://docs.mongodb.com/manual/reference/method/db.collection.createIndex/)
+
+### MongoDB - [indexes-index-types](https://docs.mongodb.com/manual/indexes/#index-types)
