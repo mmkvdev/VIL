@@ -177,3 +177,5 @@
 ### NextJS - [NextJS + Semantic](https://medium.com/@chcepe/i-used-next-js-semantic-ui-on-my-react-app-and-its-awesome-867e758fee57)
 
 ### NextJS - [`next-connect`](https://github.com/hoangvvo/next-connect)
+
+### NextJS - [next-session](https://www.npmjs.com/package/next-session)
