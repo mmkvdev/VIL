@@ -185,3 +185,5 @@
 ### NextJS - [NextJS Auth Ways](https://github.com/vercel/next.js/tree/canary/examples/with-cookie-auth)
 
 ### NextJS - [With Cookie Auth and Fauna](https://github.com/vercel/next.js/tree/canary/examples/with-cookie-auth-fauna)
+
+### NextJS - [With Passport](https://github.com/vercel/next.js/tree/canary/examples/with-passport)
