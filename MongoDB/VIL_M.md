@@ -120,3 +120,5 @@
 ### MongoDB - [dataSize](https://docs.mongodb.com/manual/reference/method/db.collection.dataSize/)
 
 ### MongoDB - [Password Authentication with Mongoose Part 1](https://www.mongodb.com/blog/post/password-authentication-with-mongoose-part-1)
+
+### MongoDB - [Connect Mongo]https://www.npmjs.com/package/connect-mongo
