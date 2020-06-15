@@ -9,3 +9,5 @@
 ### [A library of string validators and sanitizers.](https://www.npmjs.com/package/validator)
 
 ### Node - [dotenv](https://www.npmjs.com/package/dotenv)
+
+### Node - [Error: No valid exports main found for 'node_modules\nanoid' #206](https://github.com/ai/nanoid/issues/206)
