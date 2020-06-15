@@ -197,3 +197,5 @@
 ### NextJS - [next.config.js](https://nextjs.org/docs/api-reference/next.config.js/introduction)
 
 ### NextJS - [Authentication Tutorial](https://auth0.com/blog/next-js-authentication-tutorial/)
+
+### NextJS - [Github OAuth](https://itnext.io/nextjs-oauth-with-passport-and-github-159e324f4900)
