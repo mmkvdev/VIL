@@ -36,3 +36,6 @@
 ### JS - [Passport.js](http://www.passportjs.org/)
 
 ### JS - [PassPort Docs](http://www.passportjs.org/docs/downloads/html/)
+
+
+### JS - [Passport - Username and Password]http://www.passportjs.org/docs/username-password/
