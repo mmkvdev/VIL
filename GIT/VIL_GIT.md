@@ -20,3 +20,5 @@
 ### GIT - [GITHUB ACTIONS](https://help.github.com/en/actions)
 
 ### GIT - [Awesome README](https://github.com/matiassingers/awesome-readme)
+
+### GIT - [Authorizing OAuth Apps](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
