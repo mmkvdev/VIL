@@ -191,3 +191,5 @@
 ### NextJS - [With Auth0](https://github.com/vercel/next.js/tree/canary/examples/auth0)
 
 ### NextJS - [Next.js Authentication with Auth0](https://auth0.com/blog/ultimate-guide-nextjs-authentication-auth0/)
+
+### NextJS - [Pages and Layout](https://auth0.com/blog/next-js-practical-introduction-for-react-developers-part-1/)
