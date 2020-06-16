@@ -41,3 +41,5 @@
 ### Python - [Try Except](https://www.w3schools.com/python/python_try_except.asp)
 
 ### Python - [IPAddress Module](https://dbader.org/blog/python-ipaddress-module)
+
+### Python  - [ipaddress.py getting errors on a valid ip address](https://stackoverflow.com/questions/40757401/ipaddress-py-getting-errors-on-a-valid-ip-address)
