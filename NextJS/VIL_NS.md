@@ -203,3 +203,5 @@
 ### NextJS - [Custom Document](https://nextjs.org/docs/advanced-features/custom-document)
 
 ### NextJS - [Auth0](https://github.com/auth0/nextjs-auth0)
+
+### Nextjs - [Authorization Code Flow](https://auth0.com/docs/flows/concepts/auth-code)
