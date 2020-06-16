@@ -22,3 +22,5 @@
 ### GIT - [Awesome README](https://github.com/matiassingers/awesome-readme)
 
 ### GIT - [Authorizing OAuth Apps](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)
+
+### GIT - [OAuth Issue - throw new TypeError('OAuth2Strategy requires a clientID option'); }](https://stackoverflow.com/questions/50752930/throw-new-typeerroroauth2strategy-requires-a-clientid-option)
