@@ -201,3 +201,5 @@
 ### NextJS - [Github OAuth](https://itnext.io/nextjs-oauth-with-passport-and-github-159e324f4900)
 
 ### NextJS - [Custom Document](https://nextjs.org/docs/advanced-features/custom-document)
+
+### NextJS - [Auth0](https://github.com/auth0/nextjs-auth0)
