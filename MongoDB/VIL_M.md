@@ -130,3 +130,6 @@
 ### MongoDB - [wildcard-index-core](https://docs.mongodb.com/manual/core/index-wildcard/#wildcard-index-core)
 
 ### MongoDB - [MongoClient](https://mongodb.github.io/node-mongodb-native/api-generated/mongoclient.html)
+
+
+### MongoDB - [throw new MongooseError('The `uri` parameter to `openUri()` must be a string) #8242](https://github.com/Automattic/mongoose/issues/8242)
