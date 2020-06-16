@@ -26,3 +26,5 @@
 ### GIT - [OAuth Issue - throw new TypeError('OAuth2Strategy requires a clientID option'); }](https://stackoverflow.com/questions/50752930/throw-new-typeerroroauth2strategy-requires-a-clientid-option)
 
 ### GIT - [TypeError: OAuth2Strategy requires a clientID option #2544](https://github.com/nodejs/help/issues/2544)
+
+### GIT - [OAuth2Strategy requires a clientID option](https://teamtreehouse.com/community/oauth2strategy-requires-a-clientid-option)
