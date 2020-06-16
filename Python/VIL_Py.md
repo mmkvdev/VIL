@@ -39,3 +39,5 @@
 ### Python - [IPV6Address](https://docs.python.org/3/library/ipaddress.html#ipaddress.IPv6Address)
 
 ### Python - [Try Except](https://www.w3schools.com/python/python_try_except.asp)
+
+### Python - [IPAddress Module](https://dbader.org/blog/python-ipaddress-module)
