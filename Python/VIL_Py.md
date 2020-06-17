@@ -47,3 +47,5 @@
 ### Python - [Post, retrieve, and engage with Tweets](https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update)
 
 ### Python - [Tweepy](https://www.tweepy.org/)
+
+### Python - [Tweepy Docs](http://docs.tweepy.org/en/latest/)
