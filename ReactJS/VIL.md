@@ -30,8 +30,12 @@
 
 
 
-# JEST Unit Testing && Enzyme
+### JEST Unit Testing && Enzyme
 
+### JEST - [How to Install Jest to test React Components](http://parseobjects.com/how-to-install-jest/)
+
+
+### JEST - [Create React App react-scripts package requires a dependency: "babel-jest": "^24.9.0 #28](https://github.com/creativetimofficial/argon-dashboard-react/issues/28)
 # StackOverflow Solution for shallow enzyme adapter issue
 	https://stackoverflow.com/questions/50222545/enzyme-expects-an-adapter-to-be-configured
 
@@ -98,6 +102,13 @@
 
 # REDUX
 
+### Redux [ServerSide](https://github.com/vercel/swr)
+
+### Redux [Implementation with React Hooks](https://thoughtbot.com/blog/using-redux-with-react-hooks)
+
+# Redux Intro - Official Docs
+	https://redux.js.org/introduction/examples
+
 # Medium Blog on Redux CRUD example
 	https://codeburst.io/redux-a-crud-example-abb834d763c9
 
@@ -110,6 +121,8 @@
 # Google Search on Updating Existing State in Redux
 	https://www.google.com/search?q=updating+existing+state+in+redux&oq=updating+existing+state+in+redux&aqs=chrome..69i57.6404j0j1&sourceid=chrome&ie=UTF-8
 
+# Redux Hooks
+	https://react-redux.js.org/api/hooks#removed-useactions
 
 # REDUX ACTIONS
 	https://redux.js.org/basics/actions
@@ -123,7 +136,11 @@
 # HOOK API DOCS
 	https://react-redux.js.org/api/hooks
 
+# Medium Blog - Step By Step Guide for building React-Redux Apps
+	https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a
 
+# ownProps - StackOverflow
+	What is ownProps in react-redux?
 
 ##########################################################################################################
 
@@ -134,13 +151,24 @@
 # Blog on JS datatypes 
 	https://www.tutorialrepublic.com/javascript-tutorial/javascript-data-types.php
 
+# Pure Function - Medium blog
+	https://medium.com/@jamesjefferyuk/javascript-what-are-pure-functions-4d4d5392d49c
+
+# Book - Pure Function
+	https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/ch3.html
+
+# Monkey Patching
+	https://www.audero.it/blog/2016/12/05/monkey-patching-javascript/
 
 
 
 ##########################################################################################################
 
 
-# NAVBAR - ROUTER
+### REACT ROUTER
+
+### Router - [How to push to History in React Router v4?](https://stackoverflow.com/questions/42701129/how-to-push-to-history-in-react-router-v4)
+
 
 # StackOverflow question on How to hide Nav bar in some react components
 	https://stackoverflow.com/questions/53097610/how-to-hide-nav-bar-in-some-react-components
@@ -156,6 +184,18 @@
 
 # REACT-ROUTER TRAINING - OFFICIAL DOCS
 	https://reacttraining.com/react-router/web/api/Switch
+
+# REACT-ROUTER TRAINING - LOCATION 
+	https://reacttraining.com/react-router/web/api/location
+
+# React Router Hooks
+	https://css-tricks.com/the-hooks-of-react-router/
+
+# React Router Training - HISTORY
+	https://reacttraining.com/react-router/web/api/history
+
+# Stack Overflow - How to pass params with history.push/Link/Redirect in react-router v4?
+	https://stackoverflow.com/questions/44121069/how-to-pass-params-with-history-push-link-redirect-in-react-router-v4
 
 
 
@@ -173,8 +213,11 @@
 ##########################################################################################################
 
 
-# REDUX HOOKS
+### REDUX HOOKS
 	
+### [React Hooks](https://reacttraining.com/blog/react-router-v5-1/)
+
+### React Hooks - [State management using only React Hooks](https://blog.logrocket.com/state-management-using-only-react-hooks/)
 # React-Redux Hooks: useSelector and useDispatch
 	https://levelup.gitconnected.com/react-redux-hooks-useselector-and-usedispatch-f7d8c7f75cdd
 
@@ -202,7 +245,17 @@
 # LifeCycle Hooks
 	https://www.newline.co/fullstack-react/30-days-of-react/day-7/
 
+# Google Search on useDispatch in every component
+	https://www.google.com/search?client=ubuntu&channel=fs&q=do+I+need+to+use+useDispatch+in+every+component&ie=utf-8&oe=utf-8
 
+# React Router Hooks
+	https://css-tricks.com/the-hooks-of-react-router/
+
+# Using useEffect Hook
+	https://reactjs.org/docs/hooks-effect.html
+
+### ComponentDidMount React
+	https://reactjs.org/docs/react-component.html#componentdidmount
 
 ##########################################################################################################
 
@@ -225,7 +278,7 @@
 
 ###########################################################################################################
 
-# REDUX THUNK 
+### REDUX THUNK 
 
 # Normalized Data Merge (Shallow and Merge)
 	https://redux.js.org/recipes/structuring-reducers/updating-normalized-data
@@ -238,6 +291,11 @@
 
 # REDUX THUNK ASYNC ACTION CREATORS
 	https://redux.js.org/advanced/async-actions#async-action-creators
+
+# REDUX THUNK state Update
+	https://www.google.com/search?client=ubuntu&channel=fs&q=editing+the+state+value+and+updating+using+redux+thunk&ie=utf-8&oe=utf-8
+
+### [Redux MiddleWare](https://www.newline.co/fullstack-react/30-days-of-react/day-21/)
 
 
 
@@ -261,6 +319,8 @@
 # Adding Sass to Create React App Applications
 	https://scotch.io/starters/react/adding-sass-to-create-react-app-applications
 
+### [Types and Styles in React Button component](https://ej2.syncfusion.com/react/documentation/button/types-and-styles/)
+
 
 
 
@@ -268,6 +328,9 @@
 
 # SENTRY
 	https://sentry.io/welcome/
+
+# Google Search on Sentry
+	https://www.google.com/search?client=ubuntu&channel=fs&q=sentry+for+ubuntu&ie=utf-8&oe=utf-8
 
 
 
@@ -290,6 +353,8 @@
 # Official Docs
 	https://emotion.sh/docs/introduction
 
+# Styling a react app using Emotion CSS in JS library - An introduction to Emotion
+	https://learnwithparam.com/blog/styling-react-app-using-emotion-css-in-js-library/
 
 
 
@@ -304,6 +369,12 @@
 # ReactJS lifecycle method inside a function Component
 	https://stackoverflow.com/questions/44506207/reactjs-lifecycle-method-inside-a-function-component
 
+<<<<<<< HEAD
+=======
+# Functional Programming Forms
+	https://nestedsoftware.com/2018/10/02/forms-in-react-a-functional-programming-primer-183.52688.html
+
+>>>>>>> e924999a2115d511a1a7ba5a6a84ffe55f676934
 
 
 ###########################################################################################################
@@ -320,5 +391,66 @@
 
 
 
+##########################################################################################################
 
 
+# Deno Land - Ryan Dhal
+
+# Official Repo of Deno Land
+	https://github.com/denoland
+
+# Google Search on Deno Land
+	https://www.google.com/search?client=ubuntu&channel=fs&q=deno&ie=utf-8&oe=utf-8
+
+
+###########################################################################################################
+
+
+### REACTJS - CORE
+
+# State Manipulation
+	https://www.sitepoint.com/work-with-and-manipulate-state-in-react/
+
+# React Forms
+	https://reactjs.org/docs/forms.html
+
+# preventDefault in React Forms
+	https://www.robinwieruch.de/react-preventdefault
+
+# Handling User Input in React - CRUD
+	https://medium.com/the-andela-way/handling-user-input-in-react-crud-1396e51a70bf
+
+### [GitHub Issues - verifyPackageTree() errors when wrong version dependency is installed in any parent directory #4167](https://github.com/facebook/create-react-app/issues/4167)
+
+
+
+
+### ReactJS - [9 Ways To Implement CSS in React JS](https://medium.com/@dmitrynozhenko/9-ways-to-implement-css-in-react-js-ccea4d543aa3)
+
+### ReactJS - [Update an Item in a List in React](https://www.robinwieruch.de/react-update-item-in-list)
+
+### REDUX - [Redux Update Patterns](https://redux.js.org/recipes/structuring-reducers/immutable-update-patterns/)
+
+### React Hooks - [How can I rerender my redux state after triggering an action with hooks?](https://stackoverflow.com/questions/59599611/how-can-i-rerender-my-redux-state-after-triggering-an-action-with-hooks)
+
+### React - [useEffect STO issue - How to fix missing dependency warning when using useEffect React Hook?](https://stackoverflow.com/questions/55840294/how-to-fix-missing-dependency-warning-when-using-useeffect-react-hook)
+
+### React - [Handling User Input in React — CRUD](https://medium.com/the-andela-way/handling-user-input-in-react-crud-1396e51a70bf)
+
+### React - [create-react-app](https://reactjs.org/blog/2016/07/22/create-apps-with-no-configuration.html)
+
+### React - [Emotion SSR](https://emotion.sh/docs/ssr)
+
+### React - [Emotion Theming](https://emotion.sh/docs/emotion-theming)
+
+### React - [Semantic UI](https://react.semantic-ui.com/)
+
+### React - [Semantic UI Open Source](https://github.com/Semantic-Org/Semantic-UI-React)
+
+### React - [Semantic UI Getting Started](https://react.semantic-ui.com/usage/)
+
+### React - [Semantic-UI-React <> Next.js #441](https://github.com/vercel/next.js/issues/441)
+
+### React - [How to install Semantic ui for Next.js](https://stackoverflow.com/questions/53711075/how-to-install-semantic-ui-for-next-js)
+
+### React - [Semantic UI Intro](https://react.semantic-ui.com/)
