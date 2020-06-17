@@ -27,6 +27,9 @@
 
 ### GIT - [TypeError: OAuth2Strategy requires a clientID option #2544](https://github.com/nodejs/help/issues/2544)
 
+
+### GIT - [Can you delete multiple branches in one command with Git?](https://stackoverflow.com/questions/3670355/can-you-delete-multiple-branches-in-one-command-with-git#:~:text=You%20can%20use%20git%20gui,want%20to%20remove%20%2D%3E%20Delete.)
+
 ### GIT - [OAuth2Strategy requires a clientID option](https://teamtreehouse.com/community/oauth2strategy-requires-a-clientid-option)
 
 ### GIT - [Managing Deploy Keys](https://developer.github.com/v3/guides/managing-deploy-keys/)
