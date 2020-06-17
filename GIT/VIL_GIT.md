@@ -41,3 +41,5 @@
 ### GIT - [Deleting remote how-to-delete-remote-branches-in-git](https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git)
 
 ### GIT - [fetch from origin with deleted remote branches?](https://stackoverflow.com/questions/5751582/fetch-from-origin-with-deleted-remote-branches)
+
+### GIT - [Delete multiple remote branches in git](https://stackoverflow.com/questions/10555136/delete-multiple-remote-branches-in-git#:~:text=You%20can%20do%20it%20from,to%20remove%20the%20remote%20branches.&text=Throw%20in%20a%20grep%20between,a%20subset%20of%20remote%20branches.)
