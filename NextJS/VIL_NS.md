@@ -205,3 +205,5 @@
 ### NextJS - [Auth0](https://github.com/auth0/nextjs-auth0)
 
 ### Nextjs - [Authorization Code Flow](https://auth0.com/docs/flows/concepts/auth-code)
+
+### NextJS - [Add login / authentication example #153](https://github.com/vercel/next.js/issues/153)
