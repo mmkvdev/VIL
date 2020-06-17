@@ -43,3 +43,5 @@
 ### Python - [IPAddress Module](https://dbader.org/blog/python-ipaddress-module)
 
 ### Python  - [ipaddress.py getting errors on a valid ip address](https://stackoverflow.com/questions/40757401/ipaddress-py-getting-errors-on-a-valid-ip-address)
+
+### Python - [Post, retrieve, and engage with Tweets](https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update)
