@@ -37,3 +37,5 @@
 ### GIT - [Differences between GitHub Apps and OAuth Apps](https://developer.github.com/apps/differences-between-apps/)
 
 ### GIT - [Basics of Authentication](https://developer.github.com/v3/guides/basics-of-authentication/)]
+
+### GIT - [Deleting remote branches](https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git)
