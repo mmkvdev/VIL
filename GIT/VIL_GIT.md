@@ -30,3 +30,5 @@
 ### GIT - [OAuth2Strategy requires a clientID option](https://teamtreehouse.com/community/oauth2strategy-requires-a-clientid-option)
 
 ### GIT - [Managing Deploy Keys](https://developer.github.com/v3/guides/managing-deploy-keys/)
+
+### GIT - [Differences between GitHub Apps and OAuth Apps](https://developer.github.com/apps/differences-between-apps/)
