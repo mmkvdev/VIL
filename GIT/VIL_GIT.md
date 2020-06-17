@@ -28,3 +28,5 @@
 ### GIT - [TypeError: OAuth2Strategy requires a clientID option #2544](https://github.com/nodejs/help/issues/2544)
 
 ### GIT - [OAuth2Strategy requires a clientID option](https://teamtreehouse.com/community/oauth2strategy-requires-a-clientid-option)
+
+### GIT - [Managing Deploy Keys](https://developer.github.com/v3/guides/managing-deploy-keys/)
