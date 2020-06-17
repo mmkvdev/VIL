@@ -38,4 +38,6 @@
 
 ### GIT - [Basics of Authentication](https://developer.github.com/v3/guides/basics-of-authentication/)]
 
-### GIT - [Deleting remote branches](https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git)
+### GIT - [Deleting remote how-to-delete-remote-branches-in-git](https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git)
+
+### GIT - [fetch from origin with deleted remote branches?](https://stackoverflow.com/questions/5751582/fetch-from-origin-with-deleted-remote-branches)
