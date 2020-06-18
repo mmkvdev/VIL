@@ -69,3 +69,5 @@
 ### Python - [python-dev installation error: ImportError: No module named apt_pkg](https://stackoverflow.com/questions/13708180/python-dev-installation-error-importerror-no-module-named-apt-pkg)
 
 ### Python - [How to silence “sys.excepthook is missing” error?](https://stackoverflow.com/questions/12790328/how-to-silence-sys-excepthook-is-missing-error)
+
+### Python - [Upgrade python 2.7 to 3.6 and 3.7 in Ubuntu](https://medium.com/@rajputankit22/upgrade-python-2-7-to-3-6-and-3-7-in-ubuntu-97d2727bf911)
