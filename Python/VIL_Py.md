@@ -85,3 +85,5 @@
 ### Python - [OAuthHandler not loading from Tweepy properly](https://stackoverflow.com/questions/47524226/oauthhandler-not-loading-from-tweepy-properly)
 
 ### Python - [AttributeError: 'module' object has no attribute 'OAuthHandler' #490](https://github.com/tweepy/tweepy/issues/490)
+
+### Python - [Error with tweepy OAuthHandler](https://stackoverflow.com/questions/26075001/error-with-tweepy-oauthhandler/26075056#26075056)
