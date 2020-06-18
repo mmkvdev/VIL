@@ -59,3 +59,5 @@
 ### Python - [Tweepy Authentication](http://docs.tweepy.org/en/latest/auth_tutorial.html#introduction)
 
 ### Python - [Tweepy Authentication Intro](http://docs.tweepy.org/en/latest/auth_tutorial.html)
+
+### Python - [Tweepy Setup](http://docs.tweepy.org/en/latest/install.html)
