@@ -67,3 +67,5 @@
 ### Python - [Twitter Open Source Projects](https://twitter.github.io/projects.html)
 
 ### Python - [python-dev installation error: ImportError: No module named apt_pkg](https://stackoverflow.com/questions/13708180/python-dev-installation-error-importerror-no-module-named-apt-pkg)
+
+### Python - [How to silence “sys.excepthook is missing” error?](https://stackoverflow.com/questions/12790328/how-to-silence-sys-excepthook-is-missing-error)
