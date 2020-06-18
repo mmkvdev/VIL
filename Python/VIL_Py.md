@@ -49,3 +49,5 @@
 ### Python - [Tweepy](https://www.tweepy.org/)
 
 ### Python - [Tweepy Docs](http://docs.tweepy.org/en/latest/)
+
+### Python - [Twitter Developer](https://developer.twitter.com/en)
