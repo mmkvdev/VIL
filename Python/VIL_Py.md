@@ -77,3 +77,5 @@
 ### Python - [Unable to import a module that is definitely installed](https://stackoverflow.com/questions/14295680/unable-to-import-a-module-that-is-definitely-installed)
 
 ### Python - [Installing Python Modules](https://docs.python.org/3/installing/index.html)
+
+### Python - [Change the Python3 default version in Ubuntu](https://unix.stackexchange.com/questions/410579/change-the-python3-default-version-in-ubuntu)
