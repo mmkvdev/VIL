@@ -87,3 +87,5 @@
 ### Python - [AttributeError: 'module' object has no attribute 'OAuthHandler' #490](https://github.com/tweepy/tweepy/issues/490)
 
 ### Python - [Error with tweepy OAuthHandler](https://stackoverflow.com/questions/26075001/error-with-tweepy-oauthhandler/26075056#26075056)
+
+### Python - [How to Hide Your API Keys in Python 🔑](https://medium.com/black-tech-diva/hide-your-api-keys-7635e181a06c)
