@@ -61,3 +61,5 @@
 ### Python - [Tweepy Authentication Intro](http://docs.tweepy.org/en/latest/auth_tutorial.html)
 
 ### Python - [Tweepy Setup](http://docs.tweepy.org/en/latest/install.html)
+
+### Python - [Twitter Developer Programme](https://developer.twitter.com/en/account/get-started)
