@@ -63,3 +63,5 @@
 ### Python - [Tweepy Setup](http://docs.tweepy.org/en/latest/install.html)
 
 ### Python - [Twitter Developer Programme](https://developer.twitter.com/en/account/get-started)
+
+### Python - [Twitter Open Source Projects](https://twitter.github.io/projects.html)
