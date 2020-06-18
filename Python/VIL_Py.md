@@ -75,3 +75,5 @@
 ### Python - [How to update Python to the latest version on Ubuntu 18.04 [duplicate]](https://askubuntu.com/questions/1086649/how-to-update-python-to-the-latest-version-on-ubuntu-18-04)
 
 ### Python - [Unable to import a module that is definitely installed](https://stackoverflow.com/questions/14295680/unable-to-import-a-module-that-is-definitely-installed)
+
+### Python - [Installing Python Modules](https://docs.python.org/3/installing/index.html)
