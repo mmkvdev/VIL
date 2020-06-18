@@ -79,3 +79,5 @@
 ### Python - [Installing Python Modules](https://docs.python.org/3/installing/index.html)
 
 ### Python - [Change the Python3 default version in Ubuntu](https://unix.stackexchange.com/questions/410579/change-the-python3-default-version-in-ubuntu)
+
+### Python - [Enumerate](https://www.programiz.com/python-programming/methods/built-in/enumerate)
