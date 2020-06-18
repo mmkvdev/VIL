@@ -53,3 +53,5 @@
 ### Python - [Twitter Developer](https://developer.twitter.com/en)
 
 ### Python - [Twitter ReTweet Docs](http://docs.tweepy.org/en/latest/api.html?highlight=retweet)
+
+### Python - [Tweepy Intro](http://docs.tweepy.org/en/latest/getting_started.html)
