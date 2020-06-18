@@ -65,3 +65,5 @@
 ### Python - [Twitter Developer Programme](https://developer.twitter.com/en/account/get-started)
 
 ### Python - [Twitter Open Source Projects](https://twitter.github.io/projects.html)
+
+### Python - [python-dev installation error: ImportError: No module named apt_pkg](https://stackoverflow.com/questions/13708180/python-dev-installation-error-importerror-no-module-named-apt-pkg)
