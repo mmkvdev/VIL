@@ -81,3 +81,5 @@
 ### Python - [Change the Python3 default version in Ubuntu](https://unix.stackexchange.com/questions/410579/change-the-python3-default-version-in-ubuntu)
 
 ### Python - [Enumerate](https://www.programiz.com/python-programming/methods/built-in/enumerate)
+
+### Python - [OAuthHandler not loading from Tweepy properly](https://stackoverflow.com/questions/47524226/oauthhandler-not-loading-from-tweepy-properly)
