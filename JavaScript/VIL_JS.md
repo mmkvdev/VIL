@@ -41,3 +41,5 @@
 ### JS - [Passport - Username and Password]http://www.passportjs.org/docs/username-password/
 
 ### JS - [Passport - Authentication Docs](http://www.passportjs.org/docs/authenticate/)
+
+### JS - [JWT](https://jwt.io/introduction/)
