@@ -462,3 +462,5 @@
 ### React - [GA](https://analytics.google.com/analytics/web/provision/#/provision)
 
 ### React - [Guages](https://www.telerik.com/kendo-react-ui/components/gauges/)
+
+### React - [Chart](https://reactjsexample.com/tag/chart/)
