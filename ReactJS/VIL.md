@@ -454,3 +454,5 @@
 ### React - [How to install Semantic ui for Next.js](https://stackoverflow.com/questions/53711075/how-to-install-semantic-ui-for-next-js)
 
 ### React - [Semantic UI Intro](https://react.semantic-ui.com/)
+
+### React - [React GA](https://www.npmjs.com/package/react-ga)
