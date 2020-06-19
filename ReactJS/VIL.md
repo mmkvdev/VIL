@@ -480,3 +480,5 @@
 ### React - [Using React With Canvas <ELEMENT></ELEMENT>](https://lavrton.com/using-react-with-html5-canvas-871d07d8d753/)
 
 ### React - [React - “localStorage is not defined” error showing](https://stackoverflow.com/questions/52474208/react-localstorage-is-not-defined-error-showing)
+
+### React - [PolyFill Local Storage](https://www.npmjs.com/package/localstorage-polyfill)
