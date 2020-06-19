@@ -476,3 +476,5 @@
 ### React - [TECHNIQUES FOR ANIMATING ON THE CANVAS IN REACT](https://philna.sh/blog/2018/09/27/techniques-for-animating-on-the-canvas-in-react/)
 
 ### React - [Canvas Polygons](https://www.npmjs.com/package/react-canvas-polygons)
+
+### React - [Using React With Canvas <ELEMENT></ELEMENT>](https://lavrton.com/using-react-with-html5-canvas-871d07d8d753/)
