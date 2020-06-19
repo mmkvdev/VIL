@@ -464,3 +464,5 @@
 ### React - [Guages](https://www.telerik.com/kendo-react-ui/components/gauges/)
 
 ### React - [Chart](https://reactjsexample.com/tag/chart/)
+
+### React - [Progress](https://reactjsexample.com/tag/progress/)
