@@ -478,3 +478,5 @@
 ### React - [Canvas Polygons](https://www.npmjs.com/package/react-canvas-polygons)
 
 ### React - [Using React With Canvas <ELEMENT></ELEMENT>](https://lavrton.com/using-react-with-html5-canvas-871d07d8d753/)
+
+### React - [React - “localStorage is not defined” error showing](https://stackoverflow.com/questions/52474208/react-localstorage-is-not-defined-error-showing)
