@@ -213,3 +213,5 @@
 ### NextJS - [Next.Js boilerplate with TailwindCSS and SASS](https://dev.to/integridsolutions/next-js-boilerplate-with-tailwindcss-and-sass-292b)
 
 ### NextJS - [Next.JS - Access `localStorage` before rendering page](https://stackoverflow.com/questions/54819721/next-js-access-localstorage-before-rendering-page)
+
+### NextJS - [In reactjs and nextjs constructor getting Reference Error: localstorage is not defined [closed]](https://stackoverflow.com/questions/59540321/in-reactjs-and-nextjs-constructor-getting-reference-error-localstorage-is-not-d)
