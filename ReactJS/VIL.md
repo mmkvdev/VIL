@@ -458,3 +458,5 @@
 ### React - [React GA](https://www.npmjs.com/package/react-ga)
 
 ### React - [GA in React](https://medium.com/@wendeehsu/google-analytics-in-react-js-c1b78dc1bbda)
+
+### React - [GA](https://analytics.google.com/analytics/web/provision/#/provision)
