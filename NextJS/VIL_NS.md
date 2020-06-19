@@ -209,3 +209,5 @@
 ### NextJS - [Add login / authentication example #153](https://github.com/vercel/next.js/issues/153)
 
 ### NextJS - [Module not found: Can't resolve 'fs' #7755](https://github.com/vercel/next.js/issues/7755)
+
+### NextJS - [Next.Js boilerplate with TailwindCSS and SASS](https://dev.to/integridsolutions/next-js-boilerplate-with-tailwindcss-and-sass-292b)
