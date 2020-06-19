@@ -456,3 +456,5 @@
 ### React - [Semantic UI Intro](https://react.semantic-ui.com/)
 
 ### React - [React GA](https://www.npmjs.com/package/react-ga)
+
+### React - [GA in React](https://medium.com/@wendeehsu/google-analytics-in-react-js-c1b78dc1bbda)
