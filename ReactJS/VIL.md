@@ -472,3 +472,5 @@
 ### React - [A cutesy dark mode toggle button for React](https://reactjsexample.com/a-cutesy-dark-mode-toggle-button-for-react/)
 
 ### React - [A custom React Hook to help you implement a dark mode component](https://reactjsexample.com/a-custom-react-hook-to-help-you-implement-a-dark-mode-component/)
+
+### React - [TECHNIQUES FOR ANIMATING ON THE CANVAS IN REACT](https://philna.sh/blog/2018/09/27/techniques-for-animating-on-the-canvas-in-react/)
