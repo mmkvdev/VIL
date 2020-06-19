@@ -43,3 +43,5 @@
 ### JS - [Passport - Authentication Docs](http://www.passportjs.org/docs/authenticate/)
 
 ### JS - [JWT](https://jwt.io/introduction/)
+
+### JS - [Revoking JWTs & JWT Expiration](https://fusionauth.io/learn/expert-advice/tokens/revoking-jwts#:~:text=The%20most%20common%20solution%20is,2%20weeks%20or%202%20months).)
