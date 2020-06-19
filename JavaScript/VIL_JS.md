@@ -48,3 +48,5 @@
 
 ### JS - [Unable to set Exp and Iat for JWT correctly](https://stackoverflow.com/questions/33322407/unable-to-set-exp-and-iat-for-jwt-correctly)
 ### JS - [GetEmoji](https://getemoji.com/)
+
+### JS - [Window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
