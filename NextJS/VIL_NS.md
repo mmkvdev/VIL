@@ -225,3 +225,5 @@
 ### NextJS - [NextJS CLI](https://nextjs.org/docs/api-reference/cli)
 
 ### NextJS - [`next/amp`](https://nextjs.org/docs/api-reference/next/amp)
+
+### NextJS - [Custom Page Extensions](https://nextjs.org/docs/api-reference/next.config.js/custom-page-extensions)
