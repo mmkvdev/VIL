@@ -217,3 +217,5 @@
 ### NextJS - [In reactjs and nextjs constructor getting Reference Error: localstorage is not defined [closed]](https://stackoverflow.com/questions/59540321/in-reactjs-and-nextjs-constructor-getting-reference-error-localstorage-is-not-d)
 
 ### NextJS - [How to add a favicon to a Next.js static site?](https://stackoverflow.com/questions/56213019/how-to-add-a-favicon-to-a-next-js-static-site)
+
+### NextJS - [Files with favicon](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4qKHkp5DqAhVazjgGHd5qDykQFjABegQIAhAB&url=https%3A%2F%2Fnextjs.org%2Fstatic%2Ffavicon&usg=AOvVaw0sePYp3P3BOqqBfVSAVBEQ)
