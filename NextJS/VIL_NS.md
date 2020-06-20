@@ -234,3 +234,5 @@
 ### NextJS - [Build Target](https://nextjs.org/docs/api-reference/next.config.js/build-target)
 
 ### NextJS - [Serverless Target](https://nextjs.org/docs/api-reference/next.config.js/build-target#serverless-target)
+
+### NextJS - [Compression](https://nextjs.org/docs/api-reference/next.config.js/compression)
