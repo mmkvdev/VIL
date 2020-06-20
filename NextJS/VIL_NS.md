@@ -221,3 +221,5 @@
 ### NextJS - [Files with favicon](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj4qKHkp5DqAhVazjgGHd5qDykQFjABegQIAhAB&url=https%3A%2F%2Fnextjs.org%2Fstatic%2Ffavicon&usg=AOvVaw0sePYp3P3BOqqBfVSAVBEQ)
 
 ### NextJS - [Favicon problem #4414](https://github.com/vercel/next.js/issues/4414)
+
+### NextJS - [NextJS CLI](https://nextjs.org/docs/api-reference/cli)
