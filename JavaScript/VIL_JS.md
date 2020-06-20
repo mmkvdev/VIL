@@ -50,3 +50,5 @@
 ### JS - [GetEmoji](https://getemoji.com/)
 
 ### JS - [Window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+
+### JS - [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
