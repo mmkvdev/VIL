@@ -11,3 +11,5 @@
 	https://docs.expo.io/versions/latest/sdk/google/
 
 ### React Native - [OAuth 2.0 for Mobile & Desktop Apps](https://developers.google.com/identity/protocols/oauth2/native-app)
+
+### React Native - [Reducing App Size](https://expo.canny.io/feature-requests/p/reducing-app-size)
