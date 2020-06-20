@@ -482,3 +482,5 @@
 ### React - [React - “localStorage is not defined” error showing](https://stackoverflow.com/questions/52474208/react-localstorage-is-not-defined-error-showing)
 
 ### React - [PolyFill Local Storage](https://www.npmjs.com/package/localstorage-polyfill)
+
+### React - [React Git Canvas](https://github.com/flipboard/react-canvas)
