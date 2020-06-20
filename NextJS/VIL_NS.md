@@ -223,3 +223,5 @@
 ### NextJS - [Favicon problem #4414](https://github.com/vercel/next.js/issues/4414)
 
 ### NextJS - [NextJS CLI](https://nextjs.org/docs/api-reference/cli)
+
+### NextJS - [`next/amp`](https://nextjs.org/docs/api-reference/next/amp)
