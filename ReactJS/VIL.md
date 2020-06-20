@@ -486,3 +486,5 @@
 ### React - [React Git Canvas](https://github.com/flipboard/react-canvas)
 
 ### React - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
+### React - [The Public Folder (and favicons!!) in create-react-app](https://medium.com/@jenniferdobak/the-public-folder-and-favicons-in-create-react-app-8dc2cc1d492b)
