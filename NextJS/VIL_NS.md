@@ -230,3 +230,5 @@
 
 ### NextJS - [CDN Support with Asset Prefix
 ](https://nextjs.org/docs/api-reference/next.config.js/cdn-support-with-asset-prefix)
+
+### NextJS - [Build Target](https://nextjs.org/docs/api-reference/next.config.js/build-target)
