@@ -484,3 +484,5 @@
 ### React - [PolyFill Local Storage](https://www.npmjs.com/package/localstorage-polyfill)
 
 ### React - [React Git Canvas](https://github.com/flipboard/react-canvas)
+
+### React - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
