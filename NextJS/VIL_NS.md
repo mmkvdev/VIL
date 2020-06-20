@@ -232,3 +232,5 @@
 ](https://nextjs.org/docs/api-reference/next.config.js/cdn-support-with-asset-prefix)
 
 ### NextJS - [Build Target](https://nextjs.org/docs/api-reference/next.config.js/build-target)
+
+### NextJS - [Serverless Target](https://nextjs.org/docs/api-reference/next.config.js/build-target#serverless-target)
