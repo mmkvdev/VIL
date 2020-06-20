@@ -47,3 +47,5 @@
 ### GIT - [WebHooks](https://developer.github.com/webhooks/)
 
 ### GIT - [Organizations](https://developer.github.com/v3/orgs/)
+
+### GIT - [Git Push Error: insufficient permission for adding an object to repository database](https://stackoverflow.com/questions/6448242/git-push-error-insufficient-permission-for-adding-an-object-to-repository-datab)
