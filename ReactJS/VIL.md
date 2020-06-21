@@ -498,3 +498,5 @@
 ### React - [Button-Type Emphasis](https://react.semantic-ui.com/elements/button/#types-emphasis)
 
 ### React - [Button-Type Animated](https://react.semantic-ui.com/elements/button/#types-animated)
+
+### React - [Button-Type Labelled](https://react.semantic-ui.com/elements/button/#types-labeled)
