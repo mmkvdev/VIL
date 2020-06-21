@@ -521,3 +521,5 @@
 ### React - [Basic Buttons ShortHand](https://react.semantic-ui.com/elements/button/#types-basic-shorthand)
 
 ### React - [Basic Buttons Inverted](https://react.semantic-ui.com/elements/button/#types-inverted)
+
+### React - [Buttons Variations Circular Social](https://react.semantic-ui.com/elements/button/#variations-circular-social)
