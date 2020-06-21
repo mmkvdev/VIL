@@ -238,3 +238,5 @@
 ### NextJS - [Compression](https://nextjs.org/docs/api-reference/next.config.js/compression)
 
 ### NextJS - [Runtime Configuration](https://nextjs.org/docs/api-reference/next.config.js/runtime-configuration)
+
+### NextJS - [Next JS server-side rendering and Yarn](https://medium.com/@SeoJaeDuk/next-js-server-side-rendering-and-yarn-3696d2a5311b)
