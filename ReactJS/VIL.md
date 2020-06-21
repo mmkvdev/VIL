@@ -494,3 +494,5 @@
 ### React - [Usage Semantic UI](https://react.semantic-ui.com/usage)
 
 ### React - [Button-Type](https://react.semantic-ui.com/elements/button/#types-button)
+
+### React - [Button-Type Emphasis](https://react.semantic-ui.com/elements/button/#types-emphasis)
