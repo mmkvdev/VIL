@@ -492,3 +492,5 @@
 ### React - [Dark Theme](https://www.youtube.com/watch?v=FjDo1mbkNtw&t=302s)
 
 ### React - [Usage Semantic UI](https://react.semantic-ui.com/usage)
+
+### React - [Button-Type](https://react.semantic-ui.com/elements/button/#types-button)
