@@ -490,3 +490,5 @@
 ### React - [The Public Folder (and favicons!!) in create-react-app](https://medium.com/@jenniferdobak/the-public-folder-and-favicons-in-create-react-app-8dc2cc1d492b)
 
 ### React - [Dark Theme](https://www.youtube.com/watch?v=FjDo1mbkNtw&t=302s)
+
+### React - [Usage Semantic UI](https://react.semantic-ui.com/usage)
