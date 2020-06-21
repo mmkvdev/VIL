@@ -91,3 +91,5 @@
 ### Python - [How to Hide Your API Keys in Python 🔑](https://medium.com/black-tech-diva/hide-your-api-keys-7635e181a06c)
 
 ### Python - [scholar metrics](https://pypi.org/project/scholarmetrics/)
+
+### Python - [Problem with update-manager: No module named 'apt_pkg' in Ubuntu 13.10, having installed Python 3.4 on /usr/local/lib](https://askubuntu.com/questions/480908/problem-with-update-manager-no-module-named-apt-pkg-in-ubuntu-13-10-having-i)
