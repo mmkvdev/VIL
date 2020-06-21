@@ -55,3 +55,5 @@
 ### GIT - [GitHub: invalid username or password](https://stackoverflow.com/questions/29297154/github-invalid-username-or-password)
 
 ### GIT - [Organizing information with tables](https://help.github.com/en/github/writing-on-github/organizing-information-with-tables)
+
+### GIT - [Choose an open source license](https://choosealicense.com/)
