@@ -15,3 +15,5 @@
 ### Linux - [TeamViewer Ubuntu](https://linuxize.com/post/how-to-install-teamviewer-on-ubuntu-18-04/)
 
 ### Linux - [Linux Terminal Package](https://packagecontrol.io/packages/Terminal)
+
+### Linux - [Ubuntu 16.04 LTS - Unable to locate package kubelet, kubeadm, kubectl #59959](https://github.com/kubernetes/kubernetes/issues/59959)
