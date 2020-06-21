@@ -519,3 +519,5 @@
 ### React - [Basic Buttons](https://react.semantic-ui.com/elements/button/#types-basic)
 
 ### React - [Basic Buttons ShortHand](https://react.semantic-ui.com/elements/button/#types-basic-shorthand)
+
+### React - [Basic Buttons Inverted](https://react.semantic-ui.com/elements/button/#types-inverted)
