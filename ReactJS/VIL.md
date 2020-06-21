@@ -508,3 +508,6 @@
 ### React - [Button-Type Labelled Basic Shorthand](https://react.semantic-ui.com/elements/button/#types-labeled-basic-shorthand)
 
 ### React - [Icon Type](https://react.semantic-ui.com/elements/button/#types-icon)
+
+
+### React - [Icon Type ShortHand](https://react.semantic-ui.com/elements/button/#types-icon-shorthand)
