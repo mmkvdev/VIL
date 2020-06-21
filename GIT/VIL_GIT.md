@@ -53,3 +53,5 @@
 ### GIT - [How to save username and password in GIT [GitExtension]?](https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git-gitextension)
 
 ### GIT - [GitHub: invalid username or password](https://stackoverflow.com/questions/29297154/github-invalid-username-or-password)
+
+### GIT - [Organizing information with tables](https://help.github.com/en/github/writing-on-github/organizing-information-with-tables)
