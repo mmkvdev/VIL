@@ -57,3 +57,5 @@
 ### GIT - [Organizing information with tables](https://help.github.com/en/github/writing-on-github/organizing-information-with-tables)
 
 ### GIT - [Choose an open source license](https://choosealicense.com/)
+
+### GIT - [`.gitignore`](https://help.github.com/en/github/using-git/ignoring-files)
