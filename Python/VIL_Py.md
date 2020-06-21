@@ -95,3 +95,5 @@
 ### Python - [Problem with update-manager: No module named 'apt_pkg' in Ubuntu 13.10, having installed Python 3.4 on /usr/local/lib](https://askubuntu.com/questions/480908/problem-with-update-manager-no-module-named-apt-pkg-in-ubuntu-13-10-having-i)
 
 ### Python - [Failed to update apt cache (update_cache) #30754](https://github.com/ansible/ansible/issues/30754)
+
+### Python - [How to completely uninstall kubernetes](https://stackoverflow.com/questions/44698283/how-to-completely-uninstall-kubernetes)
