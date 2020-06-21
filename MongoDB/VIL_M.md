@@ -135,3 +135,5 @@
 ### MongoDB - [throw new MongooseError('The `uri` parameter to `openUri()` must be a string) #8242](https://github.com/Automattic/mongoose/issues/8242)
 
 ### MongoDB - [Error: Cannot find module 'mongodb/node_modules/bson' #2718](https://github.com/Automattic/mongoose/issues/2718)
+
+### MongoDB - [How To Store Audio Files in MongoDB](https://kb.objectrocket.com/mongo-db/how-to-store-audio-files-in-mongodb-396)
