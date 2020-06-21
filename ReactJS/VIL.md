@@ -502,3 +502,5 @@
 ### React - [Button-Type Labelled](https://react.semantic-ui.com/elements/button/#types-labeled)
 
 ### React - [Button-Type Labelled Shorthand](https://react.semantic-ui.com/elements/button/#types-labeled-shorthand)
+
+### React - [Button-Type Labelled Basic](https://react.semantic-ui.com/elements/button/#types-labeled-basic)
