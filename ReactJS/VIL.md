@@ -500,3 +500,5 @@
 ### React - [Button-Type Animated](https://react.semantic-ui.com/elements/button/#types-animated)
 
 ### React - [Button-Type Labelled](https://react.semantic-ui.com/elements/button/#types-labeled)
+
+### React - [Button-Type Labelled Shorthand](https://react.semantic-ui.com/elements/button/#types-labeled-shorthand)
