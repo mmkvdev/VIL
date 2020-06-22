@@ -29,3 +29,5 @@
 ### [Understanding The Coin Change Problem With Dynamic Programming](https://www.geeksforgeeks.org/understanding-the-coin-change-problem-with-dynamic-programming/#:~:text=The%20Coin%20Change%20Problem%20is,the%20concepts%20of%20dynamic%20programming.)
 
 ### DS - [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
+
+### DS - [Time Complexity](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
