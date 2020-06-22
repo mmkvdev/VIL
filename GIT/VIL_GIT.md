@@ -65,3 +65,5 @@
 ### GIT - [COMMUNITY](https://github.community/t/recreating-the-contributions-graph/14448)
 
 ### GIT - [Events](https://developer.github.com/enterprise/2.7/v3/activity/events/)
+
+### GIT - [REPO STATISTICS](https://developer.github.com/enterprise/2.7/v3/repos/statistics/)
