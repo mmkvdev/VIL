@@ -67,3 +67,5 @@
 ### GIT - [Events](https://developer.github.com/enterprise/2.7/v3/activity/events/)
 
 ### GIT - [REPO STATISTICS](https://developer.github.com/enterprise/2.7/v3/repos/statistics/)
+
+### GIT - [About organization membership](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-organization-membership)
