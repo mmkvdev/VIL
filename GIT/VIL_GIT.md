@@ -59,3 +59,5 @@
 ### GIT - [Choose an open source license](https://choosealicense.com/)
 
 ### GIT - [`.gitignore`](https://help.github.com/en/github/using-git/ignoring-files)
+
+### GIT - [About collaborative development models](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-collaborative-development-models)
