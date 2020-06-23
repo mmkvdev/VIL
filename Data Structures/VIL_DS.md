@@ -31,3 +31,5 @@
 ### DS - [Rabin-Karp Algorithm for Pattern Searching](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 
 ### DS - [Time Complexity](https://adrianmejia.com/most-popular-algorithms-time-complexity-every-programmer-should-know-free-online-tutorial-course/)
+
+### DS - [Types of Binary Trees](https://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees)
