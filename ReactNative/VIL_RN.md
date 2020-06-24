@@ -17,3 +17,5 @@
 ### React Native - [App size in the managed workflow](https://github.com/expo/fyi/blob/master/managed-app-size.md)
 
 ### React Native - [NativeBase](https://nativebase.io/)
+
+### React Native - [Environment SetUp](https://reactnative.dev/docs/environment-setup)
