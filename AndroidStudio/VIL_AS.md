@@ -10,3 +10,5 @@
 
 
 ### Andriod Studio - [Couldn't start project on Android: Error running adb: #694](https://github.com/expo/expo-cli/issues/694)
+
+### Andriod Studio - [Resolve adb version mismatch and PATH issues #153](https://github.com/expo/expo-cli/issues/153)
