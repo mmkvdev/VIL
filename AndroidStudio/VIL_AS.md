@@ -16,3 +16,5 @@
 ### Android Studio - [Android Stop Emulator from Command Line](https://stackoverflow.com/questions/20155376/android-stop-emulator-from-command-line)
 
 ### Android Studio - [The emulator process for AVD Nexus_5X_API_22 was killed](https://android.stackexchange.com/questions/168913/the-emulator-process-for-avd-nexus-5x-api-22-was-killed)
+
+### Android Studio - [Unknown AVD Error in Android Studio Emulator](https://stackoverflow.com/questions/48841848/unknown-avd-error-in-android-studio-emulator)
