@@ -18,3 +18,5 @@
 ### Android Studio - [The emulator process for AVD Nexus_5X_API_22 was killed](https://android.stackexchange.com/questions/168913/the-emulator-process-for-avd-nexus-5x-api-22-was-killed)
 
 ### Android Studio - [Unknown AVD Error in Android Studio Emulator](https://stackoverflow.com/questions/48841848/unknown-avd-error-in-android-studio-emulator)
+
+### Android Studio - [Troublshooting Android Emulator: “Emulator: Process finished with exit code 1”](https://ashishb.net/all/troublshooting-android-emulator-emulator-process-finished-with-exit-code-1/)
