@@ -23,3 +23,5 @@
 ### React Native - [Environment SetUp Ubuntu](https://dev.to/sama/setting-up-react-native-with-expo-and-android-studio-on-ubuntu-18-04-48a2)
 
 ### React Native - [after npm link react-datepicker module not found #149](https://github.com/wojtekmaj/react-date-picker/issues/149)
+
+### React Native - [Unable to resolve module ./lib/templates/bootstrap #94](https://github.com/gcanti/tcomb-form-native/issues/94)
