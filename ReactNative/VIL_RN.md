@@ -19,3 +19,5 @@
 ### React Native - [NativeBase](https://nativebase.io/)
 
 ### React Native - [Environment SetUp](https://reactnative.dev/docs/environment-setup)
+
+### React Native - [Environment SetUp Ubuntu](https://dev.to/sama/setting-up-react-native-with-expo-and-android-studio-on-ubuntu-18-04-48a2)
