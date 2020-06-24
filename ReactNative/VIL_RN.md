@@ -25,3 +25,5 @@
 ### React Native - [after npm link react-datepicker module not found #149](https://github.com/wojtekmaj/react-date-picker/issues/149)
 
 ### React Native - [Unable to resolve module ./lib/templates/bootstrap #94](https://github.com/gcanti/tcomb-form-native/issues/94)
+
+### React Native - [Upgrading React Native #68](https://github.com/react-native-community/discussions-and-proposals/issues/68)
