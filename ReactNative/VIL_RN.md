@@ -31,3 +31,5 @@
 ### React Native - [Upgrading React Native](https://reactnative.dev/docs/upgrading)
 
 ### React Native - [Versions](https://reactnative.dev/versions)
+
+### React Native - [Android Studio Emulator](https://docs.expo.io/workflow/android-studio-emulator/#:~:text=Download%20and%20install%20Android%20Studio,SDK%20Build%2DTools%22%20installed.)
