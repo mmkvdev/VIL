@@ -39,3 +39,5 @@
 ### React Native - [Complex navigation structure crashes on android 4 #5843](https://github.com/react-navigation/react-navigation/issues/5843)
 
 ### React Native - [Dev](http://reactnative.dev/)
+
+### React Native - [Upgrading to new React Native versions](https://reactnative.dev/docs/upgrading#:~:text=Upgrading%20your%20Expo%20project%20to,correct%20sdkVersion%20in%20your%20app.)
