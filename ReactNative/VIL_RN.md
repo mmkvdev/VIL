@@ -37,3 +37,5 @@
 ### React Native - [React Native version mismatch](https://stackoverflow.com/questions/47763824/react-native-version-mismatch)
 
 ### React Native - [Complex navigation structure crashes on android 4 #5843](https://github.com/react-navigation/react-navigation/issues/5843)
+
+### React Native - [Dev](http://reactnative.dev/)
