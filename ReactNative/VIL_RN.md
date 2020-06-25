@@ -35,3 +35,5 @@
 ### React Native - [Android Studio Emulator](https://docs.expo.io/workflow/android-studio-emulator/#:~:text=Download%20and%20install%20Android%20Studio,SDK%20Build%2DTools%22%20installed.)
 
 ### React Native - [React Native version mismatch](https://stackoverflow.com/questions/47763824/react-native-version-mismatch)
+
+### React Native - [Complex navigation structure crashes on android 4 #5843](https://github.com/react-navigation/react-navigation/issues/5843)
