@@ -63,3 +63,5 @@
 ### React Native - [Expo SDK Font](https://docs.expo.io/versions/latest/sdk/font/)
 
 ### React Native - [Ignite command not found #1424](https://github.com/infinitered/ignite/issues/1424)
+
+### React Native - [React Native Docs](http://reactnative.dev/docs/getting-started.html)
