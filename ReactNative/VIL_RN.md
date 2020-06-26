@@ -55,3 +55,5 @@
 ### React Native - [Drawer Nav Options](https://reactnavigation.org/docs/drawer-navigator/#options)
 
 ### React Native - [Drawer Navigation](https://reactnavigation.org/docs/drawer-based-navigation/)
+
+### React Native Expo - [EXPO: Unable to resolve module ‘./debugger](https://stackoverflow.com/questions/59658998/expo-unable-to-resolve-module-debugger)
