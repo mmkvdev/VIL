@@ -51,3 +51,5 @@
 ### React Native - [Stack Navigator Height in Header Style](https://reactnavigation.org/docs/4.x/stack-navigator/#specify-a-height-in-headerstyle)
 
 ### React Native - [Nav Versions](https://reactnavigation.org/versions/)
+
+### React Native - [Drawer Nav Options](https://reactnavigation.org/docs/drawer-navigator/#options)
