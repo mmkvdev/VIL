@@ -47,3 +47,5 @@
 ### React Native - [React Navigation Docs](https://reactnavigation.org/docs/hello-react-navigation)
 
 ### React Native - [ReactNative5.0 navigationOptions](https://reactnavigation.org/docs/upgrading-from-4.x/#specifying-navigationoptions-for-a-screen)
+
+### React Native - [Stack Navigator Height in Header Style](https://reactnavigation.org/docs/4.x/stack-navigator/#specify-a-height-in-headerstyle)
