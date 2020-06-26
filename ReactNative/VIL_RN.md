@@ -57,3 +57,5 @@
 ### React Native - [Drawer Navigation](https://reactnavigation.org/docs/drawer-based-navigation/)
 
 ### React Native Expo - [EXPO: Unable to resolve module ‘./debugger](https://stackoverflow.com/questions/59658998/expo-unable-to-resolve-module-debugger)
+
+### React Native - [React Navigation: Stack, Tab and Drawer Navigation in same React Native Application](https://medium.com/wesionary-team/react-navigation-stack-tab-and-drawer-navigation-in-same-react-native-application-16d03441021)
