@@ -45,3 +45,5 @@
 ### React Native - [Upgrade Helper](https://react-native-community.github.io/upgrade-helper/?from=0.61.4&to=0.62.2)
 
 ### React Native - [React Navigation Docs](https://reactnavigation.org/docs/hello-react-navigation)
+
+### React Native - [ReactNative5.0 navigationOptions](https://reactnavigation.org/docs/upgrading-from-4.x/#specifying-navigationoptions-for-a-screen)
