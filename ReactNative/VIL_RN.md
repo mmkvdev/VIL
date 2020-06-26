@@ -43,3 +43,5 @@
 ### React Native - [Upgrading to new React Native versions](https://reactnative.dev/docs/upgrading#:~:text=Upgrading%20your%20Expo%20project%20to,correct%20sdkVersion%20in%20your%20app.)
 
 ### React Native - [Upgrade Helper](https://react-native-community.github.io/upgrade-helper/?from=0.61.4&to=0.62.2)
+
+### React Native - [React Navigation Docs](https://reactnavigation.org/docs/hello-react-navigation)
