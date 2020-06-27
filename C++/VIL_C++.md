@@ -61,3 +61,5 @@
 ### C++ - [User Input String](https://www.w3schools.com/cpp/cpp_strings_input.asp)
 
 ### C++ - [NameSpace](https://www.w3schools.com/cpp/cpp_strings_namespace.asp)
+
+### C++ - [Math](https://www.w3schools.com/cpp/cpp_math.asp)
