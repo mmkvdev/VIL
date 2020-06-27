@@ -7,3 +7,5 @@
 ### C++ - [How to find the length of an ​array in C++](https://www.educative.io/edpresso/how-to-find-the-length-of-an-array-in-cpp)
 
 ### C++ - [Intro](https://www.w3schools.com/cpp/cpp_intro.asp)
+
+### C++ - [Getting Started](https://www.w3schools.com/cpp/cpp_getstarted.asp)
