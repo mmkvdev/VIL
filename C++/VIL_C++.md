@@ -16,7 +16,7 @@
 
 ### C++ - [New Lines](https://www.w3schools.com/cpp/cpp_new_lines.asp)
 
-### C++ - []()
+### C++ - [Comments](https://www.w3schools.com/cpp/cpp_comments.asp)
 
 ### C++ - []()
 
