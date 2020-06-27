@@ -63,3 +63,5 @@
 ### C++ - [NameSpace](https://www.w3schools.com/cpp/cpp_strings_namespace.asp)
 
 ### C++ - [Math](https://www.w3schools.com/cpp/cpp_math.asp)
+
+### C++ - [Booleans](https://www.w3schools.com/cpp/cpp_booleans.asp)
