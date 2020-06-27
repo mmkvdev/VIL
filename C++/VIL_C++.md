@@ -32,7 +32,7 @@
 
 ### C++ - [Numeric Data Types](https://www.w3schools.com/cpp/cpp_data_types_numeric.asp)
 
-### C++ - []()
+### C++ - [Boolean Data Types](https://www.w3schools.com/cpp/cpp_data_types_bool.asp)
 
 ### C++ - []()
 
