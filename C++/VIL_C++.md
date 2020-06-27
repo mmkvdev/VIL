@@ -54,7 +54,7 @@
 
 ### C++ - [Numbers](https://www.w3schools.com/cpp/cpp_strings_numbers.asp)
 
-### C++ - [](https://www.w3schools.com/cpp/cpp_strings.asp)
+### C++ - [Length](https://www.w3schools.com/cpp/cpp_strings_length.asp)
 
 ### C++ - [](https://www.w3schools.com/cpp/cpp_strings.asp)
 
