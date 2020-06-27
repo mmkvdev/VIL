@@ -42,7 +42,7 @@
 
 ### C++ - [Arithmetic Operators]()https://www.w3schools.com/cpp/cpp_operators.asp
 
-### C++ - [Operators]()
+### C++ - [Assignment Operators](https://www.w3schools.com/cpp/cpp_operators_assignment.asp)
 
 ### C++ - [Operators]()
 
