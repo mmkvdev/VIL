@@ -50,7 +50,7 @@
 
 ### C++ - [Strings](https://www.w3schools.com/cpp/cpp_strings.asp)
 
-### C++ - [](https://www.w3schools.com/cpp/cpp_strings.asp)
+### C++ - [Concatenation](https://www.w3schools.com/cpp/cpp_strings_concat.asp)
 
 ### C++ - [](https://www.w3schools.com/cpp/cpp_strings.asp)
 
