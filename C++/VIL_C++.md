@@ -36,3 +36,5 @@
 
 ### C++ - [Char Data Types](https://www.w3schools.com/cpp/cpp_data_types_char.asp)
 
+### C++ - [String Data Types](https://www.w3schools.com/cpp/cpp_data_types_string.asp)
+
