@@ -30,7 +30,7 @@
 
 ### C++ - [Data Types](https://www.w3schools.com/cpp/cpp_data_types.asp)
 
-### C++ - []()
+### C++ - [Numeric Data Types](https://www.w3schools.com/cpp/cpp_data_types_numeric.asp)
 
 ### C++ - []()
 
