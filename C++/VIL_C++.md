@@ -40,7 +40,7 @@
 
 ### C++ - [Operators](https://www.w3schools.com/cpp/cpp_operators.asp)
 
-### C++ - [Operators]()
+### C++ - [Arithmetic Operators]()https://www.w3schools.com/cpp/cpp_operators.asp
 
 ### C++ - [Operators]()
 
