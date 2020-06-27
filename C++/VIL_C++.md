@@ -44,6 +44,6 @@
 
 ### C++ - [Assignment Operators](https://www.w3schools.com/cpp/cpp_operators_assignment.asp)
 
-### C++ - [Operators]()
+### C++ - [Comparison Operators](https://www.w3schools.com/cpp/cpp_operators_comparison.asp)
 
 ### C++ - [Operators]()
