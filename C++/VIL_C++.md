@@ -18,7 +18,7 @@
 
 ### C++ - [Comments](https://www.w3schools.com/cpp/cpp_comments.asp)
 
-### C++ - []()
+### C++ - [Variables](https://www.w3schools.com/cpp/cpp_variables.asp)
 
 ### C++ - []()
 
