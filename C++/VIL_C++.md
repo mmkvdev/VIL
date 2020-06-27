@@ -34,5 +34,5 @@
 
 ### C++ - [Boolean Data Types](https://www.w3schools.com/cpp/cpp_data_types_bool.asp)
 
-### C++ - []()
+### C++ - [Char Data Types](https://www.w3schools.com/cpp/cpp_data_types_char.asp)
 
