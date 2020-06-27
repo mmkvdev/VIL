@@ -20,7 +20,7 @@
 
 ### C++ - [Variables](https://www.w3schools.com/cpp/cpp_variables.asp)
 
-### C++ - []()
+### C++ - [Declare Multiple Variables](https://www.w3schools.com/cpp/cpp_variables_multiple.asp)
 
 ### C++ - []()
 
