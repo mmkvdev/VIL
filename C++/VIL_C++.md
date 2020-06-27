@@ -46,4 +46,4 @@
 
 ### C++ - [Comparison Operators](https://www.w3schools.com/cpp/cpp_operators_comparison.asp)
 
-### C++ - [Operators]()
+### C++ - [Logical Operators](https://www.w3schools.com/cpp/cpp_operators_logical.asp)
