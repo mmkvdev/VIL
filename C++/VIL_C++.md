@@ -74,4 +74,4 @@
 
 ### C++ - [elseif](https://www.w3schools.com/cpp/cpp_conditions_elseif.asp)
 
-### C++ - []()
+### C++ - [ternary](https://www.w3schools.com/cpp/cpp_conditions_shorthand.asp)
