@@ -58,6 +58,6 @@
 
 ### C++ - [String Access](https://www.w3schools.com/cpp/cpp_strings_access.asp)
 
-### C++ - [](https://www.w3schools.com/cpp/cpp_strings.asp)
+### C++ - [User Input String](https://www.w3schools.com/cpp/cpp_strings_input.asp)
 
 ### C++ - [](https://www.w3schools.com/cpp/cpp_strings.asp)
