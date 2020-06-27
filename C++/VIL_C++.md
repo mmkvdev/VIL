@@ -38,3 +38,12 @@
 
 ### C++ - [String Data Types](https://www.w3schools.com/cpp/cpp_data_types_string.asp)
 
+### C++ - [Operators](https://www.w3schools.com/cpp/cpp_operators.asp)
+
+### C++ - [Operators]()
+
+### C++ - [Operators]()
+
+### C++ - [Operators]()
+
+### C++ - [Operators]()
