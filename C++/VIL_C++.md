@@ -28,7 +28,7 @@
 
 ### C++ - [User Input](https://www.w3schools.com/cpp/cpp_user_input.asp)
 
-### C++ - []()
+### C++ - [Data Types](https://www.w3schools.com/cpp/cpp_data_types.asp)
 
 ### C++ - []()
 
