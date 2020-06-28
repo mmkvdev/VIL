@@ -79,3 +79,5 @@
 ### C++ - [How to find the 'sizeof' (a pointer pointing to an array)?](https://stackoverflow.com/questions/492384/how-to-find-the-sizeof-a-pointer-pointing-to-an-array)
 
 ### C++ - [Returning Local Array from a function](https://www.geeksforgeeks.org/return-local-array-c-function/)
+
+### C+++ - [Vectors](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
