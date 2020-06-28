@@ -134,7 +134,7 @@
 
 ### C++ - [Access Specifiers](https://www.w3schools.com/cpp/cpp_access_specifiers.asp)
 
-### C++ - []()
+### C++ - [Encapsulation](https://www.w3schools.com/cpp/cpp_encapsulation.asp)
 
 ### C++ - []()
 
