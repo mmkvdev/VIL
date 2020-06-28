@@ -106,6 +106,6 @@
 
 ### C++ - [Pointers](https://www.w3schools.com/cpp/cpp_pointers.asp)
 
-### C++ - []()
+### C++ - [Dereferencing](https://www.w3schools.com/cpp/cpp_pointers_dereference.asp)
 
 ### C++ - []()
