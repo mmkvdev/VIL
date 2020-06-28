@@ -142,4 +142,4 @@
 
 ### C++ - [MultipleInheritance](https://www.w3schools.com/cpp/cpp_inheritance_multiple.asp)
 
-### C++ - []()
+### C++ - [InheritanceAccess](https://www.w3schools.com/cpp/cpp_inheritance_access.asp)
