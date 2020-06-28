@@ -75,3 +75,5 @@
 ### C++ - [elseif](https://www.w3schools.com/cpp/cpp_conditions_elseif.asp)
 
 ### C++ - [ternary](https://www.w3schools.com/cpp/cpp_conditions_shorthand.asp)
+
+### C++ - [How to find the 'sizeof' (a pointer pointing to an array)?](https://stackoverflow.com/questions/492384/how-to-find-the-sizeof-a-pointer-pointing-to-an-array)
