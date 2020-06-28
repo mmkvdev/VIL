@@ -127,3 +127,5 @@
 ### C++ - [OOP](https://www.w3schools.com/cpp/cpp_oop.asp)
 
 ### C++ - [Classes/Objects](https://www.w3schools.com/cpp/cpp_classes.asp)
+
+### C++ - [ClassMethods](https://www.w3schools.com/cpp/cpp_class_methods.asp)
