@@ -131,3 +131,15 @@
 ### C++ - [ClassMethods](https://www.w3schools.com/cpp/cpp_class_methods.asp)
 
 ### C++- [Constructors](https://www.w3schools.com/cpp/cpp_constructors.asp)
+
+### C++ - [Access Specifiers](https://www.w3schools.com/cpp/cpp_access_specifiers.asp)
+
+### C++ - []()
+
+### C++ - []()
+
+### C++ - []()
+
+### C++ - []()
+
+### C++ - []()
