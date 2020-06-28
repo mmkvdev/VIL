@@ -113,3 +113,11 @@
 ### C++ - [Functions](https://www.w3schools.com/cpp/cpp_functions.asp)
 
 ### C++ - [Function Parameters](https://www.w3schools.com/cpp/cpp_function_param.asp)
+
+### C++ - [Default Parameters](https://www.w3schools.com/cpp/cpp_function_default.asp)
+
+### C++ - [Multiple Parameters](https://www.w3schools.com/cpp/cpp_function_multiple.asp)
+
+### C++ - []()
+
+### C++ - []()
