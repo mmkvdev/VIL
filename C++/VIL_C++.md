@@ -118,6 +118,6 @@
 
 ### C++ - [Multiple Parameters](https://www.w3schools.com/cpp/cpp_function_multiple.asp)
 
-### C++ - []()
+### C++ - [Return](https://www.w3schools.com/cpp/cpp_function_return.asp)
 
 ### C++ - []()
