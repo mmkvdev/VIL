@@ -147,3 +147,5 @@
 ### C++ - [Polymorphism](https://www.w3schools.com/cpp/cpp_polymorphism.asp)
 
 ### C++ - [Files](https://www.w3schools.com/cpp/cpp_files.asp)
+
+### C++ - [Exceptions](https://www.w3schools.com/cpp/cpp_exceptions.asp)
