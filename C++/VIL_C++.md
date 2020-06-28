@@ -85,3 +85,5 @@
 ### C++ - [INT_MAX - INT_MIN](https://www.geeksforgeeks.org/int_max-int_min-cc-applications/#:~:text=INT_MIN%20specifies%20that%20an%20integer,Value%20of%20INT_MAX%20is%20%2B2147483647.)
 
 ### C++ - [Switch](https://www.w3schools.com/cpp/cpp_switch.asp)
+
+### C++ - [While Loop](https://www.w3schools.com/cpp/cpp_while_loop.asp)
