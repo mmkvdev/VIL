@@ -35,3 +35,5 @@
 ### DS - [Types of Binary Trees](https://en.wikipedia.org/wiki/Binary_tree#Types_of_binary_trees)
 
 ### DS - [Data Structures](https://www.geeksforgeeks.org/data-structures/)
+
+### DS - [Data Structures Arrays](https://www.geeksforgeeks.org/array-data-structure/)
