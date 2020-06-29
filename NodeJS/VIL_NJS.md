@@ -28,3 +28,5 @@
 ### Node - [Warning "Critical dependency: the request of a dependency is an expression" when used with Serverless & Webpack #7476](https://github.com/Automattic/mongoose/issues/7476)
 
 ### Node - [Docs](https://nodejs.org/en/docs/)
+
+### Node - [API Documentation](https://nodejs.org/api/)
