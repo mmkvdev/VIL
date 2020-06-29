@@ -70,3 +70,7 @@
 ### JS - [While-For](https://javascript.info/while-for)
 
 ### JS - [Functions](https://javascript.info/function-basics)
+
+### JS - [Multidimensional Array](https://www.javascripttutorial.net/javascript-multidimensional-array/)
+
+### JS - [[How to create two dimensional array in JavaScript?](https://www.geeksforgeeks.org/how-to-create-two-dimensional-array-in-javascript/)
