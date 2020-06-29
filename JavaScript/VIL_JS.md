@@ -64,3 +64,5 @@
 ### JS - [WebAssembly Specification](https://webassembly.github.io/spec/core/)
 
 ### JS - [Embedded JavaScript templating.](https://ejs.co/)
+
+### JS - [Array](https://javascript.info/array)
