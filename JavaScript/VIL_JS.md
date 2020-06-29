@@ -52,3 +52,5 @@
 ### JS - [Window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 ### JS - [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
+
+### JS - [Docs](https://developer.mozilla.org/en-US/docs/Learn)
