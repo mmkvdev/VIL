@@ -66,3 +66,5 @@
 ### JS - [Embedded JavaScript templating.](https://ejs.co/)
 
 ### JS - [Array](https://javascript.info/array)
+
+### JS - [While-For](https://javascript.info/while-for)
