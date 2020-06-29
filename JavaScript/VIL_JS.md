@@ -60,3 +60,5 @@
 ### JS - [V8](https://v8.dev/)
 
 ### JS - [ECMA](https://tc39.es/ecma262/)
+
+### JS - [WebAssembly Specification](https://webassembly.github.io/spec/core/)
