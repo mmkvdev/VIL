@@ -68,3 +68,5 @@
 ### JS - [Array](https://javascript.info/array)
 
 ### JS - [While-For](https://javascript.info/while-for)
+
+### JS - [Functions](https://javascript.info/function-basics)
