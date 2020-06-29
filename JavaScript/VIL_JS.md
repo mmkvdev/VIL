@@ -54,3 +54,5 @@
 ### JS - [color](https://developer.mozilla.org/en-US/docs/Web/CSS/color)
 
 ### JS - [Docs](https://developer.mozilla.org/en-US/docs/Learn)
+
+### JS - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/preface.md)
