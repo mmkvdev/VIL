@@ -76,3 +76,5 @@
 ### JS - [[How to create two dimensional array in JavaScript?](https://www.geeksforgeeks.org/how-to-create-two-dimensional-array-in-javascript/)
 
 ### JS - [Javascript | Set all values of an array](https://stackoverflow.com/questions/5802762/javascript-set-all-values-of-an-array)
+
+### JS - [How to fill multidimensional array in javascript?](https://stackoverflow.com/questions/53992415/how-to-fill-multidimensional-array-in-javascript)
