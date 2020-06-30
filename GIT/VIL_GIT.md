@@ -69,3 +69,5 @@
 ### GIT - [REPO STATISTICS](https://developer.github.com/enterprise/2.7/v3/repos/statistics/)
 
 ### GIT - [About organization membership](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-organization-membership)
+
+### GIT - [Remote URL](https://help.github.com/en/github/using-git/changing-a-remotes-url)
