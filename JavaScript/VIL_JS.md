@@ -96,3 +96,5 @@
 ### JS - [ECMA Intro](https://www.ecma-international.org/ecma-262/11.0/index.html#title)
 
 ### JS - [ECMA GIT](https://github.com/tc39/ecma262)
+
+### JS - [GPPL](https://en.wikipedia.org/wiki/General-purpose_programming_language)
