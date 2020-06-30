@@ -80,3 +80,5 @@
 ### JS - [How to fill multidimensional array in javascript?](https://stackoverflow.com/questions/53992415/how-to-fill-multidimensional-array-in-javascript)
 
 ### JS - [Dictionaries](https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs)
+
+### JS - [Array Methods](https://javascript.info/array-methods)
