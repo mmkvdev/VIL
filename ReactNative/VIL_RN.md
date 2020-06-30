@@ -67,3 +67,5 @@
 ### React Native - [React Native Docs](http://reactnative.dev/docs/getting-started.html)
 
 ### React Native - [React Navigation (V2): How to set the Icon and the label of a stack Navigator inside a Drawer Navigator?](https://stackoverflow.com/questions/51685716/react-navigation-v2-how-to-set-the-icon-and-the-label-of-a-stack-navigator-in)
+
+### React Native - [Expo SDK 38 is now available](https://dev.to/expo/expo-sdk-38-is-now-available-5aa0)
