@@ -65,3 +65,5 @@
 ### React Native - [Ignite command not found #1424](https://github.com/infinitered/ignite/issues/1424)
 
 ### React Native - [React Native Docs](http://reactnative.dev/docs/getting-started.html)
+
+### React Native - [React Navigation (V2): How to set the Icon and the label of a stack Navigator inside a Drawer Navigator?](https://stackoverflow.com/questions/51685716/react-navigation-v2-how-to-set-the-icon-and-the-label-of-a-stack-navigator-in)
