@@ -88,3 +88,5 @@
 ### JS - [ECMA Script](https://en.wikipedia.org/wiki/ECMAScript)
 
 ### JS - [Client Side Scripting](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting)
+
+### JS - [Server Side Scripting](https://en.wikipedia.org/wiki/Server-side_scripting)
