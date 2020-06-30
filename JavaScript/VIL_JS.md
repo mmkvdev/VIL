@@ -98,3 +98,5 @@
 ### JS - [ECMA GIT](https://github.com/tc39/ecma262)
 
 ### JS - [GPPL](https://en.wikipedia.org/wiki/General-purpose_programming_language)
+
+### JS - [JavaScript Multi-Dimensional Arrays](https://medium.com/javascript-in-plain-english/javascript-multi-dimensional-arrays-7186e8edd03)
