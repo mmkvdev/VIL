@@ -82,3 +82,5 @@
 ### JS - [Dictionaries](https://pietschsoft.com/post/2015/09/05/javascript-basics-how-to-create-a-dictionary-with-keyvalue-pairs)
 
 ### JS - [Array Methods](https://javascript.info/array-methods)
+
+### JS - [Intro](https://javascript.info/intro)
