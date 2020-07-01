@@ -104,3 +104,5 @@
 ### JS - [Modern JS](https://javascript.info/)
 
 ### JS - [Hello-World](https://javascript.info/hello-world)
+
+### JS - [DevTools](https://javascript.info/devtools)
