@@ -108,3 +108,5 @@
 ### JS - [DevTools](https://javascript.info/devtools)
 
 ### JS - [Code Editors](https://javascript.info/code-editors)
+
+### JS - [Manual Specifications](https://javascript.info/manuals-specifications)
