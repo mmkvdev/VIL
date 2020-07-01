@@ -124,3 +124,5 @@
 ### JS - [Mozilla Spider Monkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
 
 ### JS - [Mozilla Spider Monkey Releases](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases)
+
+### JS - [Mozilla Spider Monkey Build Documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Build_Documentation)
