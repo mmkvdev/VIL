@@ -122,3 +122,5 @@
 ### JS - [Browser Engine](https://en.wikipedia.org/wiki/Browser_engine)
 
 ### JS - [Mozilla Spider Monkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey)
+
+### JS - [Mozilla Spider Monkey Releases](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases)
