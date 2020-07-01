@@ -118,3 +118,5 @@
 ### JS - [SpiderMonket git](https://github.com/ricardoquesada/Spidermonkey/)
 
 ### JS - [JS Engine](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+### JS - [Browser Engine](https://en.wikipedia.org/wiki/Browser_engine)
