@@ -106,3 +106,5 @@
 ### JS - [Hello-World](https://javascript.info/hello-world)
 
 ### JS - [DevTools](https://javascript.info/devtools)
+
+### JS - [Code Editors](https://javascript.info/code-editors)
