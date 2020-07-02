@@ -531,3 +531,5 @@
 ### React - [useLayoutEffect](https://reactjs.org/docs/hooks-reference.html#uselayouteffect)
 
 ### React - [Loaders](https://webpack.js.org/concepts/loaders/)
+
+### React - [Using a function in `setState` instead of an object](https://medium.com/@wisecobbler/using-a-function-in-setstate-instead-of-an-object-1f5cfd6e55d1)
