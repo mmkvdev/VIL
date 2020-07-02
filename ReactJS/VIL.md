@@ -529,3 +529,5 @@
 ### React - [BootStrap](https://react-bootstrap.github.io/getting-started/introduction/)
 
 ### React - [useLayoutEffect](https://reactjs.org/docs/hooks-reference.html#uselayouteffect)
+
+### React - [Loaders](https://webpack.js.org/concepts/loaders/)
