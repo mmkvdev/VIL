@@ -42,6 +42,8 @@
 
 ### DS - [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
 
+### DS - [What is the difference between tree depth and height?](https://stackoverflow.com/questions/2603692/what-is-the-difference-between-tree-depth-and-height#:~:text=The%20depth%20of%20a%20node,the%20node%20to%20a%20leaf.)
+
 https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/
 https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/
 https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
