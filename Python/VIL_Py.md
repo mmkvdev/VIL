@@ -97,3 +97,5 @@
 ### Python - [Failed to update apt cache (update_cache) #30754](https://github.com/ansible/ansible/issues/30754)
 
 ### Python - [How to completely uninstall kubernetes](https://stackoverflow.com/questions/44698283/how-to-completely-uninstall-kubernetes)
+
+### Python - [Dot Env](https://pypi.org/project/python-dotenv/)
