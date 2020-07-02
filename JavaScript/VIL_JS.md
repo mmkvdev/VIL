@@ -126,3 +126,5 @@
 ### JS - [Mozilla Spider Monkey Releases](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Releases)
 
 ### JS - [Mozilla Spider Monkey Build Documentation](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Build_Documentation)
+
+### JS - [Replace HTML with innerHTML - Javascript](https://stackoverflow.com/questions/50224803/replace-html-with-innerhtml-javascript#:~:text=To%20change%20the%20value%20of,attributeName%2C%20value)%20DOM%20method.)
