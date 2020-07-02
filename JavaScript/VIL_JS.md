@@ -134,3 +134,5 @@
 ### JS - [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
 ### JS - [[DEP0016] DeprecationWarning: 'GLOBAL'/'root' is deprecated, use 'global' #49036](https://github.com/Microsoft/vscode/issues/49036)
+
+### JS - [class](https://javascript.info/class)
