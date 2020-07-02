@@ -39,3 +39,15 @@
 ### DS - [Data Structures Arrays](https://www.geeksforgeeks.org/array-data-structure/)
 
 ### DS - [Data Structures CArrays](https://www.geeksforgeeks.org/category/c-arrays/)
+
+### DS - [Backtracking](https://en.wikipedia.org/wiki/Backtracking)
+
+https://www.geeksforgeeks.org/count-possible-paths-top-left-bottom-right-nxm-matrix/
+https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/
+https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/
+https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/
+https://coderwall.com/p/h4xm0w/why-never-use-new-array-in-javascript
+https://www.javascripttutorial.net/javascript-multidimensional-array/#:~:text=JavaScript%20does%20not%20provide%20the,is%20an%20array%20of%20arrays.
+https://www.google.com/search?q=combinatorics&oq=combinatorics&aqs=chrome..69i57.4592j0j1&sourceid=chrome&ie=UTF-8
+
