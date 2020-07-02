@@ -130,3 +130,5 @@
 ### JS - [Replace HTML with innerHTML - Javascript](https://stackoverflow.com/questions/50224803/replace-html-with-innerhtml-javascript#:~:text=To%20change%20the%20value%20of,attributeName%2C%20value)%20DOM%20method.)
 
 ### JS - [Data Structures](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
+
+### JS - [JavaScript data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
