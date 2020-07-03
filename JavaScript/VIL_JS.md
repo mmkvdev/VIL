@@ -138,3 +138,5 @@
 ### JS - [class](https://javascript.info/class)
 
 ### JS - [MDN Arrays](https://developer.mozilla.org/en-US/docs/Glossary/array)
+
+### JS - [MDN Array Methods](https://developer.mozilla.org/en-US/docs/Glossary/Method)
