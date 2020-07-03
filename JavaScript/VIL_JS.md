@@ -142,3 +142,5 @@
 ### JS - [MDN Array Methods](https://developer.mozilla.org/en-US/docs/Glossary/Method)
 
 ### JS - [Methods pop/push, shift/unshift](https://javascript.info/array#methods-pop-push-shift-unshift)
+
+### JS - [Internals](https://javascript.info/array#internals)
