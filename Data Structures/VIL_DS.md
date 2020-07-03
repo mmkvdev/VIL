@@ -55,3 +55,5 @@ https://www.google.com/search?q=combinatorics&oq=combinatorics&aqs=chrome..69i57
 
 ###DS - [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
 
+###DS - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+
