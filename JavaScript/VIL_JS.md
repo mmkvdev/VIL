@@ -156,3 +156,5 @@
 ### JS - [MultiDimensional Arrays](https://javascript.info/array#multidimensional-arrays)
 
 ### JS - [toString](https://javascript.info/array#tostring)
+
+### JS - [Logical Operators](https://javascript.info/logical-operators)
