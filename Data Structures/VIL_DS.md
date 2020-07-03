@@ -57,3 +57,5 @@ https://www.google.com/search?q=combinatorics&oq=combinatorics&aqs=chrome..69i57
 
 ###DS - [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 
+###DS - [Deque](https://en.wikipedia.org/wiki/Double-ended_queue)
+
