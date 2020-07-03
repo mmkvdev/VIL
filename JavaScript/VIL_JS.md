@@ -154,3 +154,5 @@
 ### JS - [length](https://javascript.info/array#a-word-about-length)
 
 ### JS - [MultiDimensional Arrays](https://javascript.info/array#multidimensional-arrays)
+
+### JS - [toString](https://javascript.info/array#tostring)
