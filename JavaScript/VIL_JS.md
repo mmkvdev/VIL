@@ -146,3 +146,5 @@
 ### JS - [Internals](https://javascript.info/array#internals)
 
 ### JS - [Performance](https://javascript.info/array#performance)
+
+### JS - [Loops](https://javascript.info/array#loops)
