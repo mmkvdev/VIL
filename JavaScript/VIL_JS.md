@@ -144,3 +144,5 @@
 ### JS - [Methods pop/push, shift/unshift](https://javascript.info/array#methods-pop-push-shift-unshift)
 
 ### JS - [Internals](https://javascript.info/array#internals)
+
+### JS - [Performance](https://javascript.info/array#performance)
