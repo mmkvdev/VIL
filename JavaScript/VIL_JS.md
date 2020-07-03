@@ -150,3 +150,5 @@
 ### JS - [Loops](https://javascript.info/array#loops)
 
 ### JS - [newArray](https://javascript.info/array#new-array)
+
+### JS - [length](https://javascript.info/array#a-word-about-length)
