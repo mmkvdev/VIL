@@ -148,3 +148,5 @@
 ### JS - [Performance](https://javascript.info/array#performance)
 
 ### JS - [Loops](https://javascript.info/array#loops)
+
+### JS - [newArray](https://javascript.info/array#new-array)
