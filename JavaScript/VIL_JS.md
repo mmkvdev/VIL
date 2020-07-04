@@ -160,3 +160,5 @@
 ### JS - [Logical Operators](https://javascript.info/logical-operators)
 
 ### JS - [JS Docs MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### JS - [Reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
