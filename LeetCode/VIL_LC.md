@@ -9,3 +9,5 @@
 ### LeetCode - [IATA Code](https://en.wikipedia.org/wiki/IATA_airport_code#:~:text=An%20IATA%20airport%20code%2C%20also,Air%20Transport%20Association%20(IATA).)
 
 ### LeetCode - [32bit Signed Integer](https://www.quora.com/What-is-32-bit-signed-integer)
+
+### LeetCode - [Prime Factorization](https://www.mathsisfun.com/prime-factorization.html)
