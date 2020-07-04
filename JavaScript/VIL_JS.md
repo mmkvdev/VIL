@@ -162,3 +162,5 @@
 ### JS - [JS Docs MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### JS - [Reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+
+### JS - [Delete](https://love2dev.com/blog/javascript-remove-from-array/)
