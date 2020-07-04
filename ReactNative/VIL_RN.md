@@ -71,3 +71,5 @@
 ### React Native - [Expo SDK 38 is now available](https://dev.to/expo/expo-sdk-38-is-now-available-5aa0)
 
 ### React Native - [bundling failed: Error: Unable to resolve module ` react-native-screens` from `node_modules/react-navigation-tabs/src/navigators/createBottomTabNavigator.js` #6594](https://github.com/react-navigation/react-navigation/issues/6594)
+
+### React Native - [Masked View](https://www.npmjs.com/package/@react-native-community/masked-view)
