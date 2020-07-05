@@ -75,3 +75,5 @@
 ### GIT - [Creating and storing encrypted secrets](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets)
 
 ### GIT - [How to set the default branch in GitHub.com?](https://stackoverflow.com/questions/11334045/how-to-set-the-default-branch-in-github-com)
+
+### GIT - [Git error when pushing - update_ref failed](https://stackoverflow.com/questions/38380009/git-error-when-pushing-update-ref-failed)
