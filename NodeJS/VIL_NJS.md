@@ -30,3 +30,5 @@
 ### Node - [Docs](https://nodejs.org/en/docs/)
 
 ### Node - [API Documentation](https://nodejs.org/api/)
+
+### Node - [How do you put an image file in a json object?](https://stackoverflow.com/questions/34485420/how-do-you-put-an-image-file-in-a-json-object/34485762)
