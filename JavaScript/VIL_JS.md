@@ -164,3 +164,5 @@
 ### JS - [Reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 
 ### JS - [Delete](https://love2dev.com/blog/javascript-remove-from-array/)
+
+### JS - [How do I convert an integer to binary in JavaScript?](https://stackoverflow.com/questions/9939760/how-do-i-convert-an-integer-to-binary-in-javascript)
