@@ -168,3 +168,5 @@
 ### JS - [How do I convert an integer to binary in JavaScript?](https://stackoverflow.com/questions/9939760/how-do-i-convert-an-integer-to-binary-in-javascript)
 
 ### JS - [Bitwise](https://www.w3schools.com/js/js_bitwise.asp)
+
+### JS - [Bitwise Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
