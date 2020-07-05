@@ -73,3 +73,5 @@
 ### GIT - [Remote URL](https://help.github.com/en/github/using-git/changing-a-remotes-url)
 
 ### GIT - [Creating and storing encrypted secrets](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets)
+
+### GIT - [How to set the default branch in GitHub.com?](https://stackoverflow.com/questions/11334045/how-to-set-the-default-branch-in-github-com)
