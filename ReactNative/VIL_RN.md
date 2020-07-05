@@ -81,3 +81,5 @@
 ### React Native - [Expo CLI](https://docs.expo.io/workflow/expo-cli/)
 
 ### React Native - [create-react-native-app not working with Yarn and NPM both #246](https://github.com/expo/create-react-native-app/issues/246)
+
+### React Native - [React Navigation](https://reactnavigation.org/docs/getting-started)
