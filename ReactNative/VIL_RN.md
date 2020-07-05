@@ -77,3 +77,5 @@
 ### React Native - [Expo Github Action](https://github.com/marketplace/actions/expo-github-action)
 
 ### React Native - [Expo Action git](https://github.com/expo/expo-github-action/blob/master/action.yml)
+
+### React Native - [Expo CLI](https://docs.expo.io/workflow/expo-cli/)
