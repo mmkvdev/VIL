@@ -71,3 +71,5 @@
 ### GIT - [About organization membership](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/about-organization-membership)
 
 ### GIT - [Remote URL](https://help.github.com/en/github/using-git/changing-a-remotes-url)
+
+### GIT - [Creating and storing encrypted secrets](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets)
