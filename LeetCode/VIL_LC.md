@@ -13,3 +13,5 @@
 ### LeetCode - [Prime Factorization](https://www.mathsisfun.com/prime-factorization.html)
 
 ### LeetCode - [Unsigned Binary Integers](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch04s10.html#:~:text=Unsigned%20binary%20integers%20are%20modulo,is%20a%20power%20of%202.&text=A%204%2Dbit%20unsigned%20binary%20number%20has%20values%20ranging%20from,%2C%20or%20modulo%2D1610.)
+
+### LeetCode - [HexaDecimalNumbers](https://www.electronics-tutorials.ws/binary/bin_3.html)
