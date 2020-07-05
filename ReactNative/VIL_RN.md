@@ -75,3 +75,5 @@
 ### React Native - [Masked View](https://www.npmjs.com/package/@react-native-community/masked-view)
 
 ### React Native - [Expo Github Action](https://github.com/marketplace/actions/expo-github-action)
+
+### React Native - [Expo Action git](https://github.com/expo/expo-github-action/blob/master/action.yml)
