@@ -79,3 +79,5 @@
 ### React Native - [Expo Action git](https://github.com/expo/expo-github-action/blob/master/action.yml)
 
 ### React Native - [Expo CLI](https://docs.expo.io/workflow/expo-cli/)
+
+### React Native - [create-react-native-app not working with Yarn and NPM both #246](https://github.com/expo/create-react-native-app/issues/246)
