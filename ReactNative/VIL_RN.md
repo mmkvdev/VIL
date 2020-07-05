@@ -73,3 +73,5 @@
 ### React Native - [bundling failed: Error: Unable to resolve module ` react-native-screens` from `node_modules/react-navigation-tabs/src/navigators/createBottomTabNavigator.js` #6594](https://github.com/react-navigation/react-navigation/issues/6594)
 
 ### React Native - [Masked View](https://www.npmjs.com/package/@react-native-community/masked-view)
+
+### React Native - [Expo Github Action](https://github.com/marketplace/actions/expo-github-action)
