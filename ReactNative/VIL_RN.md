@@ -83,3 +83,5 @@
 ### React Native - [create-react-native-app not working with Yarn and NPM both #246](https://github.com/expo/create-react-native-app/issues/246)
 
 ### React Native - [React Navigation](https://reactnavigation.org/docs/getting-started)
+
+### React Native - [`props.children`](https://www.google.com/search?q=props.children+in+react+native&oq=props.children+in&aqs=chrome.1.69i57j69i59.6226j0j1&sourceid=chrome&ie=UTF-8)
