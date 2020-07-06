@@ -34,3 +34,5 @@
 ### Node - [How do you put an image file in a json object?](https://stackoverflow.com/questions/34485420/how-do-you-put-an-image-file-in-a-json-object/34485762)
 
 ### Node - [Intro](https://www.youtube.com/watch?v=zb3Qk8SG5Ms)
+
+### Node - [Basics](https://www.youtube.com/watch?v=OIBIXYLJjsI&t=1s)
