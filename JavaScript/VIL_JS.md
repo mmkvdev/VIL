@@ -172,3 +172,5 @@
 ### JS - [Bitwise Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_Operators)
 
 ### JS - [Number Methods](https://www.w3schools.com/js/js_number_methods.asp)
+
+### JS - [Converting JavaScript Arrays to Strings](https://www.dyn-web.com/javascript/arrays/convert.php)
