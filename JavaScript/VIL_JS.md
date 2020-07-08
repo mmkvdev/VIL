@@ -186,3 +186,5 @@
 ### JS - [Find the min/max element of an Array using JavaScript](https://www.geeksforgeeks.org/find-the-min-max-element-of-an-array-using-javascript/)
 
 ### JS - [sort](https://www.w3schools.com/js/js_array_sort.asp)
+
+### JS - [How to remove duplicates from multidimensional array? [closed]](https://stackoverflow.com/questions/20339466/how-to-remove-duplicates-from-multidimensional-array)
