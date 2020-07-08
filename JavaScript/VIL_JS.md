@@ -180,3 +180,5 @@
 ### JS - [Math Object](https://www.w3schools.com/js/js_math.asp)
 
 ### JS - [RemoveDuplicatesfromAnArray](https://wsvincent.com/javascript-remove-duplicates-array/#:~:text=There%20are%20multiple%20ways%20to,automatically%20remove%20duplicates%20for%20us.&text=Another%20option%20is%20to%20use%20filter().)
+
+### JS - [indexOf](https://www.w3schools.com/jsref/jsref_indexof.asp)
