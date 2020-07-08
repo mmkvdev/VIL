@@ -184,3 +184,5 @@
 ### JS - [indexOf](https://www.w3schools.com/jsref/jsref_indexof.asp)
 
 ### JS - [Find the min/max element of an Array using JavaScript](https://www.geeksforgeeks.org/find-the-min-max-element-of-an-array-using-javascript/)
+
+### JS - [sort](https://www.w3schools.com/js/js_array_sort.asp)
