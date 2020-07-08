@@ -176,3 +176,5 @@
 ### JS - [Converting JavaScript Arrays to Strings](https://www.dyn-web.com/javascript/arrays/convert.php)
 
 ### JS - [How to convert all elements in an array to integer in JavaScript?](https://stackoverflow.com/questions/4437916/how-to-convert-all-elements-in-an-array-to-integer-in-javascript)
+
+### JS - [Math Object](https://www.w3schools.com/js/js_math.asp)
