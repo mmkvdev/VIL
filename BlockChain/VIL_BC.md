@@ -1,3 +1,2 @@
-# HyperLedger
-	https://www.hyperledger.org/
+### [HyperLedger](https://www.hyperledger.org/)
 
