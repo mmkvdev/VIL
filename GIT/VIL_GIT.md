@@ -79,3 +79,5 @@
 ### GIT - [Git error when pushing - update_ref failed](https://stackoverflow.com/questions/38380009/git-error-when-pushing-update-ref-failed)
 
 ### GIT - [Markdown Cheat Sheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
+
+### GIT - [Saving repositories with stars](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars)
