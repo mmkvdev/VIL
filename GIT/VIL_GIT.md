@@ -77,3 +77,5 @@
 ### GIT - [How to set the default branch in GitHub.com?](https://stackoverflow.com/questions/11334045/how-to-set-the-default-branch-in-github-com)
 
 ### GIT - [Git error when pushing - update_ref failed](https://stackoverflow.com/questions/38380009/git-error-when-pushing-update-ref-failed)
+
+### GIT - [Markdown Cheat Sheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
