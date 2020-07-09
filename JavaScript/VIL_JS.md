@@ -188,3 +188,5 @@
 ### JS - [sort](https://www.w3schools.com/js/js_array_sort.asp)
 
 ### JS - [How to remove duplicates from multidimensional array? [closed]](https://stackoverflow.com/questions/20339466/how-to-remove-duplicates-from-multidimensional-array)
+
+### JS - [Array.prototype.flatMap()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/flatMap)
