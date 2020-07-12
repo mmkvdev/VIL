@@ -198,3 +198,5 @@
 ### JS - [Compare Arrays in JavaScript](https://masteringjs.io/tutorials/fundamentals/compare-arrays#:~:text=Arrays%20are%20objects%20in%20JavaScript,arrays%20are%20the%20same%20reference.)
 
 ### JS - [How do I separate an integer into separate digits in an array in JavaScript?](https://stackoverflow.com/questions/9914216/how-do-i-separate-an-integer-into-separate-digits-in-an-array-in-javascript#:~:text=It's%20very%20simple%2C%20first%20convert,an%20array%20of%20individual%20characters.)
+
+### JS - [Converting javascript Integer to byte array and back](https://stackoverflow.com/questions/8482309/converting-javascript-integer-to-byte-array-and-back)
