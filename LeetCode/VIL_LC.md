@@ -17,3 +17,5 @@
 ### LeetCode - [HexaDecimalNumbers](https://www.electronics-tutorials.ws/binary/bin_3.html)
 
 ### LeetCode - [How to convert array of integers into an integer in C?](https://stackoverflow.com/questions/19599364/how-to-convert-array-of-integers-into-an-integer-in-c/19599419)
+
+### LeetCode - [UnSigned Integetr](https://www.cs.utah.edu/~germain/PPS/Topics/unsigned_integer.html)
