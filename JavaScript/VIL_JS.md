@@ -194,3 +194,5 @@
 ### JS - [String.prototype.repeat()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
 
 ### JS - [String.prototype.padStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)
+
+### JS - [Compare Arrays in JavaScript](https://masteringjs.io/tutorials/fundamentals/compare-arrays#:~:text=Arrays%20are%20objects%20in%20JavaScript,arrays%20are%20the%20same%20reference.)
