@@ -204,3 +204,5 @@
 ### JS - [Getting Unexpected Token Export](https://stackoverflow.com/questions/38296667/getting-unexpected-token-export)
 
 ### JS - [Introduction to CommonJS](https://flaviocopes.com/commonjs/)
+
+### JS - [Destructuring](https://flaviocopes.com/es6/#destructuring-assignments)
