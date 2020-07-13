@@ -202,3 +202,5 @@
 ### JS - [Converting javascript Integer to byte array and back](https://stackoverflow.com/questions/8482309/converting-javascript-integer-to-byte-array-and-back)
 
 ### JS - [Getting Unexpected Token Export](https://stackoverflow.com/questions/38296667/getting-unexpected-token-export)
+
+### JS - [Introduction to CommonJS](https://flaviocopes.com/commonjs/)
