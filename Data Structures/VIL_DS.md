@@ -65,3 +65,5 @@ https://www.google.com/search?q=combinatorics&oq=combinatorics&aqs=chrome..69i57
 
 ### DS - [Tree Traversals](https://www.geeksforgeeks.org/tree-traversals-inorder-preorder-and-postorder/)
 
+### DS - [Check if two arrays are equal or not](https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/)
+
