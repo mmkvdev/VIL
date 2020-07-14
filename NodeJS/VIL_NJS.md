@@ -38,3 +38,5 @@
 ### Node - [Basics](https://www.youtube.com/watch?v=OIBIXYLJjsI&t=1s)
 
 ### Node - [Clients&Servers](https://www.youtube.com/watch?v=-HPZ1leCV8k)
+
+### Node - [Requests&Responses](https://www.youtube.com/watch?v=DQD00NAUPNk)
