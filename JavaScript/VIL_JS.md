@@ -206,3 +206,6 @@
 ### JS - [Introduction to CommonJS](https://flaviocopes.com/commonjs/)
 
 ### JS - [Destructuring](https://flaviocopes.com/es6/#destructuring-assignments)
+
+
+### JS - [JavaScript Arrays — Finding The Minimum, Maximum, Sum, & Average Values](https://codeburst.io/javascript-arrays-finding-the-minimum-maximum-sum-average-values-f02f1b0ce332)
