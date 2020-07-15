@@ -211,3 +211,5 @@
 ### JS - [JavaScript Arrays — Finding The Minimum, Maximum, Sum, & Average Values](https://codeburst.io/javascript-arrays-finding-the-minimum-maximum-sum-average-values-f02f1b0ce332)
 
 ### JS - [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+### JS - [replace](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
