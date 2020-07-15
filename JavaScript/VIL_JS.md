@@ -221,3 +221,5 @@
 ### JS - [trim](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trim)
 
 ### JS - [trimStart](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/trimStart)
+
+### JS - [Array Join](https://www.w3schools.com/jsref/jsref_join.asp)
