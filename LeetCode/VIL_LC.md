@@ -25,3 +25,5 @@
 ### LeetCode - [Is there a difference between /\s/g and /\s+/g?](https://stackoverflow.com/questions/5964373/is-there-a-difference-between-s-g-and-s-g)
 
 ### LeetCode - [Digital Root](https://en.wikipedia.org/wiki/Digital_root)
+
+### LeetCode - [Natural Numbers](https://byjus.com/maths/natural-numbers/)
