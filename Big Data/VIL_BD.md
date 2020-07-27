@@ -5,3 +5,5 @@
 ### Big Data - [How Businesses Are Collecting Data (And What They're Doing With It)](https://www.businessnewsdaily.com/10625-businesses-collecting-data.html)
 
 ### Big Data - [Docs](https://www.sas.com/en_in/insights/big-data/what-is-big-data.html)
+
+### Big Data - [15 Big Data Problems You Need to Solve](https://www.solvexia.com/blog/15-big-data-problems-you-need-to-solve)
