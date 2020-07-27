@@ -9,3 +9,5 @@
 ### Big Data - [15 Big Data Problems You Need to Solve](https://www.solvexia.com/blog/15-big-data-problems-you-need-to-solve)
 
 ### Big Data - [5 Benefits: Competitive Advantages of Big Data in Business](https://www.newgenapps.com/blog/importance-benefits-competitive-advantage-big-data/)
+
+### Big Data - [Pros](https://data-flair.training/blogs/benefits-of-big-data/)
