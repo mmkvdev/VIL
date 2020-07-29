@@ -70,3 +70,5 @@ https://www.google.com/search?q=combinatorics&oq=combinatorics&aqs=chrome..69i57
 ### DS - [Acyclic Graph](https://mathworld.wolfram.com/AcyclicGraph.html#:~:text=An%20acyclic%20graph%20is%20a,%2C%20a%20collection%20of%20trees).)
 
 ### DS - [Directed Acyclic Graph](https://medium.com/@hamzasurti/advanced-data-structures-part-1-directed-acyclic-graph-dag-c1d1145b5e5a)
+
+### DS - [Activity or Task Scheduling Problem](https://www.javatpoint.com/activity-or-task-scheduling-problem)
