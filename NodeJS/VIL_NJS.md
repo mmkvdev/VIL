@@ -40,3 +40,5 @@
 ### Node - [Clients&Servers](https://www.youtube.com/watch?v=-HPZ1leCV8k)
 
 ### Node - [Requests&Responses](https://www.youtube.com/watch?v=DQD00NAUPNk)
+
+### Node - [sharp](https://sharp.pixelplumbing.com/)
