@@ -76,3 +76,5 @@ https://www.google.com/search?q=combinatorics&oq=combinatorics&aqs=chrome..69i57
 ### DS - [Types of Task Scheduling Algorithms in Cloud Computing Environment](https://www.intechopen.com/books/scheduling-problems-new-applications-and-trends/types-of-task-scheduling-algorithms-in-cloud-computing-environment#:~:text=Tasks%20scheduling%20algorithms%20are%20defined%20as%20a%20set%20of%20rules,of%20performance%20and%20resources%20utilization.)
 
 ### DS - [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/#concepts)
+
+### DS - [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
