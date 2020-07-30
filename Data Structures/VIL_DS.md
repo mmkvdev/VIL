@@ -78,3 +78,5 @@ https://www.google.com/search?q=combinatorics&oq=combinatorics&aqs=chrome..69i57
 ### DS - [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/#concepts)
 
 ### DS - [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
+
+### DS - [How to solve a Dynamic Programming Problem ?](https://www.geeksforgeeks.org/solve-dynamic-programming-problem/)
