@@ -231,3 +231,5 @@
 ### JS - [Math.pow()](https://www.w3schools.com/jsref/jsref_pow.asp)
 
 ### JS - [Hoisting](https://www.w3schools.com/js/js_hoisting.asp)
+
+### JS - [Scope](https://www.w3schools.com/js/js_scope.asp)
