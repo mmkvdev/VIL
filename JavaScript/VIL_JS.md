@@ -233,3 +233,5 @@
 ### JS - [Hoisting](https://www.w3schools.com/js/js_hoisting.asp)
 
 ### JS - [Scope](https://www.w3schools.com/js/js_scope.asp)
+
+### JS - [let](https://www.w3schools.com/js/js_let.asp)
