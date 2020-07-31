@@ -229,3 +229,5 @@
 ### JS - [How is '2'+'2'-'2'= 20 in JavaScript?](https://stackoverflow.com/questions/48675882/how-is-22-2-20-in-javascript)
 
 ### JS - [Math.pow()](https://www.w3schools.com/jsref/jsref_pow.asp)
+
+### JS - [Hoisting](https://www.w3schools.com/js/js_hoisting.asp)
