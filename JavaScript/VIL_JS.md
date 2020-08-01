@@ -235,3 +235,5 @@
 ### JS - [Scope](https://www.w3schools.com/js/js_scope.asp)
 
 ### JS - [let](https://www.w3schools.com/js/js_let.asp)
+
+### JS - [Operators](https://javascript.info/operators)
