@@ -537,3 +537,5 @@
 ### React - [React Without JSX](https://reactjs.org/docs/react-without-jsx.html)
 
 ### React - [Recoil](https://github.com/facebookexperimental/Recoil)
+
+### React - [Recoil Docs](https://recoiljs.org/docs/introduction/installation)
