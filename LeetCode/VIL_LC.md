@@ -27,3 +27,5 @@
 ### LeetCode - [Digital Root](https://en.wikipedia.org/wiki/Digital_root)
 
 ### LeetCode - [Natural Numbers](https://byjus.com/maths/natural-numbers/)
+
+### LeetCode - [Methods of computing square roots](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots)
