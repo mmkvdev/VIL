@@ -81,3 +81,5 @@
 ### GIT - [Markdown Cheat Sheet](http://nestacms.com/docs/creating-content/markdown-cheat-sheet)
 
 ### GIT - [Saving repositories with stars](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars)
+
+### GIT - [Changing your GitHub username](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/changing-your-github-username)
