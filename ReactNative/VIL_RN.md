@@ -91,3 +91,5 @@
 ### React Native - [react-native-vector-icons](https://www.npmjs.com/package/react-native-vector-icons)
 
 ### React Native - [Use Native Icons in React Native](https://www.digitalocean.com/community/tutorials/react-use-native-icons)
+
+### React Native - [Platform](http://reactnative.dev/docs/platform-specific-code.html#platform-module)
