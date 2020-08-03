@@ -239,3 +239,5 @@
 ### JS - [Operators](https://javascript.info/operators)
 
 ### JS - [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+
+### JS - [RegExp](https://www.w3schools.com/js/js_regexp.asp)
