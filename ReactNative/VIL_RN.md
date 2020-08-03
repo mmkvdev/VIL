@@ -93,3 +93,7 @@
 ### React Native - [Use Native Icons in React Native](https://www.digitalocean.com/community/tutorials/react-use-native-icons)
 
 ### React Native - [Platform](http://reactnative.dev/docs/platform-specific-code.html#platform-module)
+
+### React Native - [How to set the height of button in react native android](https://stackoverflow.com/questions/41777884/how-to-set-the-height-of-button-in-react-native-android)
+
+### React Native - [Handling Text Input](http://reactnative.dev/docs/handling-text-input)
