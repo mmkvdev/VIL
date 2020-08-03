@@ -103,3 +103,5 @@
 ### React Native - [IconButton](https://callstack.github.io/react-native-paper/icon-button.html)
 
 ### React Native - [Icons](https://callstack.github.io/react-native-paper/icons.html)
+
+### React Native - [How to change the border color of a text input in a react native app](https://stackoverflow.com/questions/50168669/how-to-change-the-border-color-of-a-text-input-in-a-react-native-app/50168794)
