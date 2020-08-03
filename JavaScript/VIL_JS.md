@@ -243,3 +243,7 @@
 ### JS - [RegExp](https://www.w3schools.com/js/js_regexp.asp)
 
 ### JS - [Best way to alphanumeric check in Javascript](https://stackoverflow.com/questions/4434076/best-way-to-alphanumeric-check-in-javascript)
+
+### JS - [RegEx for Javascript to allow only alphanumeric](https://stackoverflow.com/questions/388996/regex-for-javascript-to-allow-only-alphanumeric/389022#389022)
+
+### JS - [Remove all special characters except space from a string using JavaScript](https://stackoverflow.com/questions/6555182/remove-all-special-characters-except-space-from-a-string-using-javascript#:~:text=Whose%20special%20characters%20you%20want,%23%22%2C%22%22).)
