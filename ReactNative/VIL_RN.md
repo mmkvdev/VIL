@@ -107,3 +107,5 @@
 ### React Native - [How to change the border color of a text input in a react native app](https://stackoverflow.com/questions/50168669/how-to-change-the-border-color-of-a-text-input-in-a-react-native-app/50168794)
 
 ### React Native - [How to make second line in text Input while entering text in react native?](https://stackoverflow.com/questions/46583379/how-to-make-second-line-in-text-input-while-entering-text-in-react-native)
+
+### React Native - [React Native Border Radius with background color](https://stackoverflow.com/questions/35030758/react-native-border-radius-with-background-color)
