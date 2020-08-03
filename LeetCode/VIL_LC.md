@@ -29,3 +29,5 @@
 ### LeetCode - [Natural Numbers](https://byjus.com/maths/natural-numbers/)
 
 ### LeetCode - [Methods of computing square roots](https://en.wikipedia.org/wiki/Methods_of_computing_square_roots)
+
+### LeetCode - [Regex – Match any character or set of characters](https://howtodoinjava.com/java/regex/match-any-set-of-characters/)
