@@ -37,3 +37,5 @@
 ### LeetCode - [What Are Alphanumeric Characters?](https://theeducationlife.com/alphanumeric-characters/#:~:text=Alphanumeric%2C%20also%20known%20as%20alphameric,as%20%40%20%23%20*%20and%20%26.)
 
 ### LeetCode - [Alphanumeric](https://regexlib.com/Search.aspx?k=alphanumeric&AspxAutoDetectCookieSupport=1)
+
+### LeetCode - [List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
