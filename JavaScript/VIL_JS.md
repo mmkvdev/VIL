@@ -237,3 +237,5 @@
 ### JS - [let](https://www.w3schools.com/js/js_let.asp)
 
 ### JS - [Operators](https://javascript.info/operators)
+
+### JS - [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
