@@ -101,3 +101,5 @@
 ### React Native - [Using a ScrollView](http://reactnative.dev/docs/using-a-scrollview)
 
 ### React Native - [IconButton](https://callstack.github.io/react-native-paper/icon-button.html)
+
+### React Native - [Icons](https://callstack.github.io/react-native-paper/icons.html)
