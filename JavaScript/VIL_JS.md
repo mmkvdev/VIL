@@ -241,3 +241,5 @@
 ### JS - [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 
 ### JS - [RegExp](https://www.w3schools.com/js/js_regexp.asp)
+
+### JS - [Best way to alphanumeric check in Javascript](https://stackoverflow.com/questions/4434076/best-way-to-alphanumeric-check-in-javascript)
