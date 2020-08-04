@@ -249,3 +249,5 @@
 ### JS - [Remove all special characters except space from a string using JavaScript](https://stackoverflow.com/questions/6555182/remove-all-special-characters-except-space-from-a-string-using-javascript#:~:text=Whose%20special%20characters%20you%20want,%23%22%2C%22%22).)
 
 ### JS - [Three Ways to Reverse a String in JavaScript](https://www.freecodecamp.org/news/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb/)
+
+### JS - [Math.log()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log)
