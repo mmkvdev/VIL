@@ -243,3 +243,5 @@
 ### NextJS - [How to add a favicon to a Next.js static site?](https://stackoverflow.com/questions/56213019/how-to-add-a-favicon-to-a-next-js-static-site)
 
 ### NextJS - [Building the Tailwind Blog with Next.js](https://blog.tailwindcss.com/building-the-tailwind-blog)
+
+### NextJS - [NextJS](https://nextjs.org/)
