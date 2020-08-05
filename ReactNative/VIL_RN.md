@@ -126,3 +126,5 @@
 
 
 ### React Native - [Animated](https://reactnative.dev/docs/animated)
+
+React Native - [Native component for "RNSpinkit" does not exist #33](https://github.com/maxs15/react-native-spinkit/issues/33)
