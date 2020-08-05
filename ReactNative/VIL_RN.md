@@ -134,3 +134,5 @@
 ### React Native - [activityindicator](https://docs.expo.io/versions/latest/react-native/activityindicator/)
 
 ### React Native - [lottie-react-native](https://github.com/react-native-community/lottie-react-native)
+
+### React Native - [react-native-animated-loader](https://www.npmjs.com/package/react-native-animated-loader)
