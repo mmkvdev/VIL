@@ -119,3 +119,22 @@
 ### React Native - [Invariant Violation: Native Component component for "RNSpinkit" does not exist #90](https://github.com/maxs15/react-native-spinkit/issues/90)
 
 ### React Native - [React Native JSON.stringify cannot serialize cyclical structures](https://stackoverflow.com/questions/42266462/react-native-json-stringify-cannot-serialize-cyclical-structures)
+
+### React Native - [Ternary operator in react-native](https://stackoverflow.com/questions/53914836/ternary-operator-in-react-native)
+
+### React Native - [props](http://reactnative.dev/docs/props.html)
+
+
+### React Native - [Animated](https://reactnative.dev/docs/animated)
+
+### React Native - [Native component for "RNSpinkit" does not exist #33](https://github.com/maxs15/react-native-spinkit/issues/33)
+
+### React Native - [react-native-loading-spinner-overlay](https://github.com/joinspontaneous/react-native-loading-spinner-overlay)
+
+### React Native - [activityindicator](https://docs.expo.io/versions/latest/react-native/activityindicator/)
+
+### React Native - [lottie-react-native](https://github.com/react-native-community/lottie-react-native)
+
+### React Native - [react-native-animated-loader](https://www.npmjs.com/package/react-native-animated-loader)
+
+### React Native - [lottie](https://docs.expo.io/versions/latest/sdk/lottie/)
