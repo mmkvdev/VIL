@@ -543,3 +543,5 @@
 ### React - [Context](https://reactjs.org/docs/context.html)
 
 ### React - [styled-loaders-react](https://www.npmjs.com/package/styled-loaders-react)
+
+### React - [Docs](https://github.com/saisandeepvaddi/styled-loaders-react#readme)
