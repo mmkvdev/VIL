@@ -131,4 +131,6 @@
 
 ### React Native - [react-native-loading-spinner-overlay](https://github.com/joinspontaneous/react-native-loading-spinner-overlay)
 
-### React Native - [ActivityIndicator](https://docs.expo.io/versions/latest/react-native/activityindicator/)
+### React Native - [activityindicator](https://docs.expo.io/versions/latest/react-native/activityindicator/)
+
+### React Native - [lottie-react-native](https://github.com/react-native-community/lottie-react-native)
