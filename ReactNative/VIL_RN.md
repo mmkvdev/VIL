@@ -130,3 +130,5 @@
 ### React Native - [Native component for "RNSpinkit" does not exist #33](https://github.com/maxs15/react-native-spinkit/issues/33)
 
 ### React Native - [react-native-loading-spinner-overlay](https://github.com/joinspontaneous/react-native-loading-spinner-overlay)
+
+### React Native - [ActivityIndicator](https://docs.expo.io/versions/latest/react-native/activityindicator/)
