@@ -119,3 +119,5 @@
 ### React Native - [Invariant Violation: Native Component component for "RNSpinkit" does not exist #90](https://github.com/maxs15/react-native-spinkit/issues/90)
 
 ### React Native - [React Native JSON.stringify cannot serialize cyclical structures](https://stackoverflow.com/questions/42266462/react-native-json-stringify-cannot-serialize-cyclical-structures)
+
+### React Native - [Ternary operator in react-native](https://stackoverflow.com/questions/53914836/ternary-operator-in-react-native)
