@@ -111,3 +111,5 @@
 ### React Native - [React Native Border Radius with background color](https://stackoverflow.com/questions/35030758/react-native-border-radius-with-background-color)
 
 ### React Native - [react-native-spinkit](https://www.npmjs.com/package/react-native-spinkit)
+
+### React Native - [Docs](https://github.com/maxs15/react-native-spinkit#readme)
