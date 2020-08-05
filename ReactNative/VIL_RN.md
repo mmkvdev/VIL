@@ -109,3 +109,7 @@
 ### React Native - [How to make second line in text Input while entering text in react native?](https://stackoverflow.com/questions/46583379/how-to-make-second-line-in-text-input-while-entering-text-in-react-native)
 
 ### React Native - [React Native Border Radius with background color](https://stackoverflow.com/questions/35030758/react-native-border-radius-with-background-color)
+
+### React Native - [react-native-spinkit](https://www.npmjs.com/package/react-native-spinkit)
+
+### React Native - [Docs](https://github.com/maxs15/react-native-spinkit#readme)
