@@ -115,3 +115,5 @@
 ### React Native - [Docs](https://github.com/maxs15/react-native-spinkit#readme)
 
 ### React Native - [Import fails with "Failed to execute 'ImportScripts' on 'WorkerGlobalScope'" #662](https://github.com/oblador/react-native-vector-icons/issues/662)
+
+### React Native - [Invariant Violation: Native Component component for "RNSpinkit" does not exist #90](https://github.com/maxs15/react-native-spinkit/issues/90)
