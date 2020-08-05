@@ -121,3 +121,5 @@
 ### React Native - [React Native JSON.stringify cannot serialize cyclical structures](https://stackoverflow.com/questions/42266462/react-native-json-stringify-cannot-serialize-cyclical-structures)
 
 ### React Native - [Ternary operator in react-native](https://stackoverflow.com/questions/53914836/ternary-operator-in-react-native)
+
+### React Native - [props](http://reactnative.dev/docs/props.html)
