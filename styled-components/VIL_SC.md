@@ -9,3 +9,5 @@
 ### Styled Components - [Docs](https://styled-components.com/docs)
 
 ### Styled Components - [GIT REPO](https://github.com/styled-components/styled-components)
+
+### Styled Components - [Docs](https://styled-components.com/docs/basics)
