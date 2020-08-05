@@ -123,3 +123,6 @@
 ### React Native - [Ternary operator in react-native](https://stackoverflow.com/questions/53914836/ternary-operator-in-react-native)
 
 ### React Native - [props](http://reactnative.dev/docs/props.html)
+
+
+### React Native - [Animated](https://reactnative.dev/docs/animated)
