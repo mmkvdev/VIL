@@ -99,3 +99,5 @@
 ### Python - [How to completely uninstall kubernetes](https://stackoverflow.com/questions/44698283/how-to-completely-uninstall-kubernetes)
 
 ### Python - [Dot Env](https://pypi.org/project/python-dotenv/)
+
+### Python - [Python List count() Method](https://www.w3schools.com/python/ref_list_count.asp)

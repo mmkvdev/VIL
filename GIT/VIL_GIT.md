@@ -83,3 +83,5 @@
 ### GIT - [Saving repositories with stars](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars)
 
 ### GIT - [Changing your GitHub username](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/changing-your-github-username)
+
+### GIT - [Repo Stats](https://docs.github.com/en/rest/reference/repos#statistics)
