@@ -547,3 +547,5 @@
 ### React - [Docs](https://github.com/saisandeepvaddi/styled-loaders-react#readme)
 
 ### React - [Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+
+### React - [Search filter for multiple object in ReactJS](https://www.cluemediator.com/search-filter-for-multiple-object-in-reactjs)
