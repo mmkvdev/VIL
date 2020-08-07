@@ -138,3 +138,5 @@
 ### React Native - [react-native-animated-loader](https://www.npmjs.com/package/react-native-animated-loader)
 
 ### React Native - [lottie](https://docs.expo.io/versions/latest/sdk/lottie/)
+
+### React Native - [Formik](https://formik.org/docs/guides/react-native)
