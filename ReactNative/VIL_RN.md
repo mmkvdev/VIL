@@ -148,3 +148,5 @@
 ### React Native - [Networking](https://reactnative.dev/docs/network)
 
 ### React Native - [ How to make a post request with JSON data in application/x-www-form-urlencoded #263 ](https://github.com/github/fetch/issues/263)
+
+### React Native - [Post a x-www-form-urlencoded request in React Native with fetch](https://medium.com/@phamngocmy177/post-a-x-www-form-urlencoded-request-in-react-native-with-fetch-e5253d6072f4)
