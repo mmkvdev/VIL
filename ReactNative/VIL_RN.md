@@ -142,3 +142,5 @@
 ### React Native - [Formik](https://formik.org/docs/guides/react-native)
 
 ### React Native - [Formik](https://formik.org/)
+
+### React Native - [Animations](https://reactnative.dev/docs/animations)
