@@ -146,3 +146,5 @@
 ### React Native - [Animations](https://reactnative.dev/docs/animations)
 
 ### React Native - [Networking](https://reactnative.dev/docs/network)
+
+### React Native - [ How to make a post request with JSON data in application/x-www-form-urlencoded #263 ](https://github.com/github/fetch/issues/263)
