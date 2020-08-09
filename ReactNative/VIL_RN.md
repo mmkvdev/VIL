@@ -158,3 +158,7 @@
 ### React Native - [react-native-slider-alert](https://www.npmjs.com/package/react-native-slider-alert)
 
 ### React Native - [React Native Sweet Alert](https://www.npmjs.com/package/react-native-sweet-alert-best)
+
+### React Native - [Alert](https://reactnative.dev/docs/alert)
+
+### React Native - [How to return value from function call by button onpress?](https://stackoverflow.com/questions/55368335/how-to-return-value-from-function-call-by-button-onpress)
