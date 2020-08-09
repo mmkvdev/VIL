@@ -152,3 +152,5 @@
 ### React Native - [Post a x-www-form-urlencoded request in React Native with fetch](https://medium.com/@phamngocmy177/post-a-x-www-form-urlencoded-request-in-react-native-with-fetch-e5253d6072f4)
 
 ### React Native - [react-native-animated-alert](https://www.npmjs.com/package/@logisticinfotech/react-native-animated-alert)
+
+### React Native - [react-native-animated-message](https://www.npmjs.com/package/react-native-animated-message)
