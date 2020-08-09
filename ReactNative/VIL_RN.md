@@ -154,3 +154,5 @@
 ### React Native - [react-native-animated-alert](https://www.npmjs.com/package/@logisticinfotech/react-native-animated-alert)
 
 ### React Native - [react-native-animated-message](https://www.npmjs.com/package/react-native-animated-message)
+
+### React Native - [react-native-slider-alert](https://www.npmjs.com/package/react-native-slider-alert)
