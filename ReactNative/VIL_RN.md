@@ -156,3 +156,5 @@
 ### React Native - [react-native-animated-message](https://www.npmjs.com/package/react-native-animated-message)
 
 ### React Native - [react-native-slider-alert](https://www.npmjs.com/package/react-native-slider-alert)
+
+### React Native - [React Native Sweet Alert](https://www.npmjs.com/package/react-native-sweet-alert-best)
