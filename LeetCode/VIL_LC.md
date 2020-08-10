@@ -41,3 +41,5 @@
 ### LeetCode - [List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
 
 ### LeetCode - [Cell Reference](https://techterms.com/definition/cell_reference#:~:text=Each%20cell%20reference%20contains%20one%20or%20more%20letters%20followed%20by%20a%20number.&text=These%20letters%20are%20typically%20displayed,AC%20for%20column%2029%2C%20etc.)
+
+### LeetCode - [Base 26](http://mathforum.org/library/drmath/view/55730.html)
