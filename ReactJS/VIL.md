@@ -555,3 +555,5 @@
 ### React - [Yup](https://github.com/jquense/yup)
 
 ### React - [Yup Usage](https://github.com/jquense/yup#usage)
+
+### React - [Validate Address fields only if one field is completed #375](https://github.com/jquense/yup/issues/375)
