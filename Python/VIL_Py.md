@@ -107,3 +107,7 @@
 ### Python - [Python Sets](https://www.w3schools.com/python/python_sets.asp)
 
 ### Python - [How to Use the Python or Operator](https://realpython.com/python-or-operator/#:~:text=In%20short%2C%20the%20Python%20or,regardless%20of%20its%20truth%20value.&text=In%20this%20example%2C%20the%20Python,finds%2C%20or%20the%20last%20one.)
+
+### Python - [Python for Loop](https://www.programiz.com/python-programming/for-loop)
+
+### Python - [Python ord()](https://www.programiz.com/python-programming/methods/built-in/ord)

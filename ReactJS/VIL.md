@@ -551,3 +551,7 @@
 ### React - [Search filter for multiple object in ReactJS](https://www.cluemediator.com/search-filter-for-multiple-object-in-reactjs)
 
 ### React - [ Question: How to choose between Redux's store and React's state? #1287 ](https://github.com/reduxjs/redux/issues/1287)
+
+### React - [Yup](https://github.com/jquense/yup)
+
+### React - [Yup Usage](https://github.com/jquense/yup#usage)
