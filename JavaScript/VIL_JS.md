@@ -259,3 +259,6 @@
 ### JS - [Object initializer](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
 
 ### JS - [How to create dictionary and add key–value pairs dynamically?](https://stackoverflow.com/questions/7196212/how-to-create-dictionary-and-add-key-value-pairs-dynamically)
+
+
+### JS - [The most powerful data validation library for JS JOI](https://github.com/sideway/joi)
