@@ -557,3 +557,5 @@
 ### React - [Yup Usage](https://github.com/jquense/yup#usage)
 
 ### React - [Validate Address fields only if one field is completed #375](https://github.com/jquense/yup/issues/375)
+
+### React - [An Introduction to Validation in React with Yup](https://medium.com/@rossbulat/introduction-to-yup-object-validation-in-react-9863af93dc0e)
