@@ -43,3 +43,5 @@
 ### LeetCode - [Cell Reference](https://techterms.com/definition/cell_reference#:~:text=Each%20cell%20reference%20contains%20one%20or%20more%20letters%20followed%20by%20a%20number.&text=These%20letters%20are%20typically%20displayed,AC%20for%20column%2029%2C%20etc.)
 
 ### LeetCode - [Base 26](http://mathforum.org/library/drmath/view/55730.html)
+
+### LeetCode - [Unicode Code Ranges](https://docs.oracle.com/cd/B10501_01/server.920/a96529/appb.htm#:~:text=UTF%2D16%20Encoding,-As%20shown%20in&text=A%20supplementary%20character%20consists%20of,more%20than%20one%20million%20characters.)
