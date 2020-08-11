@@ -87,3 +87,7 @@
 ### GIT - [Repo Stats](https://docs.github.com/en/rest/reference/repos#statistics)
 
 ### GIT - [Fetch](https://github.github.io/fetch/)
+
+### GIT - [Permission denied (publickey). fatal: Could not read from remote repository. #23](https://github.com/facebookresearch/deepmask/issues/23)
+
+### GIT - [How to manage multiple GitHub accounts on a single machine with SSH keys](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/)
