@@ -262,3 +262,5 @@
 
 
 ### JS - [The most powerful data validation library for JS JOI](https://github.com/sideway/joi)
+
+### JS - [Math.max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
