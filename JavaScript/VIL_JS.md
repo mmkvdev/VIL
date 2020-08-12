@@ -264,3 +264,7 @@
 ### JS - [The most powerful data validation library for JS JOI](https://github.com/sideway/joi)
 
 ### JS - [Math.max()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/max)
+
+### JS - [How to create a zero filled JavaScript array of arbitrary length? [duplicate]](https://stackoverflow.com/questions/20222501/how-to-create-a-zero-filled-javascript-array-of-arbitrary-length/22209781#:~:text=If%20your%20array%20is%20dynamic,replace%2010%20by%20that%20variable.&text=By%20default%20Uint8Array%20%2C%20Uint16Array%20and,ary%20%3D%20new%20Uint8Array(10)%3B)
+
+### JS - [parseInt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
