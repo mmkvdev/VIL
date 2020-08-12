@@ -149,3 +149,9 @@
 ### C++ - [Files](https://www.w3schools.com/cpp/cpp_files.asp)
 
 ### C++ - [Exceptions](https://www.w3schools.com/cpp/cpp_exceptions.asp)
+
+### C++ - [fill() and fill_n() functions in C++ STL](https://www.geeksforgeeks.org/fill-and-fill_n-functions-in-c-stl/)
+
+### C++ - [Vector in C++ STL](https://www.geeksforgeeks.org/vector-in-cpp-stl/)
+
+### C++ - [vector insert() function in C++ STL](https://www.geeksforgeeks.org/vector-insert-function-in-c-stl/)
