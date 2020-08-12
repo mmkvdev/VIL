@@ -111,3 +111,5 @@
 ### Python - [Python for Loop](https://www.programiz.com/python-programming/for-loop)
 
 ### Python - [Python ord()](https://www.programiz.com/python-programming/methods/built-in/ord)
+
+### Python - [List of zeros in python [duplicate]](https://stackoverflow.com/questions/8528178/list-of-zeros-in-python#:~:text=You%20should%20use%20%5B0%5D%20*,a%20list%20with%20n%20zeros.&text=There%20is%20a%20gotcha%20though,elements%20refer%20to%20same%20id%20.)
