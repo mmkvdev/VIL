@@ -20,3 +20,5 @@
 
 
 ### Linux - [Install and configure Pulse Secure on Ubuntu (WebVPN)](https://research.reading.ac.uk/act/knowledgebase/install-and-configure-pulse-secure-on-ubuntu/)
+
+### Linux - [ssh: connect to host github.com port 22: Connection timed out](https://stackoverflow.com/questions/15589682/ssh-connect-to-host-github-com-port-22-connection-timed-out)
