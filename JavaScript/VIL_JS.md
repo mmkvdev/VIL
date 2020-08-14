@@ -270,3 +270,5 @@
 ### JS - [parseInt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt)
 
 ### JS - [Date parse()](https://www.tutorialspoint.com/javascript/date_parse.htm)
+
+### JS - [slice()](https://www.w3schools.com/jsref/jsref_slice_string.asp)
