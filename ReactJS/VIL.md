@@ -561,3 +561,5 @@
 ### React - [An Introduction to Validation in React with Yup](https://medium.com/@rossbulat/introduction-to-yup-object-validation-in-react-9863af93dc0e)
 
 ### React - [Fragments](https://reactjs.org/docs/fragments.html)
+
+### React - [React Datepicker](https://reactdatepicker.com/)
