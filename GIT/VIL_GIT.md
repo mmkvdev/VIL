@@ -91,3 +91,6 @@
 ### GIT - [Permission denied (publickey). fatal: Could not read from remote repository. #23](https://github.com/facebookresearch/deepmask/issues/23)
 
 ### GIT - [How to manage multiple GitHub accounts on a single machine with SSH keys](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/)
+
+### GIT - [How to Solve fatal: refusing to merge unrelated histories](https://careerkarma.com/blog/git-fatal-refusing-to-merge-unrelated-histories/:~:text=The%20fatal:%20refusing%20to%20merge%20unrelated%20histories%20error%20occurs%20when,to%20the%20same%20work%20tree.)
+
