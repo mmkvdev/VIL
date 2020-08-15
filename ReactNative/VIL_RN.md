@@ -172,3 +172,5 @@
 ### React Native - [Image](https://reactnative.dev/docs/0.42/image)
 
 ### React Native - [Redux Essentials, Part 3: Basic Redux Data Flow](https://redux.js.org/tutorials/essentials/part-3-data-flow)
+
+### React Native - [State Management in React Native](https://www.sitepoint.com/state-management-in-react-native/)
