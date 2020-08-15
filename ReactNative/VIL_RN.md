@@ -164,3 +164,9 @@
 ### React Native - [How to return value from function call by button onpress?](https://stackoverflow.com/questions/55368335/how-to-return-value-from-function-call-by-button-onpress)
 
 ### React Native - [Call function onPress React Native](https://stackoverflow.com/questions/45552957/call-function-onpress-react-native/50697887)
+
+### React Native - [Text Props](http://reactnative.dev/docs/text.html#props)
+
+### React Native - [How can you float: right in React Native?](https://stackoverflow.com/questions/32030050/how-can-you-float-right-in-react-native)
+
+### React Native - [Image](https://reactnative.dev/docs/0.42/image)
