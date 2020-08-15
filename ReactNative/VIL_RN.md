@@ -166,3 +166,5 @@
 ### React Native - [Call function onPress React Native](https://stackoverflow.com/questions/45552957/call-function-onpress-react-native/50697887)
 
 ### React Native - [Text Props](http://reactnative.dev/docs/text.html#props)
+
+### React Native - [How can you float: right in React Native?](https://stackoverflow.com/questions/32030050/how-can-you-float-right-in-react-native)
