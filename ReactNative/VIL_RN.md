@@ -170,3 +170,5 @@
 ### React Native - [How can you float: right in React Native?](https://stackoverflow.com/questions/32030050/how-can-you-float-right-in-react-native)
 
 ### React Native - [Image](https://reactnative.dev/docs/0.42/image)
+
+### React Native - [Redux Essentials, Part 3: Basic Redux Data Flow](https://redux.js.org/tutorials/essentials/part-3-data-flow)
