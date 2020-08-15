@@ -168,3 +168,5 @@
 ### React Native - [Text Props](http://reactnative.dev/docs/text.html#props)
 
 ### React Native - [How can you float: right in React Native?](https://stackoverflow.com/questions/32030050/how-can-you-float-right-in-react-native)
+
+### React Native - [Image](https://reactnative.dev/docs/0.42/image)
