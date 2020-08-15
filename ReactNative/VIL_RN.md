@@ -164,3 +164,5 @@
 ### React Native - [How to return value from function call by button onpress?](https://stackoverflow.com/questions/55368335/how-to-return-value-from-function-call-by-button-onpress)
 
 ### React Native - [Call function onPress React Native](https://stackoverflow.com/questions/45552957/call-function-onpress-react-native/50697887)
+
+### React Native - [Text Props](http://reactnative.dev/docs/text.html#props)
