@@ -272,3 +272,7 @@
 ### JS - [Date parse()](https://www.tutorialspoint.com/javascript/date_parse.htm)
 
 ### JS - [slice()](https://www.w3schools.com/jsref/jsref_slice_string.asp)
+
+### JS - [generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
+
+### JS - [JavaScript Convert Number to String](https://stackabuse.com/javascript-convert-number-to-string/)
