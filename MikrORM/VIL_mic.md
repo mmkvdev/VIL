@@ -1,3 +1,6 @@
-### MicrKRM 
+### MIKRORM 
 
-### MicrKRM - [Docs](https://mikro-orm.io/)
+### MIKRORM - [Docs](https://mikro-orm.io/)
+
+
+### MIKRORM - [Installation](https://mikro-orm.io/docs/installation/)
