@@ -13,3 +13,5 @@
 ### Bash - [scp and compress at the same time, no intermediate save](https://unix.stackexchange.com/questions/70581/scp-and-compress-at-the-same-time-no-intermediate-save)
 
 ### Bash - [What's the difference between $@ and $* [duplicate]](https://unix.stackexchange.com/questions/129072/whats-the-difference-between-and)
+
+### Bash - [ Shell Script: Find Number Of Arguments Passed ](https://www.linuxtechtips.com/2013/06/shell-script-find-number-of-arguments.html)
