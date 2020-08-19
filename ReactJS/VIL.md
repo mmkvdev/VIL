@@ -567,3 +567,5 @@
 ### React - [password validation with yup and formik](https://stackoverflow.com/questions/49502436/password-validation-with-yup-and-formik)
 
 ### React - [Forms](https://react-bootstrap.github.io/components/forms/)
+
+### React - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
