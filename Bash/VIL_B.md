@@ -15,3 +15,5 @@
 ### Bash - [What's the difference between $@ and $* [duplicate]](https://unix.stackexchange.com/questions/129072/whats-the-difference-between-and)
 
 ### Bash - [ Shell Script: Find Number Of Arguments Passed ](https://www.linuxtechtips.com/2013/06/shell-script-find-number-of-arguments.html)
+
+### Bash - [Bash Shell Number Comparison](https://www.cyberciti.biz/faq/comparing-numbers-in-bash-shell/)
