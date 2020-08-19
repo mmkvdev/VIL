@@ -17,3 +17,5 @@
 ### Bash - [ Shell Script: Find Number Of Arguments Passed ](https://www.linuxtechtips.com/2013/06/shell-script-find-number-of-arguments.html)
 
 ### Bash - [Bash Shell Number Comparison](https://www.cyberciti.biz/faq/comparing-numbers-in-bash-shell/)
+
+### Bash - [How to open files via Terminal](https://apple.stackexchange.com/questions/212583/how-to-open-files-via-terminal)
