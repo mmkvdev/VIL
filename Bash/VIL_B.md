@@ -7,3 +7,5 @@
 ### Bash - [Stream Editor](https://www.tutorialspoint.com/sed/sed_basic_syntax.htm)
 
 ### Bash - [How do I modify my shell environment?](https://rc.byu.edu/wiki/index.php?page=How+do+I+modify+my+shell+environment%3F)
+
+### Bash - [How to Change Bash Prompt](https://linuxconfig.org/bash-prompt-basics)
