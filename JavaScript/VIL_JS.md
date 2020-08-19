@@ -276,3 +276,7 @@
 ### JS - [generator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*)
 
 ### JS - [JavaScript Convert Number to String](https://stackabuse.com/javascript-convert-number-to-string/)
+
+### JS - [ Type Aliases can only be used in a .ts file #631 ](https://github.com/Microsoft/vscode-react-native/issues/631)
+
+### JS - [What is the meaning of the /dist directory in open source projects?](https://stackoverflow.com/questions/22842691/what-is-the-meaning-of-the-dist-directory-in-open-source-projects)
