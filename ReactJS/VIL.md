@@ -571,3 +571,5 @@
 ### React - [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
 ### React - [react-intl](https://www.npmjs.com/package/react-intl)
+
+### React - [Hooks](https://react-redux.js.org/api/hooks)
