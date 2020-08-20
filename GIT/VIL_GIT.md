@@ -94,3 +94,5 @@
 
 ### GIT - [How to Solve fatal: refusing to merge unrelated histories](https://careerkarma.com/blog/git-fatal-refusing-to-merge-unrelated-histories/:~:text=The%20fatal:%20refusing%20to%20merge%20unrelated%20histories%20error%20occurs%20when,to%20the%20same%20work%20tree.)
 
+### GIT - [ Install Git ](https://www.atlassian.com/git/tutorials/install-git)
+
