@@ -575,3 +575,5 @@
 ### React - [Hooks](https://react-redux.js.org/api/hooks)
 
 ### React - [Suspense for Data Fetching (Experimental)](https://reactjs.org/docs/concurrent-mode-suspense.html)
+
+### React - [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
