@@ -282,3 +282,5 @@
 ### JS - [What is the meaning of the /dist directory in open source projects?](https://stackoverflow.com/questions/22842691/what-is-the-meaning-of-the-dist-directory-in-open-source-projects)
 
 ### JS - [remove-first-character-string-javascript](https://www.techiedelight.com/remove-first-character-string-javascript/)
+
+### JS - [Array.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
