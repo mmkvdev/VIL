@@ -42,3 +42,5 @@
 ### Node - [Requests&Responses](https://www.youtube.com/watch?v=DQD00NAUPNk)
 
 ### Node - [sharp](https://sharp.pixelplumbing.com/)
+
+### Node - [store](https://www.npmjs.com/package/store)
