@@ -577,3 +577,5 @@
 ### React - [Suspense for Data Fetching (Experimental)](https://reactjs.org/docs/concurrent-mode-suspense.html)
 
 ### React - [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
+
+### React - [react-inlinesvg](https://www.npmjs.com/package/react-inlinesvg)
