@@ -286,3 +286,6 @@
 ### JS - [Array.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
 
 ### JS - [Use the One Tap JavaScript API](https://developers.google.com/identity/one-tap/web/guides/use-one-tap-js-api)
+
+
+### JS - [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
