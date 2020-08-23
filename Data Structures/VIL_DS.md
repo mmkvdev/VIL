@@ -80,3 +80,5 @@ https://www.google.com/search?q=combinatorics&oq=combinatorics&aqs=chrome..69i57
 ### DS - [Tabulation vs Memoization](https://www.geeksforgeeks.org/tabulation-vs-memoization/)
 
 ### DS - [How to solve a Dynamic Programming Problem ?](https://www.geeksforgeeks.org/solve-dynamic-programming-problem/)
+
+### DS - [Trie | (Insert and Search)](https://www.geeksforgeeks.org/trie-insert-and-search/)

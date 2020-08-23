@@ -579,3 +579,9 @@
 ### React - [Code-Splitting](https://reactjs.org/docs/code-splitting.html)
 
 ### React - [react-inlinesvg](https://www.npmjs.com/package/react-inlinesvg)
+
+### React - [Profiler API](https://reactjs.org/docs/profiler.html)
+
+### React - [react-animated-text](https://www.npmjs.com/package/react-animated-text)
+
+### React - [React-Loading-Overlay](https://www.npmjs.com/package/react-loading-overlay#custom-spinner)
