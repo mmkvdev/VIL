@@ -84,3 +84,5 @@ https://www.google.com/search?q=combinatorics&oq=combinatorics&aqs=chrome..69i57
 ### DS - [Trie | (Insert and Search)](https://www.geeksforgeeks.org/trie-insert-and-search/)
 
 ### DS - [Trie](https://en.wikipedia.org/wiki/Trie)
+
+### DS - [Advantages of Trie Data Structure](https://www.geeksforgeeks.org/advantages-trie-data-structure/)
