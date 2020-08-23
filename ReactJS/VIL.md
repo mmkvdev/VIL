@@ -581,3 +581,5 @@
 ### React - [react-inlinesvg](https://www.npmjs.com/package/react-inlinesvg)
 
 ### React - [Profiler API](https://reactjs.org/docs/profiler.html)
+
+### React - [react-animated-text](https://www.npmjs.com/package/react-animated-text)
