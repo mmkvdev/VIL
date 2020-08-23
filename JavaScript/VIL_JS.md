@@ -289,3 +289,5 @@
 
 
 ### JS - [Conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+
+### JS - [Make Your Code Cleaner with JavaScript Ternary Operator](https://www.javascripttutorial.net/javascript-ternary-operator/)
