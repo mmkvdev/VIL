@@ -115,3 +115,5 @@
 ### Python - [List of zeros in python [duplicate]](https://stackoverflow.com/questions/8528178/list-of-zeros-in-python#:~:text=You%20should%20use%20%5B0%5D%20*,a%20list%20with%20n%20zeros.&text=There%20is%20a%20gotcha%20though,elements%20refer%20to%20same%20id%20.)
 
 ### Python - [Sorting a list by conditional criteria](https://stackoverflow.com/questions/43682992/sorting-a-list-by-conditional-criteria)
+
+### Python - [Python Operators](https://www.w3schools.com/python/python_operators.asp)
