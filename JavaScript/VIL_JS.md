@@ -295,3 +295,5 @@
 ### JS - [Computed Property Names in JavaScript](http://eloquentcode.com/computed-property-names-in-javascript#:~:text=Computed%20Property%20Names%20is%20an,be%20determined%20dynamically%2C%20i.e.%20computed.)
 
 ### JS - [Styling logs in browser console](https://hackernoon.com/styling-logs-in-browser-console-2ec0807dc91a)
+
+### JS - [Object.keys()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys)
