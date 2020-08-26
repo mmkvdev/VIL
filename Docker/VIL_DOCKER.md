@@ -7,3 +7,5 @@
 ### ['npm install' in a Dockerfile is not installing all my dependencies.](https://github.com/nodejs/docker-node/issues/1005)
 
 ### [ Using Docker for Node.js in Development and Production ](https://dev.to/alex_barashkov/using-docker-for-nodejs-in-development-and-production-3cgp)
+
+### Docker - [Access Private Repositories from Your Dockerfile Without Leaving Behind Your SSH Keys](https://vsupalov.com/build-docker-image-clone-private-repo-ssh-key/)
