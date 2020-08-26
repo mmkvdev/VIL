@@ -44,3 +44,5 @@
 ### Node - [sharp](https://sharp.pixelplumbing.com/)
 
 ### Node - [store](https://www.npmjs.com/package/store)
+
+### Node - [mobile-detect](https://www.npmjs.com/package/mobile-detect)
