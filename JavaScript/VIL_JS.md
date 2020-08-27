@@ -303,3 +303,5 @@
 ### JS - [Template literals (Template strings)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 
 ### JS - [String.prototype.charAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt)
+
+### JS - [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG)
