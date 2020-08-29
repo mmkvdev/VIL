@@ -96,3 +96,5 @@
 
 ### GIT - [ Install Git ](https://www.atlassian.com/git/tutorials/install-git)
 
+### GIT - [How can I delete a commit in Git?](https://www.git-tower.com/learn/git/faq/delete-commits)
+
