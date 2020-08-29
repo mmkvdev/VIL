@@ -33,3 +33,4 @@
 
 ### Linux- [Chown Command in Linux (File Ownership)](https://linuxize.com/post/linux-chown-command/)
 
+### Linux - [How to install kompare on Ubuntu](https://snapcraft.io/install/kompare/ubuntu)
