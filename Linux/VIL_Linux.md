@@ -36,3 +36,5 @@
 ### Linux - [How to install kompare on Ubuntu](https://snapcraft.io/install/kompare/ubuntu)
 
 ### Linux - [Pairing Bluetooth keyboard Logitech K480](https://www.linuxquestions.org/questions/linux-hardware-18/pairing-bluetooth-keyboard-logitech-k480-4175613889/)
+
+### Linux - [Connect your computer to a Bluetooth device](https://help.ubuntu.com/stable/ubuntu-help/bluetooth-connect-device.html.en)
