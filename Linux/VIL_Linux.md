@@ -40,3 +40,5 @@
 ### Linux - [Connect your computer to a Bluetooth device](https://help.ubuntu.com/stable/ubuntu-help/bluetooth-connect-device.html.en)
 
 ### Linux - [System Settings won't start, Ubuntu 16.04](https://askubuntu.com/questions/864723/system-settings-wont-start-ubuntu-16-04)
+
+### Linux - [Blueman – Bluetooth manager for Ubuntu](https://www.ubuntugeek.com/blueman-bluetooth-manager-for-ubuntu.html)
