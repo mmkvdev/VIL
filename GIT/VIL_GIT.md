@@ -98,3 +98,4 @@
 
 ### GIT - [How can I delete a commit in Git?](https://www.git-tower.com/learn/git/faq/delete-commits)
 
+### GIT - [Removing a collaborator from a personal repository](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/removing-a-collaborator-from-a-personal-repository)
