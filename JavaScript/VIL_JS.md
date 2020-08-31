@@ -305,3 +305,5 @@
 ### JS - [String.prototype.charAt()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt)
 
 ### JS - [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG)
+
+### JS - [typeahead.js](https://github.com/twitter/typeahead.js)
