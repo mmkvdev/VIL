@@ -42,3 +42,5 @@
 ### Linux - [System Settings won't start, Ubuntu 16.04](https://askubuntu.com/questions/864723/system-settings-wont-start-ubuntu-16-04)
 
 ### Linux - [Blueman – Bluetooth manager for Ubuntu](https://www.ubuntugeek.com/blueman-bluetooth-manager-for-ubuntu.html)
+
+### Linux - [Moving Panel in Visual Studio Code to right side](https://stackoverflow.com/questions/41874426/moving-panel-in-visual-studio-code-to-right-side)
