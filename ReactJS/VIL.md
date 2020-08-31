@@ -584,4 +584,6 @@
 
 ### React - [react-animated-text](https://www.npmjs.com/package/react-animated-text)
 
-### React - [React-Loading-Overlay](https://www.npmjs.com/package/react-loading-overlay#custom-spinner)
+### React - [React-Loading-Overlay](https://www.npmjs.com/package/react-loading-overlay#custom-spinner)]
+
+### React - [React typeahead](https://github.com/ericgio/react-bootstrap-typeahead)
