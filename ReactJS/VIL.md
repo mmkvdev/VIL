@@ -587,3 +587,5 @@
 ### React - [React-Loading-Overlay](https://www.npmjs.com/package/react-loading-overlay#custom-spinner)]
 
 ### React - [React typeahead](https://github.com/ericgio/react-bootstrap-typeahead)
+
+### React - [Storybook Addon Knobs](https://github.com/storybookjs/storybook/tree/master/addons/knobs)
