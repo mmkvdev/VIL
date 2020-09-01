@@ -48,3 +48,5 @@
 ### Node - [mobile-detect](https://www.npmjs.com/package/mobile-detect)
 
 ### Node - [npm check and update package if needed](https://stackoverflow.com/questions/16525430/npm-check-and-update-package-if-needed)
+
+### Node - npm-outdated](https://docs.npmjs.com/cli/outdated)
