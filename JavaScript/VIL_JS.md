@@ -309,3 +309,5 @@
 ### JS - [typeahead.js](https://github.com/twitter/typeahead.js)
 
 ### JS - [How to unsubscribe from all the Youtube channels at once?](https://stackoverflow.com/questions/48874382/how-to-unsubscribe-from-all-the-youtube-channels-at-once)
+
+### JS - [ztext.js](https://bennettfeely.com/ztext/)
