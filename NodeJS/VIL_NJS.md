@@ -58,3 +58,5 @@
 ### Node - [Semantic Versioning using npm](https://flaviocopes.com/npm-semantic-versioning/)
 
 ### Node - [The package.json guide](https://flaviocopes.com/package-json/)
+
+### Node - [browserslist](https://www.npmjs.com/package/browserslist)
