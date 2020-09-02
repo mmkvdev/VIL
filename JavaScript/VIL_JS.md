@@ -315,3 +315,5 @@
 ### JS - [Source-to-source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)
 
 ### JS - [core-js](https://github.com/zloirock/core-js)
+
+### JS - [fallback](https://developer.mozilla.org/en-US/docs/Web/CSS/@counter-style/fallback)
