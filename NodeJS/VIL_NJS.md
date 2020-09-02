@@ -54,3 +54,5 @@
 ### Node - [Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
 
 ### Node - [Update all the Node dependencies to their latest version](https://flaviocopes.com/update-npm-dependencies/)
+
+### Node - [Semantic Versioning using npm](https://flaviocopes.com/npm-semantic-versioning/)
