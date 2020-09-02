@@ -49,4 +49,6 @@
 
 ### Node - [npm check and update package if needed](https://stackoverflow.com/questions/16525430/npm-check-and-update-package-if-needed)
 
-### Node - npm-outdated](https://docs.npmjs.com/cli/outdated)
+### Node - [npm-outdated](https://docs.npmjs.com/cli/outdated)
+
+### Node - [Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
