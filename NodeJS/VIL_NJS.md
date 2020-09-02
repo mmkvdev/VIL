@@ -64,3 +64,5 @@
 ### Node - [Is there a way to automatically build the package.json file for Node.js projects](https://stackoverflow.com/questions/9961502/is-there-a-way-to-automatically-build-the-package-json-file-for-node-js-projects)
 
 ### Node - [npm-outdated](https://docs.npmjs.com/cli-commands/outdated.html)
+
+### Node - [How do I update devDependencies in NPM?](https://stackoverflow.com/questions/10068592/how-do-i-update-devdependencies-in-npm)
