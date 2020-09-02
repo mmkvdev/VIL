@@ -52,3 +52,5 @@
 ### Node - [npm-outdated](https://docs.npmjs.com/cli/outdated)
 
 ### Node - [Updating packages downloaded from the registry](https://docs.npmjs.com/updating-packages-downloaded-from-the-registry)
+
+### Node - [Update all the Node dependencies to their latest version](https://flaviocopes.com/update-npm-dependencies/)
