@@ -99,3 +99,5 @@
 ### GIT - [How can I delete a commit in Git?](https://www.git-tower.com/learn/git/faq/delete-commits)
 
 ### GIT - [Removing a collaborator from a personal repository](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/removing-a-collaborator-from-a-personal-repository)
+
+### GIT - [Get all files that have been modified in git branch](https://stackoverflow.com/questions/10641361/get-all-files-that-have-been-modified-in-git-branch/10641810)
