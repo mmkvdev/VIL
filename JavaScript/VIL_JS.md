@@ -313,3 +313,5 @@
 ### JS - [ztext.js](https://bennettfeely.com/ztext/)
 
 ### JS - [Source-to-source compiler](https://en.wikipedia.org/wiki/Source-to-source_compiler)
+
+### JS - [core-js](https://github.com/zloirock/core-js)
