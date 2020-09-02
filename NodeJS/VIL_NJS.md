@@ -56,3 +56,5 @@
 ### Node - [Update all the Node dependencies to their latest version](https://flaviocopes.com/update-npm-dependencies/)
 
 ### Node - [Semantic Versioning using npm](https://flaviocopes.com/npm-semantic-versioning/)
+
+### Node - [The package.json guide](https://flaviocopes.com/package-json/)
