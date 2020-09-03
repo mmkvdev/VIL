@@ -117,3 +117,5 @@
 ### Python - [Sorting a list by conditional criteria](https://stackoverflow.com/questions/43682992/sorting-a-list-by-conditional-criteria)
 
 ### Python - [Python Operators](https://www.w3schools.com/python/python_operators.asp)
+
+### Python - [Python String index()](https://www.programiz.com/python-programming/methods/string/index)
