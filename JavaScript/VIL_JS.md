@@ -317,3 +317,5 @@
 ### JS - [core-js](https://github.com/zloirock/core-js)
 
 ### JS - [fallback](https://developer.mozilla.org/en-US/docs/Web/CSS/@counter-style/fallback)
+
+### JS - [Roadmap to Learn JavaScript](https://flaviocopes.com/javascript/)
