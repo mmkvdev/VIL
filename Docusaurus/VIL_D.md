@@ -5,3 +5,5 @@
 ### Docusaurus - [Tutorial](https://docusaurus.io/docs/en/tutorial-setup)
 
 ### Docusaurus - [Navigation and Sidebars](https://docusaurus.io/docs/en/navigation)
+
+### Docusaurus - [siteConfig.js](https://docusaurus.io/docs/en/site-config.html#optional-fields)
