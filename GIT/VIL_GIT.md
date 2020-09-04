@@ -105,3 +105,5 @@
 ### GIT - [How to get the changes on a branch in Git](https://stackoverflow.com/questions/53569/how-to-get-the-changes-on-a-branch-in-git)
 
 ### GIT - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+### GIT - [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
