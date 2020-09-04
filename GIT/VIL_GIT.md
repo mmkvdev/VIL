@@ -103,3 +103,5 @@
 ### GIT - [Get all files that have been modified in git branch](https://stackoverflow.com/questions/10641361/get-all-files-that-have-been-modified-in-git-branch/10641810)
 
 ### GIT - [How to get the changes on a branch in Git](https://stackoverflow.com/questions/53569/how-to-get-the-changes-on-a-branch-in-git)
+
+### GIT - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
