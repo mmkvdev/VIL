@@ -60,8 +60,8 @@ class HomeSplash extends React.Component {
                         title={siteConfig.title}
                     />
                     <PromoSection>
-                        <Button href={docUrl('doc1.html')}>
-                            Explore the range of Links and Documentation
+                        <Button href={docUrl('Actix/actix.html')}>
+                            Explore
                         </Button>
                     </PromoSection>
                 </div>
