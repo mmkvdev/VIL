@@ -1,15 +1,15 @@
 const siteConfig = {
     title: 'Very Important Links', // Title for your website.
     tagline: 'Interesting Links and Documentation',
-    url: 'https://your-docusaurus-test-site.com', // Your website URL
-    baseUrl: '/', // Base URL for your project */
+    url: 'https://mmkvdev.github.io', // Your website URL
+    baseUrl: '/VIL/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
 
     // Used for publishing and more
     projectName: 'VIL',
-    organizationName: 'MMK',
+    organizationName: 'mmkvdev',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -19,7 +19,7 @@ const siteConfig = {
 
     /* path to images for header/footer */
     headerIcon: 'img/VIL_I.png',
-    footerIcon: 'img/VIL_I.png',
+    footerIcon: 'img/VIL_F.svg',
     favicon: 'img/VIL_I.png',
 
     /* Colors for website */
@@ -29,13 +29,7 @@ const siteConfig = {
     },
 
     fonts: {
-        myFont: [
-            'SF Pro Display',
-            'SF Pro Icons',
-            'Helvetica Neue',
-            'Helvetica',
-            'Arial'
-        ]
+        myFont: ['SF Pro Display', 'SF Pro Icons']
     },
 
     // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
