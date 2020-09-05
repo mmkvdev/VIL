@@ -4,6 +4,9 @@ title: AndroidStudio
 sidebar_label: Android Studio
 ---
 
+```java
+Android Studio provides the fastest tools for building apps on every type of Android device.
+```
 
 ### Android Studio - [Developer Docs](https://developer.android.com/studio)
 
