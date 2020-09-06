@@ -1,6 +1,6 @@
 
-<h1 style="font-size: 100px;font-family:'SF Pro Display';" align="center">
-    <p style="color:#2e8555">VIL</p>
+<h1 style="font-size: 60px;font-family:'SF Pro Display';" align="center">
+    <p style="color:#2e8555">VERY IMPORTANT LINKS AND DOCUMENTATIONL</p>
 </h1>
 
 <div align="center">
