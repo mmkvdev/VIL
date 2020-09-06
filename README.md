@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/VIL-Very%20Important%20Links-brightgreen" />
 </div>
 
-<div>
+<div align="center">
     <p style="font-family: 'SF Pro Display';color: #5468ff;font-size:28px">Collection of Curated Links and Documentation related to the technologies I've learned and learning.</p>
 </div>
 <div>
