@@ -78,3 +78,5 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 ### Node - [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
 
 ### Node - [The best way to run npm install for nested folders?](https://stackoverflow.com/questions/31773546/the-best-way-to-run-npm-install-for-nested-folders)
+
+### Node - [Loading from node_modules folders](https://nodejs.org/api/modules.html#modules_loading_from_node_modules_folders)
