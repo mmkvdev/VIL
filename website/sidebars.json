@@ -1,6 +1,7 @@
 {
   "docs": {
     "Actix": ["Actix/actix"],
+    "Algolia": ["Algolia/algolia"],
     "Android Studio": ["AndroidStudio/androidstudio"],
     "Arch Linux":["ArchLinux/archlinux"],
     "Bash": ["Bash/bash"],
@@ -9,6 +10,7 @@
     "C": ["C/c"],
     "C++": ["C++/c++"],
     "ChakraUI": ["ChakraUI/chakraui"],
+    "Commitizen": ["Commitizen/commitizen"],
     "Coffee Script": ["Coffee Script/coffeescript"],
     "Cross Note": ["CrossNote/crossnote"],
     "Css": ["CSS/css"],
@@ -40,6 +42,8 @@
     "Hapi.dev": ["Hapi/hapi"],
     "Hermes Engine": ["Hermes/hermes"],
     "Insomnia": ["Insomnia/insomnia"],
+    "IstanbulJS": ["IstanbulJS/istanbuljs"],
+    "ShieldsIO": ["ShieldsIO/shieldsIO"],
     "Java": ["Java/java"],
     "JavaScript": [
       "JavaScript/javascript"
