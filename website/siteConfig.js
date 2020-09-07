@@ -21,7 +21,13 @@ const siteConfig = {
         theme: 'default'
     },
     scripts: ['https://buttons.github.io/buttons.js'],
-    onPageNav: 'separate'
+    onPageNav: 'separate',
+
+    algolia: {
+        apiKey: '692343975d9d7c6bbd68bbaf2e4251fd',
+        indexName: 'mmkvdev_vil',
+        placeholder: 'Search in Documentation'
+    }
 };
 
 module.exports = siteConfig;
