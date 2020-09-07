@@ -19,3 +19,5 @@ makes it easy to maintain Open Source documentation websites.
 ### Docusaurus - [Markdown Features](https://docusaurus.io/docs/en/doc-markdown)
 
 ### Docusaurus - [Publish the Site](https://docusaurus.io/docs/en/tutorial-publish-site)
+
+### Docusaurus - [Enabling Search](https://docusaurus.io/docs/en/search)
