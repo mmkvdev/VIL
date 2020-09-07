@@ -21,3 +21,5 @@ makes it easy to maintain Open Source documentation websites.
 ### Docusaurus - [Publish the Site](https://docusaurus.io/docs/en/tutorial-publish-site)
 
 ### Docusaurus - [Enabling Search](https://docusaurus.io/docs/en/search)
+
+### Docusaurus - [docsearch](https://github.com/algolia/docsearch)
