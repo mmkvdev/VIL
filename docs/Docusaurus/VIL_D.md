@@ -17,3 +17,5 @@ makes it easy to maintain Open Source documentation websites.
 ### Docusaurus - [siteConfig.js](https://docusaurus.io/docs/en/site-config.html#optional-fields)
 
 ### Docusaurus - [Markdown Features](https://docusaurus.io/docs/en/doc-markdown)
+
+### Docusaurus - [Publish the Site](https://docusaurus.io/docs/en/tutorial-publish-site)
