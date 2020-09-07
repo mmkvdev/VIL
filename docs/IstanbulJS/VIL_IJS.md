@@ -2,8 +2,8 @@
 id: istanbuljs
 title: IstanbulJS
 sidebar_label: IstanbulJS
-
 ---
+
 ```javascript
 JavaScript test coverage made simple.
 ```
