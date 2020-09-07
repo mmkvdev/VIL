@@ -15,3 +15,5 @@ A tool for managing JavaScript projects with multiple packages
 ### Lerna - [Allow subdirectories within git repos in npm install #2974](https://github.com/npm/npm/issues/2974)
 
 ### Lerna - [How to check for outdated dependencies in packages. #1501](https://github.com/lerna/lerna/issues/1501)
+
+### Lerna - [How to update dependencies in sub-packages #2142](https://github.com/lerna/lerna/issues/2142)
