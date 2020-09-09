@@ -20,3 +20,6 @@ class-based, object-oriented programming language that is designed to have as fe
 
 
 ### Java - [Java - Exceptions](https://www.tutorialspoint.com/java/java_exceptions.htm#:~:text=An%20exception%20(or%20exceptional%20event,exceptions%20are%20to%20be%20handled.)
+
+
+### Java - [Subclass in Java](https://www.codesdope.com/java-subclass/)
