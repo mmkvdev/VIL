@@ -23,3 +23,5 @@ class-based, object-oriented programming language that is designed to have as fe
 
 
 ### Java - [Subclass in Java](https://www.codesdope.com/java-subclass/)
+
+### Java - [Java Interface](https://www.w3schools.com/java/java_interface.asp)
