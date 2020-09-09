@@ -17,3 +17,6 @@ class-based, object-oriented programming language that is designed to have as fe
 ### Java - [Exception Propagation in Java](https://www.geeksforgeeks.org/exception-propagation-java/)
 
 ### Java - [When does a.equals(a) return false?](https://stackoverflow.com/questions/23835182/when-does-a-equalsa-return-false#:~:text=For%20any%20non%2Dnull%20reference%20value%20x%2C%20x.&text=The%20equals%20method%20for%20class,y%20has%20the%20value%20true).)
+
+
+### Java - [Java - Exceptions](https://www.tutorialspoint.com/java/java_exceptions.htm#:~:text=An%20exception%20(or%20exceptional%20event,exceptions%20are%20to%20be%20handled.)
