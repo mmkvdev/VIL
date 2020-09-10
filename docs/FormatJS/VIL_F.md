@@ -23,3 +23,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [Intl.PluralRules](https://formatjs.io/docs/polyfills/intl-pluralrules/)
 
 ### FormatJS - [full-icu](https://www.npmjs.com/package/full-icu)
+
+### FormatJS - [Update How Locale Data is Added](https://formatjs.io/docs/react-intl/upgrade-guide-2x/#add-call-to-addlocaledata-in-browser)
