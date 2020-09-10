@@ -25,3 +25,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [full-icu](https://www.npmjs.com/package/full-icu)
 
 ### FormatJS - [Update How Locale Data is Added](https://formatjs.io/docs/react-intl/upgrade-guide-2x/#add-call-to-addlocaledata-in-browser)
+
+### FormatJS - [IntlProvider](https://formatjs.io/docs/react-intl/components/#intlprovider)
