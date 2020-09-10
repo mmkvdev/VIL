@@ -13,3 +13,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [react-intl: Upgrade Guide (v2 -> v3)](https://formatjs.io/docs/react-intl/upgrade-guide-3x/)
 
 ### FormatJS - [react-intl: formattedrelativetime](https://formatjs.io/docs/react-intl/upgrade-guide-3x/#formattedrelativetime)
+
+### FormatJS - [Upgrade Guide (v2 -> v3)](https://formatjs.io/docs/react-intl/upgrade-guide-3x/)
