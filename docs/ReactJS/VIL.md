@@ -598,3 +598,5 @@ sidebar_label: ReactJS
 ### React - [Introduction to Storybook for React](https://storybook.js.org/docs/react/get-started/introduction)
 
 ### React - [React Router v5.1](https://reacttraining.com/blog/react-router-v5-1/#meet-react-router-51)
+
+### React - [react-switch](https://www.npmjs.com/package/react-switch)
