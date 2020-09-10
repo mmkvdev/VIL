@@ -17,3 +17,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [Upgrade Guide (v2 -> v3)](https://formatjs.io/docs/react-intl/upgrade-guide-3x/)
 
 ### FormatJS - [Migrate to using native Intl APIs](https://formatjs.io/docs/react-intl/upgrade-guide-3x/#migrate-to-using-native-intl-apis)
+
+### FormatJS - [Intl.DateTimeFormat (ES2020)](https://formatjs.io/docs/polyfills/intl-datetimeformat/)
