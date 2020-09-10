@@ -27,3 +27,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [Update How Locale Data is Added](https://formatjs.io/docs/react-intl/upgrade-guide-2x/#add-call-to-addlocaledata-in-browser)
 
 ### FormatJS - [IntlProvider](https://formatjs.io/docs/react-intl/components/#intlprovider)
+
+### FormatJS - [IntlShape](https://formatjs.io/docs/react-intl/api/#intlshape)
