@@ -55,3 +55,5 @@ sidebar_label: Leetcode
 ### LeetCode - [Combinatorics](https://mathigon.org/world/Combinatorics)
 
 ### LeetCode - [24-hour clock](https://simple.wikipedia.org/wiki/24-hour_clock)
+
+### LeetCode - Bulls and Cows[](https://en.wikipedia.org/wiki/Bulls_and_Cows#cite_note-1)
