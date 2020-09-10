@@ -1,0 +1,107 @@
+{
+    "docs": {
+      "Actix": ["Actix/actix"],
+      "Algolia": ["Algolia/algolia"],
+      "Android Studio": ["AndroidStudio/androidstudio"],
+      "Arch Linux":["ArchLinux/archlinux"],
+      "Bash": ["Bash/bash"],
+      "Big Data": ["Big Data/bigdata"],
+      "Block Chain": ["BlockChain/blockchain"],
+      "C": ["C/c"],
+      "C++": ["C++/c++"],
+      "ChakraUI": ["ChakraUI/chakraui"],
+      "Commitizen": ["Commitizen/commitizen"],
+      "Coffee Script": ["Coffee Script/coffeescript"],
+      "Cross Note": ["CrossNote/crossnote"],
+      "Css": ["CSS/css"],
+      "Dart": ["Dart/dart"],
+      "Data Structures": ["Data Structures/datastructures"],
+      "DataBase": ["DataBase/database"],
+      "Deno": ["Deno/deno"],
+      "Docker": ["Docker/docker"],
+      "Docsify": ["Docsify/docsify"],
+      "Docusaurus": ["Docusaurus/docusaurus"],
+      "Electron": ["Electron/electron"],
+      "Emotion JS": ["EmotionJS/emotion"],
+      "Ethereum": ["Ethereum/ethereum"],
+      "ExpressJS": [
+        "ExpressJS/expressjs"
+      ],
+      "Fallback JS": ["Fallback/fallbackjs"],
+      "Fast API": ["FastAPI/fastapi"],
+      "Fauna": ["Fauna/fauna"],
+      "Format JS": ["FormatJS/formatjs"],
+      "Formik": [ 
+        "Formik/formik"
+      ],
+      "Git": [
+        "GIT/git"
+      ],
+      "GNU": ["GNU/gnu"],
+      "GraphQL": ["GraphQL/graphql"],
+      "Hapi.dev": ["Hapi/hapi"],
+      "Hermes Engine": ["Hermes/hermes"],
+      "Insomnia": ["Insomnia/insomnia"],
+      "IstanbulJS": ["IstanbulJS/istanbuljs"],
+      "ShieldsIO": ["ShieldsIO/shieldsIO"],
+      "Java": ["Java/java"],
+      "JavaScript": [
+        "JavaScript/javascript"
+      ],
+      "JSON": ["JSON/json"],
+      "Leetcode": ["LeetCode/leetcode"],
+      "Lerna": ["Lerna/lerna"],
+      "Linux": ["Linux/linux"],
+      "Lodash":["Lodash/lodash"],
+      "MarkDown Preview Enhanced": ["MarkDown Preview Enhanced/markdownpreviewenhanced"],
+      "Meld": ["Meld/meld"],
+      "Metro": ["Metro/metro"],
+      "MikrORM": ["MikrORM/mikrorm"],
+      "Mobx": ["Mobx/mobx"],
+      "Mocha": [
+        "Mocha/mocha"
+      ],
+      "MongoDB": ["MongoDB/mongodb"],
+      "Netlify": ["Netlify/netlify"],
+      "NextJS": [
+        "NextJS/nextjs"
+      ],
+      "NodeJS": ["NodeJS/nodejs"],
+      "Npm": ["npm/npm"],
+      "Open Source": ["OpenSource/opensource"],
+      "PHP": [
+        "PHP/php"
+      ],
+      "pnpm": ["PNpm/pnpm"],
+      "Polyfill": ["Polyfill/polyfill"],
+      "PostGreSQL": ["PostGreSQL/postgresql"],
+      "Post Man": [
+        "PostMan/postman"
+      ],
+      "Pug": ["Pug/pug"],
+      "PyDantic": ["PyDantic/pydantic"],
+      "Python": ["Python/python"],
+      "ReactJS": [
+        "ReactJS/reactjs"
+      ],
+      "React Native": ["ReactNative/reactnative"],
+      "Reason React": ["ReasonReact/reasonreact"],
+      "Shell Script": [
+        "ShellScript/shellscript"
+      ],
+      "SpringBoot": ["SpringBoot/springboot"],
+      "Starlette": ["Starlette/starlette"],
+      "Styled Wind": ["Styled Wind/styledwind"],
+      "Styled Components": ["styled-components/styled-components"],
+      "TerraForm":["TerraForm/terraform"],
+      "TypeScript": ["TypeScript/typescript"],
+      "unDraw":["unDraw/unDraw"],
+      "Unicode":["Unicode/unicode"],
+      "Vim": ["Vim/vim"],
+      "VS Code": ["VS/vscode"]
+    },
+    "docs-other": {
+      "First Category": ["doc4", "doc5"]
+    }
+  
+  }

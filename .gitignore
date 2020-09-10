@@ -6,15 +6,10 @@ lib/core/metadata.js
 lib/core/MetadataBlog.js
 
 website/translated_docs
-website/core
-website/i18n
-website/pages/en
-website/static
+website/build
 website/yarn.lock
 website/node_modules
 website/i18n/*
-website/sidebars.json
-website/siteConfig.js
 
 ### ignoring the docker
 docker-compose.yml
