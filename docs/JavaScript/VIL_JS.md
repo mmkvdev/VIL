@@ -337,3 +337,5 @@ A programming language that conforms to the ECMAScript specification.
 ### JS - [Intl.NumberFormat() constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat/NumberFormat)
 
 ### JS - [Intl.getCanonicalLocales()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/getCanonicalLocales)
+
+### JS - [Message Syntax](https://formatjs.io/docs/core-concepts/icu-syntax/)
