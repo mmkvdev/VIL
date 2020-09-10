@@ -7,3 +7,5 @@ sidebar_label: Unicode
 ### Unicode - [Full Emoji List, v13.0](https://unicode.org/emoji/charts/full-emoji-list.html)
 
 ### Unicode - [CLDR](http://cldr.unicode.org/)
+
+### Unicode - [Formatting Messages](http://userguide.icu-project.org/formatparse/messages)
