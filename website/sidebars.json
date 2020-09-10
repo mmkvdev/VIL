@@ -22,6 +22,7 @@
       "Docsify": ["Docsify/docsify"],
       "Docusaurus": ["Docusaurus/docusaurus"],
       "Electron": ["Electron/electron"],
+      "Ember": ["Ember/ember"],
       "Emotion JS": ["EmotionJS/emotion"],
       "Ethereum": ["Ethereum/ethereum"],
       "ExpressJS": [
