@@ -329,3 +329,5 @@ A programming language that conforms to the ECMAScript specification.
 ### JS - [Roadmap to Learn JavaScript](https://flaviocopes.com/javascript/)
 
 ### JS - [Intl.PluralRules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/PluralRules)
+
+### JS - [Intl.RelativeTimeFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/RelativeTimeFormat)
