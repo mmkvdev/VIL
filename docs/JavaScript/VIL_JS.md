@@ -327,3 +327,5 @@ A programming language that conforms to the ECMAScript specification.
 ### JS - [fallback](https://developer.mozilla.org/en-US/docs/Web/CSS/@counter-style/fallback)
 
 ### JS - [Roadmap to Learn JavaScript](https://flaviocopes.com/javascript/)
+
+### JS - [Intl.PluralRules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/PluralRules)
