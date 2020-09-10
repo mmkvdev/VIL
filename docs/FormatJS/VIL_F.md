@@ -21,3 +21,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [Intl.DateTimeFormat (ES2020)](https://formatjs.io/docs/polyfills/intl-datetimeformat/)
 
 ### FormatJS - [Intl.PluralRules](https://formatjs.io/docs/polyfills/intl-pluralrules/)
+
+### FormatJS - [full-icu](https://www.npmjs.com/package/full-icu)
