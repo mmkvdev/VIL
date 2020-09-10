@@ -57,3 +57,5 @@ sidebar_label: Leetcode
 ### LeetCode - [24-hour clock](https://simple.wikipedia.org/wiki/24-hour_clock)
 
 ### LeetCode - Bulls and Cows[](https://en.wikipedia.org/wiki/Bulls_and_Cows#cite_note-1)
+
+### LeetCode - [Optimal algorithms for mastermind and bulls-cows games](http://slovesnov.users.sourceforge.net/index.php?bullscows,english)
