@@ -21,3 +21,5 @@ npm is a package manager for the JavaScript programming language. It is the defa
 ### npm - [Store.js](https://www.npmjs.com/package/store#make-your-own-build)
 
 ### npm - [npm-update](https://docs.npmjs.com/cli/update)
+
+### npm - [cross-env](https://www.npmjs.com/package/cross-env)
