@@ -29,3 +29,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [IntlProvider](https://formatjs.io/docs/react-intl/components/#intlprovider)
 
 ### FormatJS - [IntlShape](https://formatjs.io/docs/react-intl/api/#intlshape)
+
+### FormatJS - [FormattedRelativeTime](https://formatjs.io/docs/react-intl/components/#formattedrelativetime)
