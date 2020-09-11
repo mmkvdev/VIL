@@ -1,5 +1,5 @@
 
-<h1 style="font-size: 60px;font-family:'SF Pro Display';" align="center">
+<h1 style="font-size: 30px;" align="center">
     <p style="color:#2e8555">VERY IMPORTANT LINKS AND DOCUMENTATION</p>
 </h1>
 
