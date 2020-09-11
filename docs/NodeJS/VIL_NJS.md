@@ -88,3 +88,5 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 ### Node - [Embed the entire ICU (full-icu)](https://nodejs.org/api/intl.html#intl_embed_the_entire_icu_full_icu)
 
 ### Node - [NODE_ICU_DATA=file](https://nodejs.org/api/cli.html#cli_node_icu_data_file)
+
+### Node - [Providing ICU data at runtime](https://nodejs.org/api/intl.html#intl_providing_icu_data_at_runtime)
