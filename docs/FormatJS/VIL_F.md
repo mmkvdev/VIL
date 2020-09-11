@@ -35,3 +35,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [formatRelativeTime](https://formatjs.io/docs/react-intl/api/#formatrelativetime)
 
 ### FormatJS - [FormattedRelativeTime with positive value and updateIntervalInSeconds. #1455](https://github.com/formatjs/formatjs/issues/1455)
+
+### FormatJS - [Intl.getCanonicalLocales](https://formatjs.io/docs/polyfills/intl-getcanonicallocales/)
