@@ -84,3 +84,5 @@ Node.js is an open-source, cross-platform, JavaScript runtime environment that e
 ### Node - [pnpm’s strictness helps to avoid silly bugs](https://medium.com/pnpm/pnpms-strictness-helps-to-avoid-silly-bugs-9a15fb306308)
 
 ### Node - [Node.js v14.10.0 Documentation](https://nodejs.org/api/intl.html)
+
+### Node - [Embed the entire ICU (full-icu)](https://nodejs.org/api/intl.html#intl_embed_the_entire_icu_full_icu)
