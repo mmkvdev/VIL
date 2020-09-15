@@ -600,3 +600,5 @@ sidebar_label: ReactJS
 ### React - [React Router v5.1](https://reacttraining.com/blog/react-router-v5-1/#meet-react-router-51)
 
 ### React - [react-switch](https://www.npmjs.com/package/react-switch)
+
+### React - [Build A Confirmation Modal in React with State Machines](https://daveceddia.com/react-confirmation-modal-state-machine/)
