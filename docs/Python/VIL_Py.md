@@ -129,3 +129,5 @@ Python is an interpreted, high-level and general-purpose programming language.
 ### Python - [Python Operators](https://www.w3schools.com/python/python_operators.asp)
 
 ### Python - [Python String index()](https://www.programiz.com/python-programming/methods/string/index)
+
+### Python - [The Python range() Function (Guide)](https://realpython.com/python-range/)
