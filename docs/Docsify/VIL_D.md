@@ -15,3 +15,5 @@ A magical documentation site generator.
 ### Docsify - [More pages](https://docsify.js.org/#/more-pages)
 
 ### Docsify - [docsify-cli](https://github.com/docsifyjs/docsify-cli)
+
+### Docsify - [Deploy](https://docsify.js.org/#/deploy?id=deploy)
