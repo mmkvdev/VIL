@@ -59,3 +59,5 @@ sidebar_label: Leetcode
 ### LeetCode - Bulls and Cows[](https://en.wikipedia.org/wiki/Bulls_and_Cows#cite_note-1)
 
 ### LeetCode - [Optimal algorithms for mastermind and bulls-cows games](http://slovesnov.users.sourceforge.net/index.php?bullscows,english)
+
+### LeetCode - [A Mathematical Approach to the Simple Bulls and Cows Code Breaking Game](https://www.grin.com/document/312138#:~:text=The%20code%2Dbreaker%20tries%20to,the%20least%20number%20of%20attempts.)
