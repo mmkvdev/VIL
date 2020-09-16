@@ -13,3 +13,5 @@ sidebar_label: Unicode
 ### Unicode - [ICU-docs - International Components for Unicode Docs](https://unicode-org.github.io/icu-docs/#/icu4c/classMessageFormat.html)
 
 ### Unicode - [ICU-TC Home Page](http://site.icu-project.org/)
+
+### Unicode - [ICU Data](http://userguide.icu-project.org/icudata)
