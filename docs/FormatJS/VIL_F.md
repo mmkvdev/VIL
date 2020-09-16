@@ -39,3 +39,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [Intl.getCanonicalLocales](https://formatjs.io/docs/polyfills/intl-getcanonicallocales/)
 
 ### FormatJS - [useIntl hook](https://formatjs.io/docs/react-intl/api/#useintl-hook)
+
+### FormatJS - [Intl MessageFormat](https://formatjs.io/docs/intl-messageformat/)
