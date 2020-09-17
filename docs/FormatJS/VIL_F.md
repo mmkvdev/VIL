@@ -49,3 +49,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [polyfill-library](https://github.com/Financial-Times/polyfill-library)
 
 ### FormatJS - [Intl.NumberFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat)
+
+### FormatJS - [Intl.DateTimeFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat)
