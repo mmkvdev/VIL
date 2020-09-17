@@ -41,3 +41,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [useIntl hook](https://formatjs.io/docs/react-intl/api/#useintl-hook)
 
 ### FormatJS - [Intl MessageFormat](https://formatjs.io/docs/intl-messageformat/)
+
+### FormatJS - [Message Distribution](https://formatjs.io/docs/getting-started/message-distribution/)
