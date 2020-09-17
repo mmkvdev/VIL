@@ -47,3 +47,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [Runtime Requirements](https://formatjs.io/docs/guides/runtime-requirements/#nodejs)
 
 ### FormatJS - [polyfill-library](https://github.com/Financial-Times/polyfill-library)
+
+### FormatJS - [Intl.NumberFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat)
