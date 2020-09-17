@@ -45,3 +45,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [Message Distribution](https://formatjs.io/docs/getting-started/message-distribution/)
 
 ### FormatJS - [Runtime Requirements](https://formatjs.io/docs/guides/runtime-requirements/#nodejs)
+
+### FormatJS - [polyfill-library](https://github.com/Financial-Times/polyfill-library)
