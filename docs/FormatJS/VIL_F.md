@@ -43,3 +43,5 @@ Internationalize your web apps on the client & server.
 ### FormatJS - [Intl MessageFormat](https://formatjs.io/docs/intl-messageformat/)
 
 ### FormatJS - [Message Distribution](https://formatjs.io/docs/getting-started/message-distribution/)
+
+### FormatJS - [Runtime Requirements](https://formatjs.io/docs/guides/runtime-requirements/#nodejs)
