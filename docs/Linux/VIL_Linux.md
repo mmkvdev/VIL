@@ -49,3 +49,5 @@ sidebar_label: Linux
 ### Linux - [Blueman – Bluetooth manager for Ubuntu](https://www.ubuntugeek.com/blueman-bluetooth-manager-for-ubuntu.html)
 
 ### Linux - [Moving Panel in Visual Studio Code to right side](https://stackoverflow.com/questions/41874426/moving-panel-in-visual-studio-code-to-right-side)
+
+### Linux - [Kernel](https://www.redhat.com/en/topics/linux/what-is-the-linux-kernel)
