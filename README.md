@@ -17,7 +17,7 @@
 <div>
     <p style="font-family: 'SF Pro Display';color: #24292e;font-size:100px" align="center">Built using: </p>
     <div align="center">
-        <img width="150" height="50" src="https://docusaurus.io/img/docusaurus_keytar.svg"/>
+        <img width="150" height="100" src="https://docusaurus.io/img/docusaurus_keytar.svg"/>
         <img width="150" height="50" src="https://docsearch.algolia.com/img/algolia-logo.svg"/>
         <img width="150" height="100" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
         <img width="200" height="130" src="https://42f2671d685f51e10fc6-b9fcecea3e50b3b59bdc28dead054ebc.ssl.cf5.rackcdn.com/v2/undraw_social_20.png" />
