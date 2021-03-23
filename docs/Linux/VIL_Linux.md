@@ -51,3 +51,6 @@ sidebar_label: Linux
 ### Linux - [Moving Panel in Visual Studio Code to right side](https://stackoverflow.com/questions/41874426/moving-panel-in-visual-studio-code-to-right-side)
 
 ### Linux - [Kernel](https://www.redhat.com/en/topics/linux/what-is-the-linux-kernel)
+
+
+### Linux - [Fixing Error Broken Count Ubuntu 20.04](https://tutorialforlinux.com/2020/04/08/ubuntu-20-04-fix-error-broken-count-0-issue-easy-guide/)
