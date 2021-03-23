@@ -602,3 +602,5 @@ sidebar_label: ReactJS
 ### React - [react-switch](https://www.npmjs.com/package/react-switch)
 
 ### React - [Build A Confirmation Modal in React with State Machines](https://daveceddia.com/react-confirmation-modal-state-machine/)
+
+### React - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
