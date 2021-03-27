@@ -58,3 +58,5 @@ sidebar_label: Linux
 ### Linux - [What does: Error Broken count > 0 mean?](https://askubuntu.com/questions/263460/what-does-error-broken-count-0-mean)
 
 ### Linux - [who Command in Linux](https://linuxize.com/post/who-command-in-linux/)
+
+### Linux - [Run Levels in Linux](https://www.geeksforgeeks.org/run-levels-linux/)
