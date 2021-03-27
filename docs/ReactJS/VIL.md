@@ -604,3 +604,5 @@ sidebar_label: ReactJS
 ### React - [Build A Confirmation Modal in React with State Machines](https://daveceddia.com/react-confirmation-modal-state-machine/)
 
 ### React - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+### React - [Performant and powerful data synchronization for React](https://react-query.tanstack.com/)
