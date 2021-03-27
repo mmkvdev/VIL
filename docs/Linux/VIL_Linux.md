@@ -56,3 +56,5 @@ sidebar_label: Linux
 ### Linux - [Fixing Error Broken Count Ubuntu 20.04](https://tutorialforlinux.com/2020/04/08/ubuntu-20-04-fix-error-broken-count-0-issue-easy-guide/)
 
 ### Linux - [What does: Error Broken count > 0 mean?](https://askubuntu.com/questions/263460/what-does-error-broken-count-0-mean)
+
+### Linux - [who Command in Linux](https://linuxize.com/post/who-command-in-linux/)
