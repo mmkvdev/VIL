@@ -61,6 +61,7 @@
       "Meld": ["Meld/meld"],
       "Metro": ["Metro/metro"],
       "MikrORM": ["MikrORM/mikrorm"],
+      "MINIX-3":["MINIX-3/minix-3"],
       "Mobx": ["Mobx/mobx"],
       "Mocha": [
         "Mocha/mocha"
