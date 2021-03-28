@@ -60,3 +60,5 @@ sidebar_label: Linux
 ### Linux - [who Command in Linux](https://linuxize.com/post/who-command-in-linux/)
 
 ### Linux - [Run Levels in Linux](https://www.geeksforgeeks.org/run-levels-linux/)
+
+### Linux - [How to open a particular file from a terminal?](https://superuser.com/questions/477819/how-to-open-a-particular-file-from-a-terminal)
