@@ -122,3 +122,5 @@ a distributed version-control system for tracking changes in source code during 
 ### GIT - [Automate your workflow from idea to production](https://github.com/features/actions)
 
 ### GIT - [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+
+### GIT - [Git Cherry Pick](https://www.atlassian.com/git/tutorials/cherry-pick)
