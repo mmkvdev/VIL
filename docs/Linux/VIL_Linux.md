@@ -62,3 +62,5 @@ sidebar_label: Linux
 ### Linux - [Run Levels in Linux](https://www.geeksforgeeks.org/run-levels-linux/)
 
 ### Linux - [How to open a particular file from a terminal?](https://superuser.com/questions/477819/how-to-open-a-particular-file-from-a-terminal)
+
+### Linux - [Bash/Prompt customization](https://wiki.archlinux.org/index.php/Bash/Prompt_customization)
