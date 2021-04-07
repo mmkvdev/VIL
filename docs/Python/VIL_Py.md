@@ -131,3 +131,5 @@ Python is an interpreted, high-level and general-purpose programming language.
 ### Python - [Python String index()](https://www.programiz.com/python-programming/methods/string/index)
 
 ### Python - [The Python range() Function (Guide)](https://realpython.com/python-range/)
+
+### Python - [How to set environment variables for your web apps (for SECRET_KEY etc)](https://help.pythonanywhere.com/pages/environment-variables-for-web-apps/)
