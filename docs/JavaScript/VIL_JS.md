@@ -342,3 +342,6 @@ A programming language that conforms to the ECMAScript specification.
 
 
 ### JS - [Streams](https://web.dev/streams/)
+
+
+### JS - [ReferenceError: fetch is not defined](https://www.theverge.com/2019/6/4/18651872/apple-macos-catalina-zsh-bash-shell-replacement-features)
