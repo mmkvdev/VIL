@@ -47,6 +47,7 @@
       "Hermes Engine": ["Hermes/hermes"],
       "Insomnia": ["Insomnia/insomnia"],
       "IstanbulJS": ["IstanbulJS/istanbuljs"],
+      "Ionic": ["Ionic/ionic"],
       "ShieldsIO": ["ShieldsIO/shieldsIO"],
       "Java": ["Java/java"],
       "JavaScript": [
