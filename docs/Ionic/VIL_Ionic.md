@@ -1,3 +1,9 @@
+---
+id: ionic
+title: Ionic
+sidebar_label: Ionic
+---
+
 ### Ionic React
 
 
