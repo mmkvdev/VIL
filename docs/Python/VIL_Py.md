@@ -133,3 +133,5 @@ Python is an interpreted, high-level and general-purpose programming language.
 ### Python - [The Python range() Function (Guide)](https://realpython.com/python-range/)
 
 ### Python - [How to set environment variables for your web apps (for SECRET_KEY etc)](https://help.pythonanywhere.com/pages/environment-variables-for-web-apps/)
+
+### Python - [How to convert an integer to a list in Python](https://www.kite.com/python/answers/how-to-convert-an-integer-to-a-list-in-python#:~:text=Use%20map()%20to%20convert,each%20digit%20in%20the%20string.)
