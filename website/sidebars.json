@@ -109,7 +109,8 @@
       "unDraw":["unDraw/unDraw"],
       "Unicode":["Unicode/unicode"],
       "Vim": ["Vim/vim"],
-      "VS Code": ["VS/vscode"]
+      "VS Code": ["VS/vscode"],
+      "Web Pack": ["Webpack/webpack"],
     },
     "docs-other": {
       "First Category": ["doc4", "doc5"]
